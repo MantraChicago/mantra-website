@@ -55439,3 +55439,4404 @@ Served asset /cabin-bold-webfont.woff - 304 Not Modified (0ms)
 
 Started GET "/assets/cabin-bolditalic-webfont.woff" for 127.0.0.1 at 2013-05-31 01:35:41 -0500
 Served asset /cabin-bolditalic-webfont.woff - 304 Not Modified (0ms)
+
+
+Started GET "/index" for 127.0.0.1 at 2013-05-31 01:48:26 -0500
+Processing by PagesController#index as HTML
+  Rendered pages/index.html.erb within layouts/application (0.0ms)
+  Rendered shared/_topbar.erb (0.0ms)
+  Rendered shared/_rightbar.erb (0.0ms)
+Completed 200 OK in 17ms (Views: 16.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/articles.css?body=1" for 127.0.0.1 at 2013-05-31 01:48:26 -0500
+Served asset /articles.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/active_admin.css?body=1" for 127.0.0.1 at 2013-05-31 01:48:26 -0500
+Served asset /active_admin.css - 304 Not Modified (1ms)
+
+
+Started GET "/assets/bigvideo.css?body=1" for 127.0.0.1 at 2013-05-31 01:48:26 -0500
+Served asset /bigvideo.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/foundation.css?body=1" for 127.0.0.1 at 2013-05-31 01:48:27 -0500
+Served asset /foundation.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.mCustomScrollbar.css?body=1" for 127.0.0.1 at 2013-05-31 01:48:27 -0500
+Served asset /jquery.mCustomScrollbar.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/reveal.css?body=1" for 127.0.0.1 at 2013-05-31 01:48:27 -0500
+Served asset /reveal.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2013-05-31 01:48:27 -0500
+Served asset /application.css - 304 Not Modified (1ms)
+
+
+Started GET "/assets/modernizr.js?body=1" for 127.0.0.1 at 2013-05-31 01:48:27 -0500
+Served asset /modernizr.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2013-05-31 01:48:27 -0500
+Served asset /jquery.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.easing.1.3.js?body=1" for 127.0.0.1 at 2013-05-31 01:48:27 -0500
+Served asset /jquery.easing.1.3.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery-ui.js?body=1" for 127.0.0.1 at 2013-05-31 01:48:27 -0500
+Served asset /jquery-ui.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.imagesloaded.min.js?body=1" for 127.0.0.1 at 2013-05-31 01:48:27 -0500
+Served asset /jquery.imagesloaded.min.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.scrollTo.js?body=1" for 127.0.0.1 at 2013-05-31 01:48:27 -0500
+Served asset /jquery.scrollTo.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/video.js?body=1" for 127.0.0.1 at 2013-05-31 01:48:27 -0500
+Served asset /video.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.fitvids.js?body=1" for 127.0.0.1 at 2013-05-31 01:48:27 -0500
+Served asset /jquery.fitvids.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.mCustomScrollbar.min.js?body=1" for 127.0.0.1 at 2013-05-31 01:48:27 -0500
+Served asset /jquery.mCustomScrollbar.min.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.reveal.js?body=1" for 127.0.0.1 at 2013-05-31 01:48:27 -0500
+Served asset /jquery.reveal.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.hoverIntent.minified.js?body=1" for 127.0.0.1 at 2013-05-31 01:48:27 -0500
+Served asset /jquery.hoverIntent.minified.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bigvideo.js?body=1" for 127.0.0.1 at 2013-05-31 01:48:27 -0500
+Served asset /bigvideo.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2013-05-31 01:48:27 -0500
+Served asset /application.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bgs/1.jpg" for 127.0.0.1 at 2013-05-31 01:48:27 -0500
+Served asset /bgs/1.jpg - 304 Not Modified (0ms)
+
+
+Started GET "/assets/ui/topbar-logo.png" for 127.0.0.1 at 2013-05-31 01:48:27 -0500
+Served asset /ui/topbar-logo.png - 304 Not Modified (0ms)
+
+
+Started GET "/assets/ui/topbar-dropdown-arrow.png" for 127.0.0.1 at 2013-05-31 01:48:27 -0500
+Served asset /ui/topbar-dropdown-arrow.png - 304 Not Modified (0ms)
+
+
+Started GET "/assets/topbar-bg.jpg" for 127.0.0.1 at 2013-05-31 01:48:27 -0500
+Served asset /topbar-bg.jpg - 304 Not Modified (0ms)
+
+
+Started GET "/assets/ui/topbar-dropdown-bg.jpg" for 127.0.0.1 at 2013-05-31 01:48:27 -0500
+Served asset /ui/topbar-dropdown-bg.jpg - 304 Not Modified (0ms)
+
+
+Started GET "/assets/ui/topbar-limiter.png" for 127.0.0.1 at 2013-05-31 01:48:27 -0500
+Served asset /ui/topbar-limiter.png - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bgs/home_bg.jpg" for 127.0.0.1 at 2013-05-31 01:48:27 -0500
+Served asset /bgs/home_bg.jpg - 304 Not Modified (0ms)
+
+
+Started GET "/assets/ui/blue-noise.gif" for 127.0.0.1 at 2013-05-31 01:48:27 -0500
+Served asset /ui/blue-noise.gif - 304 Not Modified (0ms)
+
+
+Started GET "/assets/cabin-bold-webfont.woff" for 127.0.0.1 at 2013-05-31 01:48:27 -0500
+Served asset /cabin-bold-webfont.woff - 304 Not Modified (0ms)
+
+
+Started GET "/assets/cabin-bolditalic-webfont.woff" for 127.0.0.1 at 2013-05-31 01:48:27 -0500
+Served asset /cabin-bolditalic-webfont.woff - 304 Not Modified (0ms)
+
+
+Started GET "/tour" for 127.0.0.1 at 2013-05-31 01:48:28 -0500
+Processing by PagesController#tour as HTML
+  Rendered pages/tour.html.erb within layouts/application (2.7ms)
+  Rendered shared/_topbar.erb (0.0ms)
+  Rendered shared/_rightbar.erb (0.0ms)
+Completed 200 OK in 21ms (Views: 21.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/active_admin.css?body=1" for 127.0.0.1 at 2013-05-31 01:48:28 -0500
+Served asset /active_admin.css - 304 Not Modified (2ms)
+
+
+Started GET "/assets/bigvideo.css?body=1" for 127.0.0.1 at 2013-05-31 01:48:28 -0500
+Served asset /bigvideo.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/articles.css?body=1" for 127.0.0.1 at 2013-05-31 01:48:28 -0500
+Served asset /articles.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/foundation.css?body=1" for 127.0.0.1 at 2013-05-31 01:48:28 -0500
+Served asset /foundation.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/reveal.css?body=1" for 127.0.0.1 at 2013-05-31 01:48:28 -0500
+Served asset /reveal.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.mCustomScrollbar.css?body=1" for 127.0.0.1 at 2013-05-31 01:48:28 -0500
+Served asset /jquery.mCustomScrollbar.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2013-05-31 01:48:28 -0500
+Served asset /application.css - 304 Not Modified (2ms)
+
+
+Started GET "/assets/modernizr.js?body=1" for 127.0.0.1 at 2013-05-31 01:48:28 -0500
+Served asset /modernizr.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2013-05-31 01:48:28 -0500
+Served asset /jquery.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.easing.1.3.js?body=1" for 127.0.0.1 at 2013-05-31 01:48:28 -0500
+Served asset /jquery.easing.1.3.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery-ui.js?body=1" for 127.0.0.1 at 2013-05-31 01:48:28 -0500
+Served asset /jquery-ui.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.imagesloaded.min.js?body=1" for 127.0.0.1 at 2013-05-31 01:48:28 -0500
+Served asset /jquery.imagesloaded.min.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.scrollTo.js?body=1" for 127.0.0.1 at 2013-05-31 01:48:28 -0500
+Served asset /jquery.scrollTo.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/video.js?body=1" for 127.0.0.1 at 2013-05-31 01:48:28 -0500
+Served asset /video.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.fitvids.js?body=1" for 127.0.0.1 at 2013-05-31 01:48:28 -0500
+Served asset /jquery.fitvids.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.mCustomScrollbar.min.js?body=1" for 127.0.0.1 at 2013-05-31 01:48:28 -0500
+Served asset /jquery.mCustomScrollbar.min.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.reveal.js?body=1" for 127.0.0.1 at 2013-05-31 01:48:28 -0500
+Served asset /jquery.reveal.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.hoverIntent.minified.js?body=1" for 127.0.0.1 at 2013-05-31 01:48:28 -0500
+Served asset /jquery.hoverIntent.minified.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bigvideo.js?body=1" for 127.0.0.1 at 2013-05-31 01:48:28 -0500
+Served asset /bigvideo.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2013-05-31 01:48:28 -0500
+Served asset /application.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/tour.js?body=1" for 127.0.0.1 at 2013-05-31 01:48:28 -0500
+Served asset /tour.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bgs/1.jpg" for 127.0.0.1 at 2013-05-31 01:48:28 -0500
+Served asset /bgs/1.jpg - 304 Not Modified (0ms)
+
+
+Started GET "/assets/ui/topbar-logo.png" for 127.0.0.1 at 2013-05-31 01:48:28 -0500
+Served asset /ui/topbar-logo.png - 304 Not Modified (0ms)
+
+
+Started GET "/assets/ui/white-arrow-right.png" for 127.0.0.1 at 2013-05-31 01:48:28 -0500
+Served asset /ui/white-arrow-right.png - 304 Not Modified (0ms)
+
+
+Started GET "/assets/ui/topbar-dropdown-arrow.png" for 127.0.0.1 at 2013-05-31 01:48:28 -0500
+Served asset /ui/topbar-dropdown-arrow.png - 304 Not Modified (0ms)
+
+
+Started GET "/assets/ui/white-arrow-left.png" for 127.0.0.1 at 2013-05-31 01:48:28 -0500
+Served asset /ui/white-arrow-left.png - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bgs/tour.jpg" for 127.0.0.1 at 2013-05-31 01:48:28 -0500
+Served asset /bgs/tour.jpg - 304 Not Modified (0ms)
+
+
+Started GET "/assets/topbar-bg.jpg" for 127.0.0.1 at 2013-05-31 01:48:28 -0500
+Served asset /topbar-bg.jpg - 304 Not Modified (0ms)
+
+
+Started GET "/assets/ui/topbar-limiter.png" for 127.0.0.1 at 2013-05-31 01:48:28 -0500
+Served asset /ui/topbar-limiter.png - 304 Not Modified (0ms)
+
+
+Started GET "/assets/ui/topbar-dropdown-bg.jpg" for 127.0.0.1 at 2013-05-31 01:48:28 -0500
+Served asset /ui/topbar-dropdown-bg.jpg - 304 Not Modified (0ms)
+
+
+Started GET "/assets/ui/tour-arrow.png" for 127.0.0.1 at 2013-05-31 01:48:28 -0500
+Served asset /ui/tour-arrow.png - 304 Not Modified (0ms)
+
+
+Started GET "/assets/ui/keyboard.png" for 127.0.0.1 at 2013-05-31 01:48:28 -0500
+Served asset /ui/keyboard.png - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bgs/v1.jpg" for 127.0.0.1 at 2013-05-31 01:48:28 -0500
+Served asset /bgs/v1.jpg - 304 Not Modified (0ms)
+
+
+Started GET "/assets/ui/blue-noise.gif" for 127.0.0.1 at 2013-05-31 01:48:28 -0500
+Served asset /ui/blue-noise.gif - 304 Not Modified (0ms)
+
+
+Started GET "/assets/cabin-bold-webfont.woff" for 127.0.0.1 at 2013-05-31 01:48:28 -0500
+Served asset /cabin-bold-webfont.woff - 304 Not Modified (0ms)
+
+
+Started GET "/assets/ui/pdf.png" for 127.0.0.1 at 2013-05-31 01:48:30 -0500
+Served asset /ui/pdf.png - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bgs/v2.jpg" for 127.0.0.1 at 2013-05-31 01:48:30 -0500
+Served asset /bgs/v2.jpg - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bgs/v1.jpg" for 127.0.0.1 at 2013-05-31 01:48:32 -0500
+Served asset /bgs/v1.jpg - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bgs/v1.jpg" for 127.0.0.1 at 2013-05-31 01:48:33 -0500
+Served asset /bgs/v1.jpg - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bgs/v2.jpg" for 127.0.0.1 at 2013-05-31 01:48:34 -0500
+Served asset /bgs/v2.jpg - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bgs/v2.jpg" for 127.0.0.1 at 2013-05-31 01:48:34 -0500
+Served asset /bgs/v2.jpg - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bgs/v3.jpg" for 127.0.0.1 at 2013-05-31 01:48:40 -0500
+Served asset /bgs/v3.jpg - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bgs/v3.jpg" for 127.0.0.1 at 2013-05-31 01:48:41 -0500
+Served asset /bgs/v3.jpg - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bgs/v4.jpg" for 127.0.0.1 at 2013-05-31 01:48:47 -0500
+Served asset /bgs/v4.jpg - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bgs/v4.jpg" for 127.0.0.1 at 2013-05-31 01:48:47 -0500
+Served asset /bgs/v4.jpg - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bgs/v3.jpg" for 127.0.0.1 at 2013-05-31 01:48:53 -0500
+Served asset /bgs/v3.jpg - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bgs/v3.jpg" for 127.0.0.1 at 2013-05-31 01:48:53 -0500
+Served asset /bgs/v3.jpg - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bgs/v4.jpg" for 127.0.0.1 at 2013-05-31 01:48:54 -0500
+Served asset /bgs/v4.jpg - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bgs/v4.jpg" for 127.0.0.1 at 2013-05-31 01:48:55 -0500
+Served asset /bgs/v4.jpg - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bgs/v5.jpg" for 127.0.0.1 at 2013-05-31 01:48:58 -0500
+Served asset /bgs/v5.jpg - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bgs/v5.jpg" for 127.0.0.1 at 2013-05-31 01:48:59 -0500
+Served asset /bgs/v5.jpg - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bgs/v6.jpg" for 127.0.0.1 at 2013-05-31 01:49:01 -0500
+Served asset /bgs/v6.jpg - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bgs/v6.jpg" for 127.0.0.1 at 2013-05-31 01:49:02 -0500
+Served asset /bgs/v6.jpg - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bgs/v7.jpg" for 127.0.0.1 at 2013-05-31 01:49:04 -0500
+Served asset /bgs/v7.jpg - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bgs/v7.jpg" for 127.0.0.1 at 2013-05-31 01:49:04 -0500
+Served asset /bgs/v7.jpg - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bgs/v6.jpg" for 127.0.0.1 at 2013-05-31 01:49:06 -0500
+Served asset /bgs/v6.jpg - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bgs/v6.jpg" for 127.0.0.1 at 2013-05-31 01:49:06 -0500
+Served asset /bgs/v6.jpg - 304 Not Modified (0ms)
+
+
+Started GET "/tour" for 127.0.0.1 at 2013-05-31 01:49:20 -0500
+Processing by PagesController#tour as HTML
+  Rendered pages/tour.html.erb within layouts/application (3.6ms)
+  Rendered shared/_topbar.erb (0.1ms)
+  Rendered shared/_rightbar.erb (0.0ms)
+Completed 200 OK in 25ms (Views: 24.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/active_admin.css?body=1" for 127.0.0.1 at 2013-05-31 01:49:20 -0500
+Served asset /active_admin.css - 304 Not Modified (1ms)
+
+
+Started GET "/assets/articles.css?body=1" for 127.0.0.1 at 2013-05-31 01:49:20 -0500
+Served asset /articles.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/foundation.css?body=1" for 127.0.0.1 at 2013-05-31 01:49:20 -0500
+Served asset /foundation.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bigvideo.css?body=1" for 127.0.0.1 at 2013-05-31 01:49:20 -0500
+Served asset /bigvideo.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.mCustomScrollbar.css?body=1" for 127.0.0.1 at 2013-05-31 01:49:20 -0500
+Served asset /jquery.mCustomScrollbar.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/reset.css?body=1" for 127.0.0.1 at 2013-05-31 01:49:20 -0500
+Served asset /reset.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/reveal.css?body=1" for 127.0.0.1 at 2013-05-31 01:49:20 -0500
+Served asset /reveal.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2013-05-31 01:49:20 -0500
+Served asset /application.css - 304 Not Modified (2ms)
+
+
+Started GET "/assets/modernizr.js?body=1" for 127.0.0.1 at 2013-05-31 01:49:20 -0500
+Served asset /modernizr.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2013-05-31 01:49:20 -0500
+Served asset /jquery.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.easing.1.3.js?body=1" for 127.0.0.1 at 2013-05-31 01:49:20 -0500
+Served asset /jquery.easing.1.3.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery-ui.js?body=1" for 127.0.0.1 at 2013-05-31 01:49:20 -0500
+Served asset /jquery-ui.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.imagesloaded.min.js?body=1" for 127.0.0.1 at 2013-05-31 01:49:20 -0500
+Served asset /jquery.imagesloaded.min.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.scrollTo.js?body=1" for 127.0.0.1 at 2013-05-31 01:49:20 -0500
+Served asset /jquery.scrollTo.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/video.js?body=1" for 127.0.0.1 at 2013-05-31 01:49:20 -0500
+Served asset /video.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.fitvids.js?body=1" for 127.0.0.1 at 2013-05-31 01:49:20 -0500
+Served asset /jquery.fitvids.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.mCustomScrollbar.min.js?body=1" for 127.0.0.1 at 2013-05-31 01:49:20 -0500
+Served asset /jquery.mCustomScrollbar.min.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.reveal.js?body=1" for 127.0.0.1 at 2013-05-31 01:49:20 -0500
+Served asset /jquery.reveal.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.hoverIntent.minified.js?body=1" for 127.0.0.1 at 2013-05-31 01:49:20 -0500
+Served asset /jquery.hoverIntent.minified.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bigvideo.js?body=1" for 127.0.0.1 at 2013-05-31 01:49:20 -0500
+Served asset /bigvideo.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2013-05-31 01:49:20 -0500
+Served asset /application.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/tour.js?body=1" for 127.0.0.1 at 2013-05-31 01:49:20 -0500
+Served asset /tour.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bgs/1.jpg" for 127.0.0.1 at 2013-05-31 01:49:20 -0500
+Served asset /bgs/1.jpg - 304 Not Modified (0ms)
+
+
+Started GET "/assets/ui/topbar-logo.png" for 127.0.0.1 at 2013-05-31 01:49:20 -0500
+Served asset /ui/topbar-logo.png - 304 Not Modified (0ms)
+
+
+Started GET "/assets/ui/topbar-dropdown-arrow.png" for 127.0.0.1 at 2013-05-31 01:49:20 -0500
+Served asset /ui/topbar-dropdown-arrow.png - 304 Not Modified (0ms)
+
+
+Started GET "/assets/ui/white-arrow-left.png" for 127.0.0.1 at 2013-05-31 01:49:20 -0500
+Served asset /ui/white-arrow-left.png - 304 Not Modified (0ms)
+
+
+Started GET "/assets/ui/white-arrow-right.png" for 127.0.0.1 at 2013-05-31 01:49:20 -0500
+Served asset /ui/white-arrow-right.png - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bgs/tour.jpg" for 127.0.0.1 at 2013-05-31 01:49:21 -0500
+Served asset /bgs/tour.jpg - 304 Not Modified (0ms)
+
+
+Started GET "/assets/topbar-bg.jpg" for 127.0.0.1 at 2013-05-31 01:49:21 -0500
+Served asset /topbar-bg.jpg - 304 Not Modified (0ms)
+
+
+Started GET "/assets/ui/topbar-dropdown-bg.jpg" for 127.0.0.1 at 2013-05-31 01:49:21 -0500
+Served asset /ui/topbar-dropdown-bg.jpg - 304 Not Modified (0ms)
+
+
+Started GET "/assets/ui/topbar-limiter.png" for 127.0.0.1 at 2013-05-31 01:49:21 -0500
+Served asset /ui/topbar-limiter.png - 304 Not Modified (0ms)
+
+
+Started GET "/assets/ui/tour-arrow.png" for 127.0.0.1 at 2013-05-31 01:49:21 -0500
+Served asset /ui/tour-arrow.png - 304 Not Modified (0ms)
+
+
+Started GET "/assets/ui/keyboard.png" for 127.0.0.1 at 2013-05-31 01:49:21 -0500
+Served asset /ui/keyboard.png - 304 Not Modified (0ms)
+
+
+Started GET "/assets/ui/blue-noise.gif" for 127.0.0.1 at 2013-05-31 01:49:21 -0500
+Served asset /ui/blue-noise.gif - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bgs/v1.jpg" for 127.0.0.1 at 2013-05-31 01:49:21 -0500
+Served asset /bgs/v1.jpg - 304 Not Modified (0ms)
+
+
+Started GET "/assets/cabin-bold-webfont.woff" for 127.0.0.1 at 2013-05-31 01:49:21 -0500
+Served asset /cabin-bold-webfont.woff - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bgs/v1.jpg" for 127.0.0.1 at 2013-05-31 01:49:21 -0500
+Served asset /bgs/v1.jpg - 304 Not Modified (0ms)
+
+
+Started GET "/assets/ui/pdf.png" for 127.0.0.1 at 2013-05-31 01:49:22 -0500
+Served asset /ui/pdf.png - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bgs/v2.jpg" for 127.0.0.1 at 2013-05-31 01:49:22 -0500
+Served asset /bgs/v2.jpg - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bgs/v2.jpg" for 127.0.0.1 at 2013-05-31 01:49:22 -0500
+Served asset /bgs/v2.jpg - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bgs/v3.jpg" for 127.0.0.1 at 2013-05-31 01:49:23 -0500
+Served asset /bgs/v3.jpg - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bgs/v3.jpg" for 127.0.0.1 at 2013-05-31 01:49:24 -0500
+Served asset /bgs/v3.jpg - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bgs/v4.jpg" for 127.0.0.1 at 2013-05-31 01:49:24 -0500
+Served asset /bgs/v4.jpg - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bgs/v4.jpg" for 127.0.0.1 at 2013-05-31 01:49:25 -0500
+Served asset /bgs/v4.jpg - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bgs/v5.jpg" for 127.0.0.1 at 2013-05-31 01:49:26 -0500
+Served asset /bgs/v5.jpg - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bgs/v5.jpg" for 127.0.0.1 at 2013-05-31 01:49:26 -0500
+Served asset /bgs/v5.jpg - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bgs/v6.jpg" for 127.0.0.1 at 2013-05-31 01:49:27 -0500
+Served asset /bgs/v6.jpg - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bgs/v6.jpg" for 127.0.0.1 at 2013-05-31 01:49:28 -0500
+Served asset /bgs/v6.jpg - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bgs/v7.jpg" for 127.0.0.1 at 2013-05-31 01:49:36 -0500
+Served asset /bgs/v7.jpg - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bgs/v7.jpg" for 127.0.0.1 at 2013-05-31 01:49:37 -0500
+Served asset /bgs/v7.jpg - 304 Not Modified (0ms)
+
+
+Started GET "/tour" for 127.0.0.1 at 2013-05-31 01:51:14 -0500
+Processing by PagesController#tour as HTML
+  Rendered pages/tour.html.erb within layouts/application (2.7ms)
+  Rendered shared/_topbar.erb (0.0ms)
+  Rendered shared/_rightbar.erb (0.0ms)
+Completed 200 OK in 25ms (Views: 25.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/active_admin.css?body=1" for 127.0.0.1 at 2013-05-31 01:51:14 -0500
+Served asset /active_admin.css - 304 Not Modified (2ms)
+
+
+Started GET "/assets/foundation.css?body=1" for 127.0.0.1 at 2013-05-31 01:51:14 -0500
+Served asset /foundation.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bigvideo.css?body=1" for 127.0.0.1 at 2013-05-31 01:51:14 -0500
+Served asset /bigvideo.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/articles.css?body=1" for 127.0.0.1 at 2013-05-31 01:51:14 -0500
+Served asset /articles.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.mCustomScrollbar.css?body=1" for 127.0.0.1 at 2013-05-31 01:51:14 -0500
+Served asset /jquery.mCustomScrollbar.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/reset.css?body=1" for 127.0.0.1 at 2013-05-31 01:51:14 -0500
+Served asset /reset.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/reveal.css?body=1" for 127.0.0.1 at 2013-05-31 01:51:14 -0500
+Served asset /reveal.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/modernizr.js?body=1" for 127.0.0.1 at 2013-05-31 01:51:15 -0500
+Served asset /modernizr.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2013-05-31 01:51:15 -0500
+Served asset /application.css - 304 Not Modified (1ms)
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2013-05-31 01:51:15 -0500
+Served asset /jquery.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.easing.1.3.js?body=1" for 127.0.0.1 at 2013-05-31 01:51:15 -0500
+Served asset /jquery.easing.1.3.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery-ui.js?body=1" for 127.0.0.1 at 2013-05-31 01:51:15 -0500
+Served asset /jquery-ui.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.imagesloaded.min.js?body=1" for 127.0.0.1 at 2013-05-31 01:51:15 -0500
+Served asset /jquery.imagesloaded.min.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.scrollTo.js?body=1" for 127.0.0.1 at 2013-05-31 01:51:15 -0500
+Served asset /jquery.scrollTo.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/video.js?body=1" for 127.0.0.1 at 2013-05-31 01:51:15 -0500
+Served asset /video.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.fitvids.js?body=1" for 127.0.0.1 at 2013-05-31 01:51:15 -0500
+Served asset /jquery.fitvids.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.mCustomScrollbar.min.js?body=1" for 127.0.0.1 at 2013-05-31 01:51:15 -0500
+Served asset /jquery.mCustomScrollbar.min.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.reveal.js?body=1" for 127.0.0.1 at 2013-05-31 01:51:15 -0500
+Served asset /jquery.reveal.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.hoverIntent.minified.js?body=1" for 127.0.0.1 at 2013-05-31 01:51:15 -0500
+Served asset /jquery.hoverIntent.minified.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bigvideo.js?body=1" for 127.0.0.1 at 2013-05-31 01:51:15 -0500
+Served asset /bigvideo.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2013-05-31 01:51:15 -0500
+Served asset /application.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/tour.js?body=1" for 127.0.0.1 at 2013-05-31 01:51:15 -0500
+Served asset /tour.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bgs/1.jpg" for 127.0.0.1 at 2013-05-31 01:51:15 -0500
+Served asset /bgs/1.jpg - 304 Not Modified (0ms)
+
+
+Started GET "/assets/ui/topbar-dropdown-arrow.png" for 127.0.0.1 at 2013-05-31 01:51:15 -0500
+Served asset /ui/topbar-dropdown-arrow.png - 304 Not Modified (0ms)
+
+
+Started GET "/assets/ui/white-arrow-left.png" for 127.0.0.1 at 2013-05-31 01:51:15 -0500
+Served asset /ui/white-arrow-left.png - 304 Not Modified (0ms)
+
+
+Started GET "/assets/ui/topbar-logo.png" for 127.0.0.1 at 2013-05-31 01:51:15 -0500
+Served asset /ui/topbar-logo.png - 304 Not Modified (0ms)
+
+
+Started GET "/assets/ui/white-arrow-right.png" for 127.0.0.1 at 2013-05-31 01:51:15 -0500
+Served asset /ui/white-arrow-right.png - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bgs/tour.jpg" for 127.0.0.1 at 2013-05-31 01:51:15 -0500
+Served asset /bgs/tour.jpg - 304 Not Modified (0ms)
+
+
+Started GET "/assets/topbar-bg.jpg" for 127.0.0.1 at 2013-05-31 01:51:15 -0500
+Served asset /topbar-bg.jpg - 304 Not Modified (0ms)
+
+
+Started GET "/assets/ui/topbar-dropdown-bg.jpg" for 127.0.0.1 at 2013-05-31 01:51:15 -0500
+Served asset /ui/topbar-dropdown-bg.jpg - 304 Not Modified (0ms)
+
+
+Started GET "/assets/ui/topbar-limiter.png" for 127.0.0.1 at 2013-05-31 01:51:15 -0500
+Served asset /ui/topbar-limiter.png - 304 Not Modified (0ms)
+
+
+Started GET "/assets/ui/tour-arrow.png" for 127.0.0.1 at 2013-05-31 01:51:15 -0500
+Served asset /ui/tour-arrow.png - 304 Not Modified (0ms)
+
+
+Started GET "/assets/ui/keyboard.png" for 127.0.0.1 at 2013-05-31 01:51:15 -0500
+Served asset /ui/keyboard.png - 304 Not Modified (0ms)
+
+
+Started GET "/assets/ui/blue-noise.gif" for 127.0.0.1 at 2013-05-31 01:51:15 -0500
+Served asset /ui/blue-noise.gif - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bgs/v1.jpg" for 127.0.0.1 at 2013-05-31 01:51:15 -0500
+Served asset /bgs/v1.jpg - 304 Not Modified (0ms)
+
+
+Started GET "/assets/cabin-bold-webfont.woff" for 127.0.0.1 at 2013-05-31 01:51:15 -0500
+Served asset /cabin-bold-webfont.woff - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bgs/v8.jpg" for 127.0.0.1 at 2013-05-31 01:51:16 -0500
+Served asset /bgs/v8.jpg - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bgs/v8.jpg" for 127.0.0.1 at 2013-05-31 01:51:17 -0500
+Served asset /bgs/v8.jpg - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bgs/v7.jpg" for 127.0.0.1 at 2013-05-31 01:51:24 -0500
+Served asset /bgs/v7.jpg - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bgs/v7.jpg" for 127.0.0.1 at 2013-05-31 01:51:24 -0500
+Served asset /bgs/v7.jpg - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bgs/v7.jpg" for 127.0.0.1 at 2013-05-31 01:51:24 -0500
+Served asset /bgs/v7.jpg - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bgs/v7.jpg" for 127.0.0.1 at 2013-05-31 01:51:25 -0500
+Served asset /bgs/v7.jpg - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bgs/v6.jpg" for 127.0.0.1 at 2013-05-31 01:51:28 -0500
+Served asset /bgs/v6.jpg - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bgs/v6.jpg" for 127.0.0.1 at 2013-05-31 01:51:28 -0500
+Served asset /bgs/v6.jpg - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bgs/v5.jpg" for 127.0.0.1 at 2013-05-31 01:51:30 -0500
+Served asset /bgs/v5.jpg - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bgs/v5.jpg" for 127.0.0.1 at 2013-05-31 01:51:31 -0500
+Served asset /bgs/v5.jpg - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bgs/v4.jpg" for 127.0.0.1 at 2013-05-31 01:51:33 -0500
+Served asset /bgs/v4.jpg - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bgs/v4.jpg" for 127.0.0.1 at 2013-05-31 01:51:34 -0500
+Served asset /bgs/v4.jpg - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bgs/v3.jpg" for 127.0.0.1 at 2013-05-31 01:51:34 -0500
+Served asset /bgs/v3.jpg - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bgs/v3.jpg" for 127.0.0.1 at 2013-05-31 01:51:35 -0500
+Served asset /bgs/v3.jpg - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bgs/v6.jpg" for 127.0.0.1 at 2013-05-31 01:52:33 -0500
+Served asset /bgs/v6.jpg - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bgs/v6.jpg" for 127.0.0.1 at 2013-05-31 01:52:33 -0500
+Served asset /bgs/v6.jpg - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bgs/v7.jpg" for 127.0.0.1 at 2013-05-31 01:52:35 -0500
+Served asset /bgs/v7.jpg - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bgs/v7.jpg" for 127.0.0.1 at 2013-05-31 01:52:35 -0500
+Served asset /bgs/v7.jpg - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bgs/v8.jpg" for 127.0.0.1 at 2013-05-31 01:52:38 -0500
+Served asset /bgs/v8.jpg - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bgs/v8.jpg" for 127.0.0.1 at 2013-05-31 01:52:38 -0500
+Served asset /bgs/v8.jpg - 304 Not Modified (0ms)
+
+
+Started GET "/tour" for 127.0.0.1 at 2013-05-31 01:53:04 -0500
+Processing by PagesController#tour as HTML
+  Rendered pages/tour.html.erb within layouts/application (2.8ms)
+  Rendered shared/_topbar.erb (0.1ms)
+  Rendered shared/_rightbar.erb (0.0ms)
+Completed 200 OK in 24ms (Views: 24.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/articles.css?body=1" for 127.0.0.1 at 2013-05-31 01:53:04 -0500
+Served asset /articles.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/active_admin.css?body=1" for 127.0.0.1 at 2013-05-31 01:53:04 -0500
+Served asset /active_admin.css - 304 Not Modified (1ms)
+
+
+Started GET "/assets/foundation.css?body=1" for 127.0.0.1 at 2013-05-31 01:53:04 -0500
+Served asset /foundation.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bigvideo.css?body=1" for 127.0.0.1 at 2013-05-31 01:53:04 -0500
+Served asset /bigvideo.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/reset.css?body=1" for 127.0.0.1 at 2013-05-31 01:53:04 -0500
+Served asset /reset.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.mCustomScrollbar.css?body=1" for 127.0.0.1 at 2013-05-31 01:53:04 -0500
+Served asset /jquery.mCustomScrollbar.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/reveal.css?body=1" for 127.0.0.1 at 2013-05-31 01:53:04 -0500
+Served asset /reveal.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2013-05-31 01:53:04 -0500
+Served asset /application.css - 304 Not Modified (1ms)
+
+
+Started GET "/assets/modernizr.js?body=1" for 127.0.0.1 at 2013-05-31 01:53:04 -0500
+Served asset /modernizr.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2013-05-31 01:53:04 -0500
+Served asset /jquery.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.easing.1.3.js?body=1" for 127.0.0.1 at 2013-05-31 01:53:04 -0500
+Served asset /jquery.easing.1.3.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery-ui.js?body=1" for 127.0.0.1 at 2013-05-31 01:53:04 -0500
+Served asset /jquery-ui.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.imagesloaded.min.js?body=1" for 127.0.0.1 at 2013-05-31 01:53:04 -0500
+Served asset /jquery.imagesloaded.min.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.scrollTo.js?body=1" for 127.0.0.1 at 2013-05-31 01:53:04 -0500
+Served asset /jquery.scrollTo.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/video.js?body=1" for 127.0.0.1 at 2013-05-31 01:53:04 -0500
+Served asset /video.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.fitvids.js?body=1" for 127.0.0.1 at 2013-05-31 01:53:04 -0500
+Served asset /jquery.fitvids.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.mCustomScrollbar.min.js?body=1" for 127.0.0.1 at 2013-05-31 01:53:04 -0500
+Served asset /jquery.mCustomScrollbar.min.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.reveal.js?body=1" for 127.0.0.1 at 2013-05-31 01:53:04 -0500
+Served asset /jquery.reveal.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.hoverIntent.minified.js?body=1" for 127.0.0.1 at 2013-05-31 01:53:04 -0500
+Served asset /jquery.hoverIntent.minified.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bigvideo.js?body=1" for 127.0.0.1 at 2013-05-31 01:53:04 -0500
+Served asset /bigvideo.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2013-05-31 01:53:04 -0500
+Served asset /application.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/tour.js?body=1" for 127.0.0.1 at 2013-05-31 01:53:04 -0500
+Served asset /tour.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/ui/topbar-logo.png" for 127.0.0.1 at 2013-05-31 01:53:04 -0500
+Served asset /ui/topbar-logo.png - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bgs/1.jpg" for 127.0.0.1 at 2013-05-31 01:53:04 -0500
+Served asset /bgs/1.jpg - 304 Not Modified (0ms)
+
+
+Started GET "/assets/ui/white-arrow-left.png" for 127.0.0.1 at 2013-05-31 01:53:04 -0500
+Served asset /ui/white-arrow-left.png - 304 Not Modified (0ms)
+
+
+Started GET "/assets/ui/white-arrow-right.png" for 127.0.0.1 at 2013-05-31 01:53:04 -0500
+Served asset /ui/white-arrow-right.png - 304 Not Modified (0ms)
+
+
+Started GET "/assets/ui/topbar-dropdown-arrow.png" for 127.0.0.1 at 2013-05-31 01:53:04 -0500
+Served asset /ui/topbar-dropdown-arrow.png - 304 Not Modified (0ms)
+
+
+Started GET "/assets/ui/topbar-limiter.png" for 127.0.0.1 at 2013-05-31 01:53:05 -0500
+Served asset /ui/topbar-limiter.png - 304 Not Modified (0ms)
+
+
+Started GET "/assets/topbar-bg.jpg" for 127.0.0.1 at 2013-05-31 01:53:05 -0500
+Served asset /topbar-bg.jpg - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bgs/tour.jpg" for 127.0.0.1 at 2013-05-31 01:53:05 -0500
+Served asset /bgs/tour.jpg - 304 Not Modified (0ms)
+
+
+Started GET "/assets/ui/topbar-dropdown-bg.jpg" for 127.0.0.1 at 2013-05-31 01:53:05 -0500
+Served asset /ui/topbar-dropdown-bg.jpg - 304 Not Modified (0ms)
+
+
+Started GET "/assets/ui/tour-arrow.png" for 127.0.0.1 at 2013-05-31 01:53:05 -0500
+Served asset /ui/tour-arrow.png - 304 Not Modified (0ms)
+
+
+Started GET "/assets/ui/keyboard.png" for 127.0.0.1 at 2013-05-31 01:53:05 -0500
+Served asset /ui/keyboard.png - 304 Not Modified (0ms)
+
+
+Started GET "/assets/ui/blue-noise.gif" for 127.0.0.1 at 2013-05-31 01:53:05 -0500
+Served asset /ui/blue-noise.gif - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bgs/v1.jpg" for 127.0.0.1 at 2013-05-31 01:53:05 -0500
+Served asset /bgs/v1.jpg - 304 Not Modified (0ms)
+
+
+Started GET "/assets/cabin-bold-webfont.woff" for 127.0.0.1 at 2013-05-31 01:53:05 -0500
+Served asset /cabin-bold-webfont.woff - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bgs/v8.jpg" for 127.0.0.1 at 2013-05-31 01:53:06 -0500
+Served asset /bgs/v8.jpg - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bgs/v8.jpg" for 127.0.0.1 at 2013-05-31 01:53:06 -0500
+Served asset /bgs/v8.jpg - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bgs/v7.jpg" for 127.0.0.1 at 2013-05-31 01:53:12 -0500
+Served asset /bgs/v7.jpg - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bgs/v7.jpg" for 127.0.0.1 at 2013-05-31 01:53:12 -0500
+Served asset /bgs/v7.jpg - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bgs/v6.jpg" for 127.0.0.1 at 2013-05-31 01:53:13 -0500
+Served asset /bgs/v6.jpg - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bgs/v6.jpg" for 127.0.0.1 at 2013-05-31 01:53:14 -0500
+Served asset /bgs/v6.jpg - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bgs/v5.jpg" for 127.0.0.1 at 2013-05-31 01:53:14 -0500
+Served asset /bgs/v5.jpg - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bgs/v5.jpg" for 127.0.0.1 at 2013-05-31 01:53:15 -0500
+Served asset /bgs/v5.jpg - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bgs/v4.jpg" for 127.0.0.1 at 2013-05-31 01:53:17 -0500
+Served asset /bgs/v4.jpg - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bgs/v4.jpg" for 127.0.0.1 at 2013-05-31 01:53:17 -0500
+Served asset /bgs/v4.jpg - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bgs/v3.jpg" for 127.0.0.1 at 2013-05-31 01:53:20 -0500
+Served asset /bgs/v3.jpg - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bgs/v3.jpg" for 127.0.0.1 at 2013-05-31 01:53:20 -0500
+Served asset /bgs/v3.jpg - 304 Not Modified (0ms)
+
+
+Started GET "/assets/ui/pdf.png" for 127.0.0.1 at 2013-05-31 01:53:22 -0500
+Served asset /ui/pdf.png - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bgs/v2.jpg" for 127.0.0.1 at 2013-05-31 01:53:22 -0500
+Served asset /bgs/v2.jpg - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bgs/v2.jpg" for 127.0.0.1 at 2013-05-31 01:53:22 -0500
+Served asset /bgs/v2.jpg - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bgs/v1.jpg" for 127.0.0.1 at 2013-05-31 01:53:24 -0500
+Served asset /bgs/v1.jpg - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bgs/v1.jpg" for 127.0.0.1 at 2013-05-31 01:53:25 -0500
+Served asset /bgs/v1.jpg - 304 Not Modified (0ms)
+
+
+Started GET "/ux" for 127.0.0.1 at 2013-05-31 01:53:28 -0500
+Processing by PagesController#ux as HTML
+  Rendered pages/ux.erb within layouts/application (0.1ms)
+  Rendered shared/_topbar.erb (0.1ms)
+  Rendered shared/_rightbar.erb (0.0ms)
+Completed 200 OK in 23ms (Views: 22.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/active_admin.css?body=1" for 127.0.0.1 at 2013-05-31 01:53:28 -0500
+Served asset /active_admin.css - 304 Not Modified (1ms)
+
+
+Started GET "/assets/bigvideo.css?body=1" for 127.0.0.1 at 2013-05-31 01:53:28 -0500
+Served asset /bigvideo.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/articles.css?body=1" for 127.0.0.1 at 2013-05-31 01:53:28 -0500
+Served asset /articles.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/foundation.css?body=1" for 127.0.0.1 at 2013-05-31 01:53:29 -0500
+Served asset /foundation.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/reset.css?body=1" for 127.0.0.1 at 2013-05-31 01:53:29 -0500
+Served asset /reset.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.mCustomScrollbar.css?body=1" for 127.0.0.1 at 2013-05-31 01:53:29 -0500
+Served asset /jquery.mCustomScrollbar.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/reveal.css?body=1" for 127.0.0.1 at 2013-05-31 01:53:29 -0500
+Served asset /reveal.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2013-05-31 01:53:29 -0500
+Served asset /application.css - 304 Not Modified (3ms)
+
+
+Started GET "/assets/modernizr.js?body=1" for 127.0.0.1 at 2013-05-31 01:53:29 -0500
+Served asset /modernizr.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2013-05-31 01:53:29 -0500
+Served asset /jquery.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.easing.1.3.js?body=1" for 127.0.0.1 at 2013-05-31 01:53:29 -0500
+Served asset /jquery.easing.1.3.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery-ui.js?body=1" for 127.0.0.1 at 2013-05-31 01:53:29 -0500
+Served asset /jquery-ui.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.imagesloaded.min.js?body=1" for 127.0.0.1 at 2013-05-31 01:53:29 -0500
+Served asset /jquery.imagesloaded.min.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.scrollTo.js?body=1" for 127.0.0.1 at 2013-05-31 01:53:29 -0500
+Served asset /jquery.scrollTo.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/video.js?body=1" for 127.0.0.1 at 2013-05-31 01:53:29 -0500
+Served asset /video.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.fitvids.js?body=1" for 127.0.0.1 at 2013-05-31 01:53:29 -0500
+Served asset /jquery.fitvids.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.mCustomScrollbar.min.js?body=1" for 127.0.0.1 at 2013-05-31 01:53:29 -0500
+Served asset /jquery.mCustomScrollbar.min.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.reveal.js?body=1" for 127.0.0.1 at 2013-05-31 01:53:29 -0500
+Served asset /jquery.reveal.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.hoverIntent.minified.js?body=1" for 127.0.0.1 at 2013-05-31 01:53:29 -0500
+Served asset /jquery.hoverIntent.minified.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bigvideo.js?body=1" for 127.0.0.1 at 2013-05-31 01:53:29 -0500
+Served asset /bigvideo.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2013-05-31 01:53:29 -0500
+Served asset /application.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bgs/1.jpg" for 127.0.0.1 at 2013-05-31 01:53:29 -0500
+Served asset /bgs/1.jpg - 304 Not Modified (0ms)
+
+
+Started GET "/assets/ui/topbar-dropdown-arrow.png" for 127.0.0.1 at 2013-05-31 01:53:29 -0500
+Served asset /ui/topbar-dropdown-arrow.png - 304 Not Modified (0ms)
+
+
+Started GET "/assets/ui/topbar-logo.png" for 127.0.0.1 at 2013-05-31 01:53:29 -0500
+Served asset /ui/topbar-logo.png - 304 Not Modified (0ms)
+
+
+Started GET "/assets/topbar-bg.jpg" for 127.0.0.1 at 2013-05-31 01:53:29 -0500
+Served asset /topbar-bg.jpg - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bgs/ux.jpg" for 127.0.0.1 at 2013-05-31 01:53:29 -0500
+Served asset /bgs/ux.jpg - 404 Not Found (11ms)
+
+ActionController::RoutingError (No route matches [GET] "/assets/bgs/ux.jpg"):
+  actionpack (3.2.12) lib/action_dispatch/middleware/debug_exceptions.rb:21:in `call'
+  actionpack (3.2.12) lib/action_dispatch/middleware/show_exceptions.rb:56:in `call'
+  railties (3.2.12) lib/rails/rack/logger.rb:32:in `call_app'
+  railties (3.2.12) lib/rails/rack/logger.rb:16:in `block in call'
+  activesupport (3.2.12) lib/active_support/tagged_logging.rb:22:in `tagged'
+  railties (3.2.12) lib/rails/rack/logger.rb:16:in `call'
+  actionpack (3.2.12) lib/action_dispatch/middleware/request_id.rb:22:in `call'
+  rack (1.4.5) lib/rack/methodoverride.rb:21:in `call'
+  rack (1.4.5) lib/rack/runtime.rb:17:in `call'
+  activesupport (3.2.12) lib/active_support/cache/strategy/local_cache.rb:72:in `call'
+  rack (1.4.5) lib/rack/lock.rb:15:in `call'
+  actionpack (3.2.12) lib/action_dispatch/middleware/static.rb:62:in `call'
+  railties (3.2.12) lib/rails/engine.rb:479:in `call'
+  railties (3.2.12) lib/rails/application.rb:223:in `call'
+  rack (1.4.5) lib/rack/content_length.rb:14:in `call'
+  railties (3.2.12) lib/rails/rack/log_tailer.rb:17:in `call'
+  rack (1.4.5) lib/rack/handler/webrick.rb:59:in `service'
+  /Users/frangucc/.rvm/rubies/ruby-1.9.3-p286/lib/ruby/1.9.1/webrick/httpserver.rb:138:in `service'
+  /Users/frangucc/.rvm/rubies/ruby-1.9.3-p286/lib/ruby/1.9.1/webrick/httpserver.rb:94:in `run'
+  /Users/frangucc/.rvm/rubies/ruby-1.9.3-p286/lib/ruby/1.9.1/webrick/server.rb:191:in `block in start_thread'
+
+
+  Rendered /Users/frangucc/.rvm/gems/ruby-1.9.3-p286/gems/actionpack-3.2.12/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (0.8ms)
+
+
+Started GET "/assets/ui/topbar-limiter.png" for 127.0.0.1 at 2013-05-31 01:53:29 -0500
+Served asset /ui/topbar-limiter.png - 304 Not Modified (0ms)
+
+
+Started GET "/assets/ui/topbar-dropdown-bg.jpg" for 127.0.0.1 at 2013-05-31 01:53:29 -0500
+Served asset /ui/topbar-dropdown-bg.jpg - 304 Not Modified (0ms)
+
+
+Started GET "/assets/ui/backarrow.png" for 127.0.0.1 at 2013-05-31 01:53:29 -0500
+Served asset /ui/backarrow.png - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bgs/t7.jpg" for 127.0.0.1 at 2013-05-31 01:53:29 -0500
+Served asset /bgs/t7.jpg - 304 Not Modified (0ms)
+
+
+Started GET "/assets/ux/leadership.jpg" for 127.0.0.1 at 2013-05-31 01:53:29 -0500
+Served asset /ux/leadership.jpg - 304 Not Modified (0ms)
+
+
+Started GET "/assets/cabin-bold-webfont.woff" for 127.0.0.1 at 2013-05-31 01:53:29 -0500
+Served asset /cabin-bold-webfont.woff - 304 Not Modified (0ms)
+
+
+Started GET "/assets/ux/strategy2.jpg" for 127.0.0.1 at 2013-05-31 01:53:29 -0500
+Served asset /ux/strategy2.jpg - 304 Not Modified (0ms)
+
+
+Started GET "/assets/ux/collaboration2.jpg" for 127.0.0.1 at 2013-05-31 01:53:29 -0500
+Served asset /ux/collaboration2.jpg - 304 Not Modified (0ms)
+
+
+Started GET "/assets/ux/leadership2.jpg" for 127.0.0.1 at 2013-05-31 01:53:29 -0500
+Served asset /ux/leadership2.jpg - 304 Not Modified (0ms)
+
+
+Started GET "/assets/ux/priority.jpg" for 127.0.0.1 at 2013-05-31 01:53:29 -0500
+Served asset /ux/priority.jpg - 304 Not Modified (0ms)
+
+
+Started GET "/assets/ux/sellsimple_bike.jpg" for 127.0.0.1 at 2013-05-31 01:53:29 -0500
+Served asset /ux/sellsimple_bike.jpg - 304 Not Modified (0ms)
+
+
+Started GET "/works" for 127.0.0.1 at 2013-05-31 01:54:11 -0500
+Processing by PagesController#works as HTML
+  Rendered pages/works.erb within layouts/application (0.1ms)
+  Rendered shared/_topbar.erb (0.1ms)
+  Rendered shared/_rightbar.erb (0.0ms)
+Completed 200 OK in 21ms (Views: 20.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/bigvideo.css?body=1" for 127.0.0.1 at 2013-05-31 01:54:11 -0500
+Served asset /bigvideo.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/articles.css?body=1" for 127.0.0.1 at 2013-05-31 01:54:11 -0500
+Served asset /articles.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/active_admin.css?body=1" for 127.0.0.1 at 2013-05-31 01:54:11 -0500
+Served asset /active_admin.css - 304 Not Modified (2ms)
+
+
+Started GET "/assets/jquery.mCustomScrollbar.css?body=1" for 127.0.0.1 at 2013-05-31 01:54:11 -0500
+Served asset /jquery.mCustomScrollbar.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/foundation.css?body=1" for 127.0.0.1 at 2013-05-31 01:54:11 -0500
+Served asset /foundation.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/reset.css?body=1" for 127.0.0.1 at 2013-05-31 01:54:11 -0500
+Served asset /reset.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/reveal.css?body=1" for 127.0.0.1 at 2013-05-31 01:54:11 -0500
+Served asset /reveal.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2013-05-31 01:54:11 -0500
+Served asset /application.css - 304 Not Modified (1ms)
+
+
+Started GET "/assets/modernizr.js?body=1" for 127.0.0.1 at 2013-05-31 01:54:11 -0500
+Served asset /modernizr.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2013-05-31 01:54:11 -0500
+Served asset /jquery.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.easing.1.3.js?body=1" for 127.0.0.1 at 2013-05-31 01:54:11 -0500
+Served asset /jquery.easing.1.3.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery-ui.js?body=1" for 127.0.0.1 at 2013-05-31 01:54:11 -0500
+Served asset /jquery-ui.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.imagesloaded.min.js?body=1" for 127.0.0.1 at 2013-05-31 01:54:11 -0500
+Served asset /jquery.imagesloaded.min.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.scrollTo.js?body=1" for 127.0.0.1 at 2013-05-31 01:54:11 -0500
+Served asset /jquery.scrollTo.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/video.js?body=1" for 127.0.0.1 at 2013-05-31 01:54:11 -0500
+Served asset /video.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.fitvids.js?body=1" for 127.0.0.1 at 2013-05-31 01:54:11 -0500
+Served asset /jquery.fitvids.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.mCustomScrollbar.min.js?body=1" for 127.0.0.1 at 2013-05-31 01:54:11 -0500
+Served asset /jquery.mCustomScrollbar.min.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.reveal.js?body=1" for 127.0.0.1 at 2013-05-31 01:54:11 -0500
+Served asset /jquery.reveal.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.hoverIntent.minified.js?body=1" for 127.0.0.1 at 2013-05-31 01:54:11 -0500
+Served asset /jquery.hoverIntent.minified.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bigvideo.js?body=1" for 127.0.0.1 at 2013-05-31 01:54:11 -0500
+Served asset /bigvideo.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2013-05-31 01:54:11 -0500
+Served asset /application.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bgs/1.jpg" for 127.0.0.1 at 2013-05-31 01:54:11 -0500
+Served asset /bgs/1.jpg - 304 Not Modified (0ms)
+
+
+Started GET "/assets/ui/topbar-logo.png" for 127.0.0.1 at 2013-05-31 01:54:11 -0500
+Served asset /ui/topbar-logo.png - 304 Not Modified (0ms)
+
+
+Started GET "/assets/ui/topbar-dropdown-arrow.png" for 127.0.0.1 at 2013-05-31 01:54:11 -0500
+Served asset /ui/topbar-dropdown-arrow.png - 304 Not Modified (0ms)
+
+
+Started GET "/assets/works/monthlys.jpg" for 127.0.0.1 at 2013-05-31 01:54:11 -0500
+Served asset /works/monthlys.jpg - 304 Not Modified (0ms)
+
+
+Started GET "/assets/works/sellsimple.jpg" for 127.0.0.1 at 2013-05-31 01:54:11 -0500
+Served asset /works/sellsimple.jpg - 304 Not Modified (0ms)
+
+
+Started GET "/assets/works/tagkast.jpg" for 127.0.0.1 at 2013-05-31 01:54:11 -0500
+Served asset /works/tagkast.jpg - 304 Not Modified (0ms)
+
+
+Started GET "/assets/works/bsb.jpg" for 127.0.0.1 at 2013-05-31 01:54:11 -0500
+Served asset /works/bsb.jpg - 304 Not Modified (0ms)
+
+
+Started GET "/assets/cabin-bold-webfont.woff" for 127.0.0.1 at 2013-05-31 01:54:11 -0500
+Served asset /cabin-bold-webfont.woff - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bgs/works_bg.jpg" for 127.0.0.1 at 2013-05-31 01:54:11 -0500
+Served asset /bgs/works_bg.jpg - 304 Not Modified (0ms)
+
+
+Started GET "/assets/topbar-bg.jpg" for 127.0.0.1 at 2013-05-31 01:54:11 -0500
+Served asset /topbar-bg.jpg - 304 Not Modified (0ms)
+
+
+Started GET "/assets/ui/topbar-limiter.png" for 127.0.0.1 at 2013-05-31 01:54:11 -0500
+Served asset /ui/topbar-limiter.png - 304 Not Modified (0ms)
+
+
+Started GET "/assets/ui/topbar-dropdown-bg.jpg" for 127.0.0.1 at 2013-05-31 01:54:11 -0500
+Served asset /ui/topbar-dropdown-bg.jpg - 304 Not Modified (0ms)
+
+
+Started GET "/assets/ui/big-shadow.png" for 127.0.0.1 at 2013-05-31 01:54:11 -0500
+Served asset /ui/big-shadow.png - 304 Not Modified (0ms)
+
+
+Started GET "/assets/ui/blue-noise.gif" for 127.0.0.1 at 2013-05-31 01:54:11 -0500
+Served asset /ui/blue-noise.gif - 304 Not Modified (0ms)
+
+
+Started GET "/assets/works/greenbeans.jpg" for 127.0.0.1 at 2013-05-31 01:54:11 -0500
+Served asset /works/greenbeans.jpg - 304 Not Modified (0ms)
+
+
+Started GET "/assets/works/bfi.jpg" for 127.0.0.1 at 2013-05-31 01:54:11 -0500
+Served asset /works/bfi.jpg - 304 Not Modified (0ms)
+
+
+Started GET "/assets/works/chatyeo.jpg" for 127.0.0.1 at 2013-05-31 01:54:11 -0500
+Served asset /works/chatyeo.jpg - 304 Not Modified (0ms)
+
+
+Started GET "/assets/works/getable.jpg" for 127.0.0.1 at 2013-05-31 01:54:11 -0500
+Served asset /works/getable.jpg - 304 Not Modified (0ms)
+
+
+Started GET "/assets/works/bevel.jpg" for 127.0.0.1 at 2013-05-31 01:54:11 -0500
+Served asset /works/bevel.jpg - 304 Not Modified (0ms)
+
+
+Started GET "/assets/works/ciw.jpg" for 127.0.0.1 at 2013-05-31 01:54:11 -0500
+Served asset /works/ciw.jpg - 304 Not Modified (0ms)
+
+
+Started GET "/assets/works/benchprep.jpg" for 127.0.0.1 at 2013-05-31 01:54:11 -0500
+Served asset /works/benchprep.jpg - 304 Not Modified (0ms)
+
+
+Started GET "/assets/works/agentrun.jpg" for 127.0.0.1 at 2013-05-31 01:54:11 -0500
+Served asset /works/agentrun.jpg - 304 Not Modified (0ms)
+
+
+Started GET "/work_monthlys" for 127.0.0.1 at 2013-05-31 01:54:13 -0500
+Processing by PagesController#work_monthlys as HTML
+  Rendered pages/work_monthlys.erb within layouts/application (0.3ms)
+  Rendered shared/_topbar.erb (0.1ms)
+  Rendered shared/_rightbar.erb (0.0ms)
+Completed 200 OK in 18ms (Views: 17.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/active_admin.css?body=1" for 127.0.0.1 at 2013-05-31 01:54:13 -0500
+Served asset /active_admin.css - 304 Not Modified (1ms)
+
+
+Started GET "/assets/foundation.css?body=1" for 127.0.0.1 at 2013-05-31 01:54:13 -0500
+Served asset /foundation.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/articles.css?body=1" for 127.0.0.1 at 2013-05-31 01:54:13 -0500
+Served asset /articles.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bigvideo.css?body=1" for 127.0.0.1 at 2013-05-31 01:54:13 -0500
+Served asset /bigvideo.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.mCustomScrollbar.css?body=1" for 127.0.0.1 at 2013-05-31 01:54:13 -0500
+Served asset /jquery.mCustomScrollbar.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/reset.css?body=1" for 127.0.0.1 at 2013-05-31 01:54:13 -0500
+Served asset /reset.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/reveal.css?body=1" for 127.0.0.1 at 2013-05-31 01:54:13 -0500
+Served asset /reveal.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2013-05-31 01:54:13 -0500
+Served asset /application.css - 304 Not Modified (1ms)
+
+
+Started GET "/assets/modernizr.js?body=1" for 127.0.0.1 at 2013-05-31 01:54:13 -0500
+Served asset /modernizr.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2013-05-31 01:54:13 -0500
+Served asset /jquery.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery-ui.js?body=1" for 127.0.0.1 at 2013-05-31 01:54:13 -0500
+Served asset /jquery-ui.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.easing.1.3.js?body=1" for 127.0.0.1 at 2013-05-31 01:54:13 -0500
+Served asset /jquery.easing.1.3.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.imagesloaded.min.js?body=1" for 127.0.0.1 at 2013-05-31 01:54:13 -0500
+Served asset /jquery.imagesloaded.min.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.scrollTo.js?body=1" for 127.0.0.1 at 2013-05-31 01:54:13 -0500
+Served asset /jquery.scrollTo.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/video.js?body=1" for 127.0.0.1 at 2013-05-31 01:54:13 -0500
+Served asset /video.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.fitvids.js?body=1" for 127.0.0.1 at 2013-05-31 01:54:13 -0500
+Served asset /jquery.fitvids.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.mCustomScrollbar.min.js?body=1" for 127.0.0.1 at 2013-05-31 01:54:13 -0500
+Served asset /jquery.mCustomScrollbar.min.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.reveal.js?body=1" for 127.0.0.1 at 2013-05-31 01:54:13 -0500
+Served asset /jquery.reveal.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.hoverIntent.minified.js?body=1" for 127.0.0.1 at 2013-05-31 01:54:13 -0500
+Served asset /jquery.hoverIntent.minified.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bigvideo.js?body=1" for 127.0.0.1 at 2013-05-31 01:54:13 -0500
+Served asset /bigvideo.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2013-05-31 01:54:13 -0500
+Served asset /application.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/ui/topbar-dropdown-arrow.png" for 127.0.0.1 at 2013-05-31 01:54:13 -0500
+Served asset /ui/topbar-dropdown-arrow.png - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bgs/1.jpg" for 127.0.0.1 at 2013-05-31 01:54:13 -0500
+Served asset /bgs/1.jpg - 304 Not Modified (0ms)
+
+
+Started GET "/assets/ui/topbar-logo.png" for 127.0.0.1 at 2013-05-31 01:54:13 -0500
+Served asset /ui/topbar-logo.png - 304 Not Modified (0ms)
+
+
+Started GET "/assets/works/d1.jpg" for 127.0.0.1 at 2013-05-31 01:54:13 -0500
+Served asset /works/d1.jpg - 304 Not Modified (0ms)
+
+
+Started GET "/assets/works/d3.jpg" for 127.0.0.1 at 2013-05-31 01:54:13 -0500
+Served asset /works/d3.jpg - 304 Not Modified (0ms)
+
+
+Started GET "/assets/works/d2.jpg" for 127.0.0.1 at 2013-05-31 01:54:13 -0500
+Served asset /works/d2.jpg - 304 Not Modified (0ms)
+
+
+Started GET "/assets/cabin-bold-webfont.woff" for 127.0.0.1 at 2013-05-31 01:54:13 -0500
+Served asset /cabin-bold-webfont.woff - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bgs/work_monthlys.jpg" for 127.0.0.1 at 2013-05-31 01:54:13 -0500
+Served asset /bgs/work_monthlys.jpg - 304 Not Modified (0ms)
+
+
+Started GET "/assets/topbar-bg.jpg" for 127.0.0.1 at 2013-05-31 01:54:13 -0500
+Served asset /topbar-bg.jpg - 304 Not Modified (0ms)
+
+
+Started GET "/assets/ui/topbar-limiter.png" for 127.0.0.1 at 2013-05-31 01:54:13 -0500
+Served asset /ui/topbar-limiter.png - 304 Not Modified (0ms)
+
+
+Started GET "/assets/ui/topbar-dropdown-bg.jpg" for 127.0.0.1 at 2013-05-31 01:54:13 -0500
+Served asset /ui/topbar-dropdown-bg.jpg - 304 Not Modified (0ms)
+
+
+Started GET "/assets/works/d9.jpg" for 127.0.0.1 at 2013-05-31 01:54:13 -0500
+Served asset /works/d9.jpg - 304 Not Modified (0ms)
+
+
+Started GET "/assets/works/d10.jpg" for 127.0.0.1 at 2013-05-31 01:54:13 -0500
+Served asset /works/d10.jpg - 304 Not Modified (0ms)
+
+
+Started GET "/assets/works/d4.jpg" for 127.0.0.1 at 2013-05-31 01:54:13 -0500
+Served asset /works/d4.jpg - 304 Not Modified (0ms)
+
+
+Started GET "/assets/works/d11.jpg" for 127.0.0.1 at 2013-05-31 01:54:13 -0500
+Served asset /works/d11.jpg - 304 Not Modified (0ms)
+
+
+Started GET "/assets/works/d12.jpg" for 127.0.0.1 at 2013-05-31 01:54:13 -0500
+Served asset /works/d12.jpg - 304 Not Modified (0ms)
+
+
+Started GET "/assets/ui/blue-noise.gif" for 127.0.0.1 at 2013-05-31 01:54:13 -0500
+Served asset /ui/blue-noise.gif - 304 Not Modified (0ms)
+
+
+Started GET "/assets/works/d6.jpg" for 127.0.0.1 at 2013-05-31 01:54:13 -0500
+Served asset /works/d6.jpg - 304 Not Modified (0ms)
+
+
+Started GET "/assets/works/d5.jpg" for 127.0.0.1 at 2013-05-31 01:54:13 -0500
+Served asset /works/d5.jpg - 304 Not Modified (0ms)
+
+
+Started GET "/assets/works/d7.jpg" for 127.0.0.1 at 2013-05-31 01:54:13 -0500
+Served asset /works/d7.jpg - 304 Not Modified (0ms)
+
+
+Started GET "/ux" for 127.0.0.1 at 2013-05-31 01:54:18 -0500
+Processing by PagesController#ux as HTML
+  Rendered pages/ux.erb within layouts/application (0.0ms)
+  Rendered shared/_topbar.erb (0.0ms)
+  Rendered shared/_rightbar.erb (0.0ms)
+Completed 200 OK in 18ms (Views: 17.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/active_admin.css?body=1" for 127.0.0.1 at 2013-05-31 01:54:18 -0500
+Served asset /active_admin.css - 304 Not Modified (1ms)
+
+
+Started GET "/assets/foundation.css?body=1" for 127.0.0.1 at 2013-05-31 01:54:18 -0500
+Served asset /foundation.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bigvideo.css?body=1" for 127.0.0.1 at 2013-05-31 01:54:18 -0500
+Served asset /bigvideo.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/articles.css?body=1" for 127.0.0.1 at 2013-05-31 01:54:18 -0500
+Served asset /articles.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/reset.css?body=1" for 127.0.0.1 at 2013-05-31 01:54:18 -0500
+Served asset /reset.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.mCustomScrollbar.css?body=1" for 127.0.0.1 at 2013-05-31 01:54:18 -0500
+Served asset /jquery.mCustomScrollbar.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/reveal.css?body=1" for 127.0.0.1 at 2013-05-31 01:54:18 -0500
+Served asset /reveal.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2013-05-31 01:54:18 -0500
+Served asset /application.css - 304 Not Modified (1ms)
+
+
+Started GET "/assets/modernizr.js?body=1" for 127.0.0.1 at 2013-05-31 01:54:18 -0500
+Served asset /modernizr.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2013-05-31 01:54:18 -0500
+Served asset /jquery.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.easing.1.3.js?body=1" for 127.0.0.1 at 2013-05-31 01:54:18 -0500
+Served asset /jquery.easing.1.3.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery-ui.js?body=1" for 127.0.0.1 at 2013-05-31 01:54:18 -0500
+Served asset /jquery-ui.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.imagesloaded.min.js?body=1" for 127.0.0.1 at 2013-05-31 01:54:18 -0500
+Served asset /jquery.imagesloaded.min.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.scrollTo.js?body=1" for 127.0.0.1 at 2013-05-31 01:54:18 -0500
+Served asset /jquery.scrollTo.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/video.js?body=1" for 127.0.0.1 at 2013-05-31 01:54:18 -0500
+Served asset /video.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.fitvids.js?body=1" for 127.0.0.1 at 2013-05-31 01:54:18 -0500
+Served asset /jquery.fitvids.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.mCustomScrollbar.min.js?body=1" for 127.0.0.1 at 2013-05-31 01:54:18 -0500
+Served asset /jquery.mCustomScrollbar.min.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.reveal.js?body=1" for 127.0.0.1 at 2013-05-31 01:54:18 -0500
+Served asset /jquery.reveal.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.hoverIntent.minified.js?body=1" for 127.0.0.1 at 2013-05-31 01:54:18 -0500
+Served asset /jquery.hoverIntent.minified.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bigvideo.js?body=1" for 127.0.0.1 at 2013-05-31 01:54:18 -0500
+Served asset /bigvideo.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2013-05-31 01:54:18 -0500
+Served asset /application.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bgs/1.jpg" for 127.0.0.1 at 2013-05-31 01:54:18 -0500
+Served asset /bgs/1.jpg - 304 Not Modified (0ms)
+
+
+Started GET "/assets/ui/topbar-dropdown-arrow.png" for 127.0.0.1 at 2013-05-31 01:54:18 -0500
+Served asset /ui/topbar-dropdown-arrow.png - 304 Not Modified (0ms)
+
+
+Started GET "/assets/ui/topbar-logo.png" for 127.0.0.1 at 2013-05-31 01:54:18 -0500
+Served asset /ui/topbar-logo.png - 304 Not Modified (0ms)
+
+
+Started GET "/assets/topbar-bg.jpg" for 127.0.0.1 at 2013-05-31 01:54:18 -0500
+Served asset /topbar-bg.jpg - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bgs/ux.jpg" for 127.0.0.1 at 2013-05-31 01:54:18 -0500
+Served asset /bgs/ux.jpg - 404 Not Found (9ms)
+
+ActionController::RoutingError (No route matches [GET] "/assets/bgs/ux.jpg"):
+  actionpack (3.2.12) lib/action_dispatch/middleware/debug_exceptions.rb:21:in `call'
+  actionpack (3.2.12) lib/action_dispatch/middleware/show_exceptions.rb:56:in `call'
+  railties (3.2.12) lib/rails/rack/logger.rb:32:in `call_app'
+  railties (3.2.12) lib/rails/rack/logger.rb:16:in `block in call'
+  activesupport (3.2.12) lib/active_support/tagged_logging.rb:22:in `tagged'
+  railties (3.2.12) lib/rails/rack/logger.rb:16:in `call'
+  actionpack (3.2.12) lib/action_dispatch/middleware/request_id.rb:22:in `call'
+  rack (1.4.5) lib/rack/methodoverride.rb:21:in `call'
+  rack (1.4.5) lib/rack/runtime.rb:17:in `call'
+  activesupport (3.2.12) lib/active_support/cache/strategy/local_cache.rb:72:in `call'
+  rack (1.4.5) lib/rack/lock.rb:15:in `call'
+  actionpack (3.2.12) lib/action_dispatch/middleware/static.rb:62:in `call'
+  railties (3.2.12) lib/rails/engine.rb:479:in `call'
+  railties (3.2.12) lib/rails/application.rb:223:in `call'
+  rack (1.4.5) lib/rack/content_length.rb:14:in `call'
+  railties (3.2.12) lib/rails/rack/log_tailer.rb:17:in `call'
+  rack (1.4.5) lib/rack/handler/webrick.rb:59:in `service'
+  /Users/frangucc/.rvm/rubies/ruby-1.9.3-p286/lib/ruby/1.9.1/webrick/httpserver.rb:138:in `service'
+  /Users/frangucc/.rvm/rubies/ruby-1.9.3-p286/lib/ruby/1.9.1/webrick/httpserver.rb:94:in `run'
+  /Users/frangucc/.rvm/rubies/ruby-1.9.3-p286/lib/ruby/1.9.1/webrick/server.rb:191:in `block in start_thread'
+
+
+  Rendered /Users/frangucc/.rvm/gems/ruby-1.9.3-p286/gems/actionpack-3.2.12/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (0.8ms)
+
+
+Started GET "/assets/ui/topbar-limiter.png" for 127.0.0.1 at 2013-05-31 01:54:18 -0500
+Served asset /ui/topbar-limiter.png - 304 Not Modified (0ms)
+
+
+Started GET "/assets/ui/topbar-dropdown-bg.jpg" for 127.0.0.1 at 2013-05-31 01:54:18 -0500
+Served asset /ui/topbar-dropdown-bg.jpg - 304 Not Modified (0ms)
+
+
+Started GET "/assets/cabin-bold-webfont.woff" for 127.0.0.1 at 2013-05-31 01:54:18 -0500
+Served asset /cabin-bold-webfont.woff - 304 Not Modified (0ms)
+
+
+Started GET "/assets/ui/backarrow.png" for 127.0.0.1 at 2013-05-31 01:54:18 -0500
+Served asset /ui/backarrow.png - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bgs/t7.jpg" for 127.0.0.1 at 2013-05-31 01:54:18 -0500
+Served asset /bgs/t7.jpg - 304 Not Modified (0ms)
+
+
+Started GET "/assets/ux/leadership.jpg" for 127.0.0.1 at 2013-05-31 01:54:18 -0500
+Served asset /ux/leadership.jpg - 304 Not Modified (0ms)
+
+
+Started GET "/assets/ux/strategy2.jpg" for 127.0.0.1 at 2013-05-31 01:54:18 -0500
+Served asset /ux/strategy2.jpg - 304 Not Modified (0ms)
+
+
+Started GET "/assets/ux/collaboration2.jpg" for 127.0.0.1 at 2013-05-31 01:54:18 -0500
+Served asset /ux/collaboration2.jpg - 304 Not Modified (0ms)
+
+
+Started GET "/assets/ux/leadership2.jpg" for 127.0.0.1 at 2013-05-31 01:54:18 -0500
+Served asset /ux/leadership2.jpg - 304 Not Modified (0ms)
+
+
+Started GET "/assets/ux/priority.jpg" for 127.0.0.1 at 2013-05-31 01:54:18 -0500
+Served asset /ux/priority.jpg - 304 Not Modified (0ms)
+
+
+Started GET "/assets/ux/sellsimple_bike.jpg" for 127.0.0.1 at 2013-05-31 01:54:18 -0500
+Served asset /ux/sellsimple_bike.jpg - 304 Not Modified (0ms)
+
+
+Started GET "/ux" for 127.0.0.1 at 2013-05-31 01:55:14 -0500
+Processing by PagesController#ux as HTML
+  Rendered pages/ux.erb within layouts/application (0.8ms)
+  Rendered shared/_topbar.erb (0.1ms)
+  Rendered shared/_rightbar.erb (0.0ms)
+Completed 200 OK in 19ms (Views: 18.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/articles.css?body=1" for 127.0.0.1 at 2013-05-31 01:55:14 -0500
+Served asset /articles.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/active_admin.css?body=1" for 127.0.0.1 at 2013-05-31 01:55:14 -0500
+Served asset /active_admin.css - 304 Not Modified (2ms)
+
+
+Started GET "/assets/jquery.mCustomScrollbar.css?body=1" for 127.0.0.1 at 2013-05-31 01:55:14 -0500
+Served asset /jquery.mCustomScrollbar.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bigvideo.css?body=1" for 127.0.0.1 at 2013-05-31 01:55:14 -0500
+Served asset /bigvideo.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/foundation.css?body=1" for 127.0.0.1 at 2013-05-31 01:55:14 -0500
+Served asset /foundation.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/reset.css?body=1" for 127.0.0.1 at 2013-05-31 01:55:14 -0500
+Served asset /reset.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/reveal.css?body=1" for 127.0.0.1 at 2013-05-31 01:55:14 -0500
+Served asset /reveal.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2013-05-31 01:55:14 -0500
+Served asset /application.css - 304 Not Modified (1ms)
+
+
+Started GET "/assets/modernizr.js?body=1" for 127.0.0.1 at 2013-05-31 01:55:14 -0500
+Served asset /modernizr.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2013-05-31 01:55:14 -0500
+Served asset /jquery.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.easing.1.3.js?body=1" for 127.0.0.1 at 2013-05-31 01:55:14 -0500
+Served asset /jquery.easing.1.3.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery-ui.js?body=1" for 127.0.0.1 at 2013-05-31 01:55:14 -0500
+Served asset /jquery-ui.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.imagesloaded.min.js?body=1" for 127.0.0.1 at 2013-05-31 01:55:14 -0500
+Served asset /jquery.imagesloaded.min.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.scrollTo.js?body=1" for 127.0.0.1 at 2013-05-31 01:55:14 -0500
+Served asset /jquery.scrollTo.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/video.js?body=1" for 127.0.0.1 at 2013-05-31 01:55:14 -0500
+Served asset /video.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.fitvids.js?body=1" for 127.0.0.1 at 2013-05-31 01:55:14 -0500
+Served asset /jquery.fitvids.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.mCustomScrollbar.min.js?body=1" for 127.0.0.1 at 2013-05-31 01:55:14 -0500
+Served asset /jquery.mCustomScrollbar.min.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.reveal.js?body=1" for 127.0.0.1 at 2013-05-31 01:55:14 -0500
+Served asset /jquery.reveal.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.hoverIntent.minified.js?body=1" for 127.0.0.1 at 2013-05-31 01:55:14 -0500
+Served asset /jquery.hoverIntent.minified.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bigvideo.js?body=1" for 127.0.0.1 at 2013-05-31 01:55:14 -0500
+Served asset /bigvideo.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2013-05-31 01:55:14 -0500
+Served asset /application.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bgs/1.jpg" for 127.0.0.1 at 2013-05-31 01:55:14 -0500
+Served asset /bgs/1.jpg - 304 Not Modified (0ms)
+
+
+Started GET "/assets/ui/topbar-logo.png" for 127.0.0.1 at 2013-05-31 01:55:14 -0500
+Served asset /ui/topbar-logo.png - 304 Not Modified (0ms)
+
+
+Started GET "/assets/ui/topbar-dropdown-arrow.png" for 127.0.0.1 at 2013-05-31 01:55:14 -0500
+Served asset /ui/topbar-dropdown-arrow.png - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bgs/ux.jpg" for 127.0.0.1 at 2013-05-31 01:55:14 -0500
+Served asset /bgs/ux.jpg - 404 Not Found (11ms)
+
+ActionController::RoutingError (No route matches [GET] "/assets/bgs/ux.jpg"):
+  actionpack (3.2.12) lib/action_dispatch/middleware/debug_exceptions.rb:21:in `call'
+  actionpack (3.2.12) lib/action_dispatch/middleware/show_exceptions.rb:56:in `call'
+  railties (3.2.12) lib/rails/rack/logger.rb:32:in `call_app'
+  railties (3.2.12) lib/rails/rack/logger.rb:16:in `block in call'
+  activesupport (3.2.12) lib/active_support/tagged_logging.rb:22:in `tagged'
+  railties (3.2.12) lib/rails/rack/logger.rb:16:in `call'
+  actionpack (3.2.12) lib/action_dispatch/middleware/request_id.rb:22:in `call'
+  rack (1.4.5) lib/rack/methodoverride.rb:21:in `call'
+  rack (1.4.5) lib/rack/runtime.rb:17:in `call'
+  activesupport (3.2.12) lib/active_support/cache/strategy/local_cache.rb:72:in `call'
+  rack (1.4.5) lib/rack/lock.rb:15:in `call'
+  actionpack (3.2.12) lib/action_dispatch/middleware/static.rb:62:in `call'
+  railties (3.2.12) lib/rails/engine.rb:479:in `call'
+  railties (3.2.12) lib/rails/application.rb:223:in `call'
+  rack (1.4.5) lib/rack/content_length.rb:14:in `call'
+  railties (3.2.12) lib/rails/rack/log_tailer.rb:17:in `call'
+  rack (1.4.5) lib/rack/handler/webrick.rb:59:in `service'
+  /Users/frangucc/.rvm/rubies/ruby-1.9.3-p286/lib/ruby/1.9.1/webrick/httpserver.rb:138:in `service'
+  /Users/frangucc/.rvm/rubies/ruby-1.9.3-p286/lib/ruby/1.9.1/webrick/httpserver.rb:94:in `run'
+  /Users/frangucc/.rvm/rubies/ruby-1.9.3-p286/lib/ruby/1.9.1/webrick/server.rb:191:in `block in start_thread'
+
+
+  Rendered /Users/frangucc/.rvm/gems/ruby-1.9.3-p286/gems/actionpack-3.2.12/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (1.3ms)
+
+
+Started GET "/assets/ui/topbar-dropdown-bg.jpg" for 127.0.0.1 at 2013-05-31 01:55:14 -0500
+Served asset /ui/topbar-dropdown-bg.jpg - 304 Not Modified (0ms)
+
+
+Started GET "/assets/topbar-bg.jpg" for 127.0.0.1 at 2013-05-31 01:55:14 -0500
+Served asset /topbar-bg.jpg - 304 Not Modified (0ms)
+
+
+Started GET "/assets/ui/topbar-limiter.png" for 127.0.0.1 at 2013-05-31 01:55:14 -0500
+Served asset /ui/topbar-limiter.png - 304 Not Modified (0ms)
+
+
+Started GET "/assets/ui/backarrow.png" for 127.0.0.1 at 2013-05-31 01:55:14 -0500
+Served asset /ui/backarrow.png - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bgs/t7.jpg" for 127.0.0.1 at 2013-05-31 01:55:14 -0500
+Served asset /bgs/t7.jpg - 304 Not Modified (0ms)
+
+
+Started GET "/assets/cabin-bold-webfont.woff" for 127.0.0.1 at 2013-05-31 01:55:14 -0500
+Served asset /cabin-bold-webfont.woff - 304 Not Modified (0ms)
+
+
+Started GET "/assets/ux/leadership2.jpg" for 127.0.0.1 at 2013-05-31 01:55:14 -0500
+Served asset /ux/leadership2.jpg - 304 Not Modified (0ms)
+
+
+Started GET "/assets/ux/strategy2.jpg" for 127.0.0.1 at 2013-05-31 01:55:14 -0500
+Served asset /ux/strategy2.jpg - 304 Not Modified (0ms)
+
+
+Started GET "/assets/ux/collaboration2.jpg" for 127.0.0.1 at 2013-05-31 01:55:14 -0500
+Served asset /ux/collaboration2.jpg - 304 Not Modified (0ms)
+
+
+Started GET "/assets/ux/priority.jpg" for 127.0.0.1 at 2013-05-31 01:55:14 -0500
+Served asset /ux/priority.jpg - 304 Not Modified (0ms)
+
+
+Started GET "/assets/ux/sellsimple_bike.jpg" for 127.0.0.1 at 2013-05-31 01:55:14 -0500
+Served asset /ux/sellsimple_bike.jpg - 304 Not Modified (0ms)
+
+
+Started GET "/works" for 127.0.0.1 at 2013-05-31 01:55:54 -0500
+Processing by PagesController#works as HTML
+  Rendered pages/works.erb within layouts/application (0.1ms)
+  Rendered shared/_topbar.erb (0.1ms)
+  Rendered shared/_rightbar.erb (0.1ms)
+Completed 200 OK in 21ms (Views: 20.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/active_admin.css?body=1" for 127.0.0.1 at 2013-05-31 01:55:54 -0500
+Served asset /active_admin.css - 304 Not Modified (1ms)
+
+
+Started GET "/assets/bigvideo.css?body=1" for 127.0.0.1 at 2013-05-31 01:55:54 -0500
+Served asset /bigvideo.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/articles.css?body=1" for 127.0.0.1 at 2013-05-31 01:55:54 -0500
+Served asset /articles.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/foundation.css?body=1" for 127.0.0.1 at 2013-05-31 01:55:54 -0500
+Served asset /foundation.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.mCustomScrollbar.css?body=1" for 127.0.0.1 at 2013-05-31 01:55:54 -0500
+Served asset /jquery.mCustomScrollbar.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/reset.css?body=1" for 127.0.0.1 at 2013-05-31 01:55:54 -0500
+Served asset /reset.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/reveal.css?body=1" for 127.0.0.1 at 2013-05-31 01:55:54 -0500
+Served asset /reveal.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2013-05-31 01:55:54 -0500
+Served asset /application.css - 304 Not Modified (2ms)
+
+
+Started GET "/assets/modernizr.js?body=1" for 127.0.0.1 at 2013-05-31 01:55:54 -0500
+Served asset /modernizr.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.easing.1.3.js?body=1" for 127.0.0.1 at 2013-05-31 01:55:54 -0500
+Served asset /jquery.easing.1.3.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2013-05-31 01:55:54 -0500
+Served asset /jquery.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery-ui.js?body=1" for 127.0.0.1 at 2013-05-31 01:55:54 -0500
+Served asset /jquery-ui.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.imagesloaded.min.js?body=1" for 127.0.0.1 at 2013-05-31 01:55:54 -0500
+Served asset /jquery.imagesloaded.min.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.scrollTo.js?body=1" for 127.0.0.1 at 2013-05-31 01:55:54 -0500
+Served asset /jquery.scrollTo.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/video.js?body=1" for 127.0.0.1 at 2013-05-31 01:55:54 -0500
+Served asset /video.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.fitvids.js?body=1" for 127.0.0.1 at 2013-05-31 01:55:54 -0500
+Served asset /jquery.fitvids.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.mCustomScrollbar.min.js?body=1" for 127.0.0.1 at 2013-05-31 01:55:54 -0500
+Served asset /jquery.mCustomScrollbar.min.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.reveal.js?body=1" for 127.0.0.1 at 2013-05-31 01:55:54 -0500
+Served asset /jquery.reveal.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.hoverIntent.minified.js?body=1" for 127.0.0.1 at 2013-05-31 01:55:54 -0500
+Served asset /jquery.hoverIntent.minified.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bigvideo.js?body=1" for 127.0.0.1 at 2013-05-31 01:55:54 -0500
+Served asset /bigvideo.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2013-05-31 01:55:54 -0500
+Served asset /application.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bgs/1.jpg" for 127.0.0.1 at 2013-05-31 01:55:54 -0500
+Served asset /bgs/1.jpg - 304 Not Modified (0ms)
+
+
+Started GET "/assets/ui/topbar-dropdown-arrow.png" for 127.0.0.1 at 2013-05-31 01:55:54 -0500
+Served asset /ui/topbar-dropdown-arrow.png - 304 Not Modified (0ms)
+
+
+Started GET "/assets/works/monthlys.jpg" for 127.0.0.1 at 2013-05-31 01:55:54 -0500
+Served asset /works/monthlys.jpg - 304 Not Modified (0ms)
+
+
+Started GET "/assets/ui/topbar-logo.png" for 127.0.0.1 at 2013-05-31 01:55:54 -0500
+Served asset /ui/topbar-logo.png - 304 Not Modified (0ms)
+
+
+Started GET "/assets/works/tagkast.jpg" for 127.0.0.1 at 2013-05-31 01:55:54 -0500
+Served asset /works/tagkast.jpg - 304 Not Modified (0ms)
+
+
+Started GET "/assets/works/sellsimple.jpg" for 127.0.0.1 at 2013-05-31 01:55:54 -0500
+Served asset /works/sellsimple.jpg - 304 Not Modified (0ms)
+
+
+Started GET "/assets/works/bsb.jpg" for 127.0.0.1 at 2013-05-31 01:55:54 -0500
+Served asset /works/bsb.jpg - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bgs/works_bg.jpg" for 127.0.0.1 at 2013-05-31 01:55:54 -0500
+Served asset /bgs/works_bg.jpg - 304 Not Modified (0ms)
+
+
+Started GET "/assets/topbar-bg.jpg" for 127.0.0.1 at 2013-05-31 01:55:54 -0500
+Served asset /topbar-bg.jpg - 304 Not Modified (0ms)
+
+
+Started GET "/assets/cabin-bold-webfont.woff" for 127.0.0.1 at 2013-05-31 01:55:54 -0500
+Served asset /cabin-bold-webfont.woff - 304 Not Modified (0ms)
+
+
+Started GET "/assets/ui/topbar-limiter.png" for 127.0.0.1 at 2013-05-31 01:55:54 -0500
+Served asset /ui/topbar-limiter.png - 304 Not Modified (0ms)
+
+
+Started GET "/assets/ui/topbar-dropdown-bg.jpg" for 127.0.0.1 at 2013-05-31 01:55:54 -0500
+Served asset /ui/topbar-dropdown-bg.jpg - 304 Not Modified (0ms)
+
+
+Started GET "/assets/ui/big-shadow.png" for 127.0.0.1 at 2013-05-31 01:55:54 -0500
+Served asset /ui/big-shadow.png - 304 Not Modified (0ms)
+
+
+Started GET "/assets/ui/blue-noise.gif" for 127.0.0.1 at 2013-05-31 01:55:54 -0500
+Served asset /ui/blue-noise.gif - 304 Not Modified (0ms)
+
+
+Started GET "/assets/works/greenbeans.jpg" for 127.0.0.1 at 2013-05-31 01:55:54 -0500
+Served asset /works/greenbeans.jpg - 304 Not Modified (0ms)
+
+
+Started GET "/assets/works/bfi.jpg" for 127.0.0.1 at 2013-05-31 01:55:54 -0500
+Served asset /works/bfi.jpg - 304 Not Modified (0ms)
+
+
+Started GET "/assets/works/chatyeo.jpg" for 127.0.0.1 at 2013-05-31 01:55:54 -0500
+Served asset /works/chatyeo.jpg - 304 Not Modified (0ms)
+
+
+Started GET "/assets/works/getable.jpg" for 127.0.0.1 at 2013-05-31 01:55:54 -0500
+Served asset /works/getable.jpg - 304 Not Modified (0ms)
+
+
+Started GET "/assets/works/bevel.jpg" for 127.0.0.1 at 2013-05-31 01:55:54 -0500
+Served asset /works/bevel.jpg - 304 Not Modified (0ms)
+
+
+Started GET "/assets/works/ciw.jpg" for 127.0.0.1 at 2013-05-31 01:55:54 -0500
+Served asset /works/ciw.jpg - 304 Not Modified (0ms)
+
+
+Started GET "/assets/works/benchprep.jpg" for 127.0.0.1 at 2013-05-31 01:55:54 -0500
+Served asset /works/benchprep.jpg - 304 Not Modified (0ms)
+
+
+Started GET "/assets/works/agentrun.jpg" for 127.0.0.1 at 2013-05-31 01:55:54 -0500
+Served asset /works/agentrun.jpg - 304 Not Modified (0ms)
+
+
+Started GET "/work_monthlys" for 127.0.0.1 at 2013-05-31 01:55:55 -0500
+Processing by PagesController#work_monthlys as HTML
+  Rendered pages/work_monthlys.erb within layouts/application (0.1ms)
+  Rendered shared/_topbar.erb (0.4ms)
+  Rendered shared/_rightbar.erb (0.1ms)
+Completed 200 OK in 20ms (Views: 20.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/articles.css?body=1" for 127.0.0.1 at 2013-05-31 01:55:55 -0500
+Served asset /articles.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bigvideo.css?body=1" for 127.0.0.1 at 2013-05-31 01:55:55 -0500
+Served asset /bigvideo.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.mCustomScrollbar.css?body=1" for 127.0.0.1 at 2013-05-31 01:55:55 -0500
+Served asset /jquery.mCustomScrollbar.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/active_admin.css?body=1" for 127.0.0.1 at 2013-05-31 01:55:55 -0500
+Served asset /active_admin.css - 304 Not Modified (1ms)
+
+
+Started GET "/assets/foundation.css?body=1" for 127.0.0.1 at 2013-05-31 01:55:55 -0500
+Served asset /foundation.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/reset.css?body=1" for 127.0.0.1 at 2013-05-31 01:55:55 -0500
+Served asset /reset.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/reveal.css?body=1" for 127.0.0.1 at 2013-05-31 01:55:55 -0500
+Served asset /reveal.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2013-05-31 01:55:55 -0500
+Served asset /application.css - 304 Not Modified (1ms)
+
+
+Started GET "/assets/modernizr.js?body=1" for 127.0.0.1 at 2013-05-31 01:55:55 -0500
+Served asset /modernizr.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2013-05-31 01:55:55 -0500
+Served asset /jquery.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.easing.1.3.js?body=1" for 127.0.0.1 at 2013-05-31 01:55:55 -0500
+Served asset /jquery.easing.1.3.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery-ui.js?body=1" for 127.0.0.1 at 2013-05-31 01:55:55 -0500
+Served asset /jquery-ui.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.imagesloaded.min.js?body=1" for 127.0.0.1 at 2013-05-31 01:55:55 -0500
+Served asset /jquery.imagesloaded.min.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.scrollTo.js?body=1" for 127.0.0.1 at 2013-05-31 01:55:55 -0500
+Served asset /jquery.scrollTo.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/video.js?body=1" for 127.0.0.1 at 2013-05-31 01:55:55 -0500
+Served asset /video.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.fitvids.js?body=1" for 127.0.0.1 at 2013-05-31 01:55:55 -0500
+Served asset /jquery.fitvids.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.mCustomScrollbar.min.js?body=1" for 127.0.0.1 at 2013-05-31 01:55:55 -0500
+Served asset /jquery.mCustomScrollbar.min.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.reveal.js?body=1" for 127.0.0.1 at 2013-05-31 01:55:56 -0500
+Served asset /jquery.reveal.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.hoverIntent.minified.js?body=1" for 127.0.0.1 at 2013-05-31 01:55:56 -0500
+Served asset /jquery.hoverIntent.minified.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bigvideo.js?body=1" for 127.0.0.1 at 2013-05-31 01:55:56 -0500
+Served asset /bigvideo.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2013-05-31 01:55:56 -0500
+Served asset /application.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bgs/1.jpg" for 127.0.0.1 at 2013-05-31 01:55:56 -0500
+Served asset /bgs/1.jpg - 304 Not Modified (0ms)
+
+
+Started GET "/assets/ui/topbar-logo.png" for 127.0.0.1 at 2013-05-31 01:55:56 -0500
+Served asset /ui/topbar-logo.png - 304 Not Modified (0ms)
+
+
+Started GET "/assets/ui/topbar-dropdown-arrow.png" for 127.0.0.1 at 2013-05-31 01:55:56 -0500
+Served asset /ui/topbar-dropdown-arrow.png - 304 Not Modified (0ms)
+
+
+Started GET "/assets/works/d2.jpg" for 127.0.0.1 at 2013-05-31 01:55:56 -0500
+Served asset /works/d2.jpg - 304 Not Modified (0ms)
+
+
+Started GET "/assets/works/d1.jpg" for 127.0.0.1 at 2013-05-31 01:55:56 -0500
+Served asset /works/d1.jpg - 304 Not Modified (0ms)
+
+
+Started GET "/assets/works/d3.jpg" for 127.0.0.1 at 2013-05-31 01:55:56 -0500
+Served asset /works/d3.jpg - 304 Not Modified (0ms)
+
+
+Started GET "/assets/works/d4.jpg" for 127.0.0.1 at 2013-05-31 01:55:56 -0500
+Served asset /works/d4.jpg - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bgs/work_monthlys.jpg" for 127.0.0.1 at 2013-05-31 01:55:56 -0500
+Served asset /bgs/work_monthlys.jpg - 304 Not Modified (0ms)
+
+
+Started GET "/assets/cabin-bold-webfont.woff" for 127.0.0.1 at 2013-05-31 01:55:56 -0500
+Served asset /cabin-bold-webfont.woff - 304 Not Modified (0ms)
+
+
+Started GET "/assets/topbar-bg.jpg" for 127.0.0.1 at 2013-05-31 01:55:56 -0500
+Served asset /topbar-bg.jpg - 304 Not Modified (0ms)
+
+
+Started GET "/assets/ui/topbar-limiter.png" for 127.0.0.1 at 2013-05-31 01:55:56 -0500
+Served asset /ui/topbar-limiter.png - 304 Not Modified (0ms)
+
+
+Started GET "/assets/ui/topbar-dropdown-bg.jpg" for 127.0.0.1 at 2013-05-31 01:55:56 -0500
+Served asset /ui/topbar-dropdown-bg.jpg - 304 Not Modified (0ms)
+
+
+Started GET "/assets/works/d9.jpg" for 127.0.0.1 at 2013-05-31 01:55:56 -0500
+Served asset /works/d9.jpg - 304 Not Modified (0ms)
+
+
+Started GET "/assets/works/d10.jpg" for 127.0.0.1 at 2013-05-31 01:55:56 -0500
+Served asset /works/d10.jpg - 304 Not Modified (0ms)
+
+
+Started GET "/assets/works/d11.jpg" for 127.0.0.1 at 2013-05-31 01:55:56 -0500
+Served asset /works/d11.jpg - 304 Not Modified (0ms)
+
+
+Started GET "/assets/ui/blue-noise.gif" for 127.0.0.1 at 2013-05-31 01:55:56 -0500
+Served asset /ui/blue-noise.gif - 304 Not Modified (0ms)
+
+
+Started GET "/assets/works/d12.jpg" for 127.0.0.1 at 2013-05-31 01:55:56 -0500
+Served asset /works/d12.jpg - 304 Not Modified (0ms)
+
+
+Started GET "/assets/works/d5.jpg" for 127.0.0.1 at 2013-05-31 01:55:56 -0500
+Served asset /works/d5.jpg - 304 Not Modified (0ms)
+
+
+Started GET "/assets/works/d6.jpg" for 127.0.0.1 at 2013-05-31 01:55:56 -0500
+Served asset /works/d6.jpg - 304 Not Modified (0ms)
+
+
+Started GET "/assets/works/d7.jpg" for 127.0.0.1 at 2013-05-31 01:55:56 -0500
+Served asset /works/d7.jpg - 304 Not Modified (0ms)
+
+
+Started GET "/ux" for 127.0.0.1 at 2013-05-31 01:55:58 -0500
+Processing by PagesController#ux as HTML
+  Rendered pages/ux.erb within layouts/application (0.0ms)
+  Rendered shared/_topbar.erb (0.1ms)
+  Rendered shared/_rightbar.erb (0.0ms)
+Completed 200 OK in 21ms (Views: 20.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/bigvideo.css?body=1" for 127.0.0.1 at 2013-05-31 01:55:58 -0500
+Served asset /bigvideo.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/active_admin.css?body=1" for 127.0.0.1 at 2013-05-31 01:55:58 -0500
+Served asset /active_admin.css - 304 Not Modified (1ms)
+
+
+Started GET "/assets/articles.css?body=1" for 127.0.0.1 at 2013-05-31 01:55:58 -0500
+Served asset /articles.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/foundation.css?body=1" for 127.0.0.1 at 2013-05-31 01:55:58 -0500
+Served asset /foundation.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.mCustomScrollbar.css?body=1" for 127.0.0.1 at 2013-05-31 01:55:58 -0500
+Served asset /jquery.mCustomScrollbar.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/reset.css?body=1" for 127.0.0.1 at 2013-05-31 01:55:58 -0500
+Served asset /reset.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/reveal.css?body=1" for 127.0.0.1 at 2013-05-31 01:55:59 -0500
+Served asset /reveal.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2013-05-31 01:55:59 -0500
+Served asset /application.css - 304 Not Modified (2ms)
+
+
+Started GET "/assets/modernizr.js?body=1" for 127.0.0.1 at 2013-05-31 01:55:59 -0500
+Served asset /modernizr.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2013-05-31 01:55:59 -0500
+Served asset /jquery.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.easing.1.3.js?body=1" for 127.0.0.1 at 2013-05-31 01:55:59 -0500
+Served asset /jquery.easing.1.3.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery-ui.js?body=1" for 127.0.0.1 at 2013-05-31 01:55:59 -0500
+Served asset /jquery-ui.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.imagesloaded.min.js?body=1" for 127.0.0.1 at 2013-05-31 01:55:59 -0500
+Served asset /jquery.imagesloaded.min.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.scrollTo.js?body=1" for 127.0.0.1 at 2013-05-31 01:55:59 -0500
+Served asset /jquery.scrollTo.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/video.js?body=1" for 127.0.0.1 at 2013-05-31 01:55:59 -0500
+Served asset /video.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.fitvids.js?body=1" for 127.0.0.1 at 2013-05-31 01:55:59 -0500
+Served asset /jquery.fitvids.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.mCustomScrollbar.min.js?body=1" for 127.0.0.1 at 2013-05-31 01:55:59 -0500
+Served asset /jquery.mCustomScrollbar.min.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.reveal.js?body=1" for 127.0.0.1 at 2013-05-31 01:55:59 -0500
+Served asset /jquery.reveal.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.hoverIntent.minified.js?body=1" for 127.0.0.1 at 2013-05-31 01:55:59 -0500
+Served asset /jquery.hoverIntent.minified.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bigvideo.js?body=1" for 127.0.0.1 at 2013-05-31 01:55:59 -0500
+Served asset /bigvideo.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2013-05-31 01:55:59 -0500
+Served asset /application.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/ui/topbar-logo.png" for 127.0.0.1 at 2013-05-31 01:55:59 -0500
+Served asset /ui/topbar-logo.png - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bgs/1.jpg" for 127.0.0.1 at 2013-05-31 01:55:59 -0500
+Served asset /bgs/1.jpg - 304 Not Modified (0ms)
+
+
+Started GET "/assets/ui/topbar-dropdown-arrow.png" for 127.0.0.1 at 2013-05-31 01:55:59 -0500
+Served asset /ui/topbar-dropdown-arrow.png - 304 Not Modified (0ms)
+
+
+Started GET "/assets/ui/topbar-limiter.png" for 127.0.0.1 at 2013-05-31 01:55:59 -0500
+Served asset /ui/topbar-limiter.png - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bgs/ux.jpg" for 127.0.0.1 at 2013-05-31 01:55:59 -0500
+Served asset /bgs/ux.jpg - 404 Not Found (8ms)
+
+ActionController::RoutingError (No route matches [GET] "/assets/bgs/ux.jpg"):
+  actionpack (3.2.12) lib/action_dispatch/middleware/debug_exceptions.rb:21:in `call'
+  actionpack (3.2.12) lib/action_dispatch/middleware/show_exceptions.rb:56:in `call'
+  railties (3.2.12) lib/rails/rack/logger.rb:32:in `call_app'
+  railties (3.2.12) lib/rails/rack/logger.rb:16:in `block in call'
+  activesupport (3.2.12) lib/active_support/tagged_logging.rb:22:in `tagged'
+  railties (3.2.12) lib/rails/rack/logger.rb:16:in `call'
+  actionpack (3.2.12) lib/action_dispatch/middleware/request_id.rb:22:in `call'
+  rack (1.4.5) lib/rack/methodoverride.rb:21:in `call'
+  rack (1.4.5) lib/rack/runtime.rb:17:in `call'
+  activesupport (3.2.12) lib/active_support/cache/strategy/local_cache.rb:72:in `call'
+  rack (1.4.5) lib/rack/lock.rb:15:in `call'
+  actionpack (3.2.12) lib/action_dispatch/middleware/static.rb:62:in `call'
+  railties (3.2.12) lib/rails/engine.rb:479:in `call'
+  railties (3.2.12) lib/rails/application.rb:223:in `call'
+  rack (1.4.5) lib/rack/content_length.rb:14:in `call'
+  railties (3.2.12) lib/rails/rack/log_tailer.rb:17:in `call'
+  rack (1.4.5) lib/rack/handler/webrick.rb:59:in `service'
+  /Users/frangucc/.rvm/rubies/ruby-1.9.3-p286/lib/ruby/1.9.1/webrick/httpserver.rb:138:in `service'
+  /Users/frangucc/.rvm/rubies/ruby-1.9.3-p286/lib/ruby/1.9.1/webrick/httpserver.rb:94:in `run'
+  /Users/frangucc/.rvm/rubies/ruby-1.9.3-p286/lib/ruby/1.9.1/webrick/server.rb:191:in `block in start_thread'
+
+
+  Rendered /Users/frangucc/.rvm/gems/ruby-1.9.3-p286/gems/actionpack-3.2.12/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (0.8ms)
+
+
+Started GET "/assets/ui/topbar-dropdown-bg.jpg" for 127.0.0.1 at 2013-05-31 01:55:59 -0500
+Served asset /ui/topbar-dropdown-bg.jpg - 304 Not Modified (0ms)
+
+
+Started GET "/assets/topbar-bg.jpg" for 127.0.0.1 at 2013-05-31 01:55:59 -0500
+Served asset /topbar-bg.jpg - 304 Not Modified (0ms)
+
+
+Started GET "/assets/ui/backarrow.png" for 127.0.0.1 at 2013-05-31 01:55:59 -0500
+Served asset /ui/backarrow.png - 304 Not Modified (0ms)
+
+
+Started GET "/assets/cabin-bold-webfont.woff" for 127.0.0.1 at 2013-05-31 01:55:59 -0500
+Served asset /cabin-bold-webfont.woff - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bgs/t7.jpg" for 127.0.0.1 at 2013-05-31 01:55:59 -0500
+Served asset /bgs/t7.jpg - 304 Not Modified (0ms)
+
+
+Started GET "/assets/ux/leadership2.jpg" for 127.0.0.1 at 2013-05-31 01:55:59 -0500
+Served asset /ux/leadership2.jpg - 304 Not Modified (0ms)
+
+
+Started GET "/assets/ux/strategy2.jpg" for 127.0.0.1 at 2013-05-31 01:55:59 -0500
+Served asset /ux/strategy2.jpg - 304 Not Modified (0ms)
+
+
+Started GET "/assets/ux/collaboration2.jpg" for 127.0.0.1 at 2013-05-31 01:55:59 -0500
+Served asset /ux/collaboration2.jpg - 304 Not Modified (0ms)
+
+
+Started GET "/assets/ux/priority.jpg" for 127.0.0.1 at 2013-05-31 01:55:59 -0500
+Served asset /ux/priority.jpg - 304 Not Modified (0ms)
+
+
+Started GET "/assets/ux/sellsimple_bike.jpg" for 127.0.0.1 at 2013-05-31 01:55:59 -0500
+Served asset /ux/sellsimple_bike.jpg - 304 Not Modified (0ms)
+
+
+Started GET "/index" for 127.0.0.1 at 2013-05-31 01:56:16 -0500
+Processing by PagesController#index as HTML
+  Rendered pages/index.html.erb within layouts/application (0.1ms)
+  Rendered shared/_topbar.erb (0.0ms)
+  Rendered shared/_rightbar.erb (0.0ms)
+Completed 200 OK in 18ms (Views: 17.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/active_admin.css?body=1" for 127.0.0.1 at 2013-05-31 01:56:16 -0500
+Served asset /active_admin.css - 304 Not Modified (2ms)
+
+
+Started GET "/assets/foundation.css?body=1" for 127.0.0.1 at 2013-05-31 01:56:16 -0500
+Served asset /foundation.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/articles.css?body=1" for 127.0.0.1 at 2013-05-31 01:56:16 -0500
+Served asset /articles.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bigvideo.css?body=1" for 127.0.0.1 at 2013-05-31 01:56:16 -0500
+Served asset /bigvideo.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.mCustomScrollbar.css?body=1" for 127.0.0.1 at 2013-05-31 01:56:16 -0500
+Served asset /jquery.mCustomScrollbar.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/reset.css?body=1" for 127.0.0.1 at 2013-05-31 01:56:16 -0500
+Served asset /reset.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/reveal.css?body=1" for 127.0.0.1 at 2013-05-31 01:56:16 -0500
+Served asset /reveal.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2013-05-31 01:56:16 -0500
+Served asset /application.css - 304 Not Modified (1ms)
+
+
+Started GET "/assets/modernizr.js?body=1" for 127.0.0.1 at 2013-05-31 01:56:16 -0500
+Served asset /modernizr.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2013-05-31 01:56:16 -0500
+Served asset /jquery.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.easing.1.3.js?body=1" for 127.0.0.1 at 2013-05-31 01:56:16 -0500
+Served asset /jquery.easing.1.3.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery-ui.js?body=1" for 127.0.0.1 at 2013-05-31 01:56:16 -0500
+Served asset /jquery-ui.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.imagesloaded.min.js?body=1" for 127.0.0.1 at 2013-05-31 01:56:16 -0500
+Served asset /jquery.imagesloaded.min.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.scrollTo.js?body=1" for 127.0.0.1 at 2013-05-31 01:56:16 -0500
+Served asset /jquery.scrollTo.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/video.js?body=1" for 127.0.0.1 at 2013-05-31 01:56:16 -0500
+Served asset /video.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.fitvids.js?body=1" for 127.0.0.1 at 2013-05-31 01:56:16 -0500
+Served asset /jquery.fitvids.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.mCustomScrollbar.min.js?body=1" for 127.0.0.1 at 2013-05-31 01:56:16 -0500
+Served asset /jquery.mCustomScrollbar.min.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.reveal.js?body=1" for 127.0.0.1 at 2013-05-31 01:56:16 -0500
+Served asset /jquery.reveal.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.hoverIntent.minified.js?body=1" for 127.0.0.1 at 2013-05-31 01:56:16 -0500
+Served asset /jquery.hoverIntent.minified.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bigvideo.js?body=1" for 127.0.0.1 at 2013-05-31 01:56:16 -0500
+Served asset /bigvideo.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2013-05-31 01:56:16 -0500
+Served asset /application.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bgs/1.jpg" for 127.0.0.1 at 2013-05-31 01:56:16 -0500
+Served asset /bgs/1.jpg - 304 Not Modified (0ms)
+
+
+Started GET "/assets/ui/topbar-logo.png" for 127.0.0.1 at 2013-05-31 01:56:16 -0500
+Served asset /ui/topbar-logo.png - 304 Not Modified (0ms)
+
+
+Started GET "/assets/ui/topbar-dropdown-arrow.png" for 127.0.0.1 at 2013-05-31 01:56:16 -0500
+Served asset /ui/topbar-dropdown-arrow.png - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bgs/home_bg.jpg" for 127.0.0.1 at 2013-05-31 01:56:16 -0500
+Served asset /bgs/home_bg.jpg - 304 Not Modified (0ms)
+
+
+Started GET "/assets/topbar-bg.jpg" for 127.0.0.1 at 2013-05-31 01:56:16 -0500
+Served asset /topbar-bg.jpg - 304 Not Modified (0ms)
+
+
+Started GET "/assets/ui/topbar-limiter.png" for 127.0.0.1 at 2013-05-31 01:56:16 -0500
+Served asset /ui/topbar-limiter.png - 304 Not Modified (0ms)
+
+
+Started GET "/assets/ui/topbar-dropdown-bg.jpg" for 127.0.0.1 at 2013-05-31 01:56:16 -0500
+Served asset /ui/topbar-dropdown-bg.jpg - 304 Not Modified (0ms)
+
+
+Started GET "/assets/ui/blue-noise.gif" for 127.0.0.1 at 2013-05-31 01:56:16 -0500
+Served asset /ui/blue-noise.gif - 304 Not Modified (0ms)
+
+
+Started GET "/assets/cabin-bold-webfont.woff" for 127.0.0.1 at 2013-05-31 01:56:16 -0500
+Served asset /cabin-bold-webfont.woff - 304 Not Modified (0ms)
+
+
+Started GET "/assets/cabin-bolditalic-webfont.woff" for 127.0.0.1 at 2013-05-31 01:56:16 -0500
+Served asset /cabin-bolditalic-webfont.woff - 304 Not Modified (0ms)
+
+
+Started GET "/tour" for 127.0.0.1 at 2013-05-31 01:56:22 -0500
+Processing by PagesController#tour as HTML
+  Rendered pages/tour.html.erb within layouts/application (1.6ms)
+  Rendered shared/_topbar.erb (0.0ms)
+  Rendered shared/_rightbar.erb (0.1ms)
+Completed 200 OK in 22ms (Views: 21.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/articles.css?body=1" for 127.0.0.1 at 2013-05-31 01:56:22 -0500
+Served asset /articles.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/foundation.css?body=1" for 127.0.0.1 at 2013-05-31 01:56:22 -0500
+Served asset /foundation.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bigvideo.css?body=1" for 127.0.0.1 at 2013-05-31 01:56:22 -0500
+Served asset /bigvideo.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/active_admin.css?body=1" for 127.0.0.1 at 2013-05-31 01:56:22 -0500
+Served asset /active_admin.css - 304 Not Modified (2ms)
+
+
+Started GET "/assets/reset.css?body=1" for 127.0.0.1 at 2013-05-31 01:56:22 -0500
+Served asset /reset.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.mCustomScrollbar.css?body=1" for 127.0.0.1 at 2013-05-31 01:56:22 -0500
+Served asset /jquery.mCustomScrollbar.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/reveal.css?body=1" for 127.0.0.1 at 2013-05-31 01:56:22 -0500
+Served asset /reveal.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2013-05-31 01:56:22 -0500
+Served asset /application.css - 304 Not Modified (2ms)
+
+
+Started GET "/assets/modernizr.js?body=1" for 127.0.0.1 at 2013-05-31 01:56:22 -0500
+Served asset /modernizr.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2013-05-31 01:56:22 -0500
+Served asset /jquery.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery-ui.js?body=1" for 127.0.0.1 at 2013-05-31 01:56:22 -0500
+Served asset /jquery-ui.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.easing.1.3.js?body=1" for 127.0.0.1 at 2013-05-31 01:56:22 -0500
+Served asset /jquery.easing.1.3.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.imagesloaded.min.js?body=1" for 127.0.0.1 at 2013-05-31 01:56:22 -0500
+Served asset /jquery.imagesloaded.min.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.scrollTo.js?body=1" for 127.0.0.1 at 2013-05-31 01:56:22 -0500
+Served asset /jquery.scrollTo.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/video.js?body=1" for 127.0.0.1 at 2013-05-31 01:56:22 -0500
+Served asset /video.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.fitvids.js?body=1" for 127.0.0.1 at 2013-05-31 01:56:22 -0500
+Served asset /jquery.fitvids.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.mCustomScrollbar.min.js?body=1" for 127.0.0.1 at 2013-05-31 01:56:22 -0500
+Served asset /jquery.mCustomScrollbar.min.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.reveal.js?body=1" for 127.0.0.1 at 2013-05-31 01:56:22 -0500
+Served asset /jquery.reveal.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.hoverIntent.minified.js?body=1" for 127.0.0.1 at 2013-05-31 01:56:22 -0500
+Served asset /jquery.hoverIntent.minified.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bigvideo.js?body=1" for 127.0.0.1 at 2013-05-31 01:56:22 -0500
+Served asset /bigvideo.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2013-05-31 01:56:22 -0500
+Served asset /application.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/tour.js?body=1" for 127.0.0.1 at 2013-05-31 01:56:22 -0500
+Served asset /tour.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bgs/1.jpg" for 127.0.0.1 at 2013-05-31 01:56:22 -0500
+Served asset /bgs/1.jpg - 304 Not Modified (0ms)
+
+
+Started GET "/assets/ui/topbar-dropdown-arrow.png" for 127.0.0.1 at 2013-05-31 01:56:22 -0500
+Served asset /ui/topbar-dropdown-arrow.png - 304 Not Modified (0ms)
+
+
+Started GET "/assets/ui/topbar-logo.png" for 127.0.0.1 at 2013-05-31 01:56:22 -0500
+Served asset /ui/topbar-logo.png - 304 Not Modified (0ms)
+
+
+Started GET "/assets/ui/white-arrow-left.png" for 127.0.0.1 at 2013-05-31 01:56:22 -0500
+Served asset /ui/white-arrow-left.png - 304 Not Modified (0ms)
+
+
+Started GET "/assets/ui/white-arrow-right.png" for 127.0.0.1 at 2013-05-31 01:56:22 -0500
+Served asset /ui/white-arrow-right.png - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bgs/tour.jpg" for 127.0.0.1 at 2013-05-31 01:56:22 -0500
+Served asset /bgs/tour.jpg - 304 Not Modified (0ms)
+
+
+Started GET "/assets/topbar-bg.jpg" for 127.0.0.1 at 2013-05-31 01:56:22 -0500
+Served asset /topbar-bg.jpg - 304 Not Modified (0ms)
+
+
+Started GET "/assets/ui/topbar-limiter.png" for 127.0.0.1 at 2013-05-31 01:56:22 -0500
+Served asset /ui/topbar-limiter.png - 304 Not Modified (0ms)
+
+
+Started GET "/assets/ui/topbar-dropdown-bg.jpg" for 127.0.0.1 at 2013-05-31 01:56:22 -0500
+Served asset /ui/topbar-dropdown-bg.jpg - 304 Not Modified (0ms)
+
+
+Started GET "/assets/ui/tour-arrow.png" for 127.0.0.1 at 2013-05-31 01:56:22 -0500
+Served asset /ui/tour-arrow.png - 304 Not Modified (0ms)
+
+
+Started GET "/assets/ui/keyboard.png" for 127.0.0.1 at 2013-05-31 01:56:22 -0500
+Served asset /ui/keyboard.png - 304 Not Modified (0ms)
+
+
+Started GET "/assets/ui/blue-noise.gif" for 127.0.0.1 at 2013-05-31 01:56:22 -0500
+Served asset /ui/blue-noise.gif - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bgs/v1.jpg" for 127.0.0.1 at 2013-05-31 01:56:22 -0500
+Served asset /bgs/v1.jpg - 304 Not Modified (0ms)
+
+
+Started GET "/assets/cabin-bold-webfont.woff" for 127.0.0.1 at 2013-05-31 01:56:22 -0500
+Served asset /cabin-bold-webfont.woff - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bgs/v1.jpg" for 127.0.0.1 at 2013-05-31 01:56:23 -0500
+Served asset /bgs/v1.jpg - 304 Not Modified (0ms)
+
+
+Started GET "/assets/ui/pdf.png" for 127.0.0.1 at 2013-05-31 01:56:25 -0500
+Served asset /ui/pdf.png - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bgs/v2.jpg" for 127.0.0.1 at 2013-05-31 01:56:25 -0500
+Served asset /bgs/v2.jpg - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bgs/v2.jpg" for 127.0.0.1 at 2013-05-31 01:56:25 -0500
+Served asset /bgs/v2.jpg - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bgs/v3.jpg" for 127.0.0.1 at 2013-05-31 01:56:27 -0500
+Served asset /bgs/v3.jpg - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bgs/v3.jpg" for 127.0.0.1 at 2013-05-31 01:56:28 -0500
+Served asset /bgs/v3.jpg - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bgs/v4.jpg" for 127.0.0.1 at 2013-05-31 01:56:29 -0500
+Served asset /bgs/v4.jpg - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bgs/v4.jpg" for 127.0.0.1 at 2013-05-31 01:56:30 -0500
+Served asset /bgs/v4.jpg - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bgs/v5.jpg" for 127.0.0.1 at 2013-05-31 01:56:31 -0500
+Served asset /bgs/v5.jpg - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bgs/v5.jpg" for 127.0.0.1 at 2013-05-31 01:56:31 -0500
+Served asset /bgs/v5.jpg - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bgs/v6.jpg" for 127.0.0.1 at 2013-05-31 01:56:32 -0500
+Served asset /bgs/v6.jpg - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bgs/v6.jpg" for 127.0.0.1 at 2013-05-31 01:56:32 -0500
+Served asset /bgs/v6.jpg - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bgs/v7.jpg" for 127.0.0.1 at 2013-05-31 01:56:33 -0500
+Served asset /bgs/v7.jpg - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bgs/v7.jpg" for 127.0.0.1 at 2013-05-31 01:56:33 -0500
+Served asset /bgs/v7.jpg - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bgs/v8.jpg" for 127.0.0.1 at 2013-05-31 01:56:34 -0500
+Served asset /bgs/v8.jpg - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bgs/v8.jpg" for 127.0.0.1 at 2013-05-31 01:56:35 -0500
+Served asset /bgs/v8.jpg - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bgs/v1.jpg" for 127.0.0.1 at 2013-05-31 01:56:35 -0500
+Served asset /bgs/v1.jpg - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bgs/v1.jpg" for 127.0.0.1 at 2013-05-31 01:56:36 -0500
+Served asset /bgs/v1.jpg - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bgs/v2.jpg" for 127.0.0.1 at 2013-05-31 01:56:36 -0500
+Served asset /bgs/v2.jpg - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bgs/v2.jpg" for 127.0.0.1 at 2013-05-31 01:56:37 -0500
+Served asset /bgs/v2.jpg - 304 Not Modified (0ms)
+
+
+Started GET "/ux" for 127.0.0.1 at 2013-05-31 01:56:41 -0500
+Processing by PagesController#ux as HTML
+  Rendered pages/ux.erb within layouts/application (0.1ms)
+  Rendered shared/_topbar.erb (0.0ms)
+  Rendered shared/_rightbar.erb (0.0ms)
+Completed 200 OK in 19ms (Views: 18.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/articles.css?body=1" for 127.0.0.1 at 2013-05-31 01:56:41 -0500
+Served asset /articles.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/foundation.css?body=1" for 127.0.0.1 at 2013-05-31 01:56:41 -0500
+Served asset /foundation.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bigvideo.css?body=1" for 127.0.0.1 at 2013-05-31 01:56:41 -0500
+Served asset /bigvideo.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/active_admin.css?body=1" for 127.0.0.1 at 2013-05-31 01:56:41 -0500
+Served asset /active_admin.css - 304 Not Modified (1ms)
+
+
+Started GET "/assets/jquery.mCustomScrollbar.css?body=1" for 127.0.0.1 at 2013-05-31 01:56:41 -0500
+Served asset /jquery.mCustomScrollbar.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/reset.css?body=1" for 127.0.0.1 at 2013-05-31 01:56:41 -0500
+Served asset /reset.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/reveal.css?body=1" for 127.0.0.1 at 2013-05-31 01:56:41 -0500
+Served asset /reveal.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/modernizr.js?body=1" for 127.0.0.1 at 2013-05-31 01:56:41 -0500
+Served asset /modernizr.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2013-05-31 01:56:41 -0500
+Served asset /application.css - 304 Not Modified (1ms)
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2013-05-31 01:56:41 -0500
+Served asset /jquery.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery-ui.js?body=1" for 127.0.0.1 at 2013-05-31 01:56:41 -0500
+Served asset /jquery-ui.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.easing.1.3.js?body=1" for 127.0.0.1 at 2013-05-31 01:56:41 -0500
+Served asset /jquery.easing.1.3.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.imagesloaded.min.js?body=1" for 127.0.0.1 at 2013-05-31 01:56:41 -0500
+Served asset /jquery.imagesloaded.min.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.scrollTo.js?body=1" for 127.0.0.1 at 2013-05-31 01:56:41 -0500
+Served asset /jquery.scrollTo.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/video.js?body=1" for 127.0.0.1 at 2013-05-31 01:56:41 -0500
+Served asset /video.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.fitvids.js?body=1" for 127.0.0.1 at 2013-05-31 01:56:41 -0500
+Served asset /jquery.fitvids.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.mCustomScrollbar.min.js?body=1" for 127.0.0.1 at 2013-05-31 01:56:41 -0500
+Served asset /jquery.mCustomScrollbar.min.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.reveal.js?body=1" for 127.0.0.1 at 2013-05-31 01:56:41 -0500
+Served asset /jquery.reveal.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bigvideo.js?body=1" for 127.0.0.1 at 2013-05-31 01:56:41 -0500
+Served asset /bigvideo.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.hoverIntent.minified.js?body=1" for 127.0.0.1 at 2013-05-31 01:56:41 -0500
+Served asset /jquery.hoverIntent.minified.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2013-05-31 01:56:41 -0500
+Served asset /application.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/ui/topbar-dropdown-arrow.png" for 127.0.0.1 at 2013-05-31 01:56:41 -0500
+Served asset /ui/topbar-dropdown-arrow.png - 304 Not Modified (0ms)
+
+
+Started GET "/assets/ui/topbar-logo.png" for 127.0.0.1 at 2013-05-31 01:56:41 -0500
+Served asset /ui/topbar-logo.png - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bgs/1.jpg" for 127.0.0.1 at 2013-05-31 01:56:41 -0500
+Served asset /bgs/1.jpg - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bgs/ux.jpg" for 127.0.0.1 at 2013-05-31 01:56:41 -0500
+Served asset /bgs/ux.jpg - 404 Not Found (9ms)
+
+ActionController::RoutingError (No route matches [GET] "/assets/bgs/ux.jpg"):
+  actionpack (3.2.12) lib/action_dispatch/middleware/debug_exceptions.rb:21:in `call'
+  actionpack (3.2.12) lib/action_dispatch/middleware/show_exceptions.rb:56:in `call'
+  railties (3.2.12) lib/rails/rack/logger.rb:32:in `call_app'
+  railties (3.2.12) lib/rails/rack/logger.rb:16:in `block in call'
+  activesupport (3.2.12) lib/active_support/tagged_logging.rb:22:in `tagged'
+  railties (3.2.12) lib/rails/rack/logger.rb:16:in `call'
+  actionpack (3.2.12) lib/action_dispatch/middleware/request_id.rb:22:in `call'
+  rack (1.4.5) lib/rack/methodoverride.rb:21:in `call'
+  rack (1.4.5) lib/rack/runtime.rb:17:in `call'
+  activesupport (3.2.12) lib/active_support/cache/strategy/local_cache.rb:72:in `call'
+  rack (1.4.5) lib/rack/lock.rb:15:in `call'
+  actionpack (3.2.12) lib/action_dispatch/middleware/static.rb:62:in `call'
+  railties (3.2.12) lib/rails/engine.rb:479:in `call'
+  railties (3.2.12) lib/rails/application.rb:223:in `call'
+  rack (1.4.5) lib/rack/content_length.rb:14:in `call'
+  railties (3.2.12) lib/rails/rack/log_tailer.rb:17:in `call'
+  rack (1.4.5) lib/rack/handler/webrick.rb:59:in `service'
+  /Users/frangucc/.rvm/rubies/ruby-1.9.3-p286/lib/ruby/1.9.1/webrick/httpserver.rb:138:in `service'
+  /Users/frangucc/.rvm/rubies/ruby-1.9.3-p286/lib/ruby/1.9.1/webrick/httpserver.rb:94:in `run'
+  /Users/frangucc/.rvm/rubies/ruby-1.9.3-p286/lib/ruby/1.9.1/webrick/server.rb:191:in `block in start_thread'
+
+
+  Rendered /Users/frangucc/.rvm/gems/ruby-1.9.3-p286/gems/actionpack-3.2.12/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (1.1ms)
+
+
+Started GET "/assets/ui/topbar-limiter.png" for 127.0.0.1 at 2013-05-31 01:56:41 -0500
+Served asset /ui/topbar-limiter.png - 304 Not Modified (0ms)
+
+
+Started GET "/assets/topbar-bg.jpg" for 127.0.0.1 at 2013-05-31 01:56:41 -0500
+Served asset /topbar-bg.jpg - 304 Not Modified (0ms)
+
+
+Started GET "/assets/ui/topbar-dropdown-bg.jpg" for 127.0.0.1 at 2013-05-31 01:56:41 -0500
+Served asset /ui/topbar-dropdown-bg.jpg - 304 Not Modified (0ms)
+
+
+Started GET "/assets/ui/backarrow.png" for 127.0.0.1 at 2013-05-31 01:56:41 -0500
+Served asset /ui/backarrow.png - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bgs/t7.jpg" for 127.0.0.1 at 2013-05-31 01:56:41 -0500
+Served asset /bgs/t7.jpg - 304 Not Modified (0ms)
+
+
+Started GET "/assets/cabin-bold-webfont.woff" for 127.0.0.1 at 2013-05-31 01:56:41 -0500
+Served asset /cabin-bold-webfont.woff - 304 Not Modified (0ms)
+
+
+Started GET "/assets/ux/leadership2.jpg" for 127.0.0.1 at 2013-05-31 01:56:41 -0500
+Served asset /ux/leadership2.jpg - 304 Not Modified (0ms)
+
+
+Started GET "/assets/ux/strategy2.jpg" for 127.0.0.1 at 2013-05-31 01:56:41 -0500
+Served asset /ux/strategy2.jpg - 304 Not Modified (0ms)
+
+
+Started GET "/assets/ux/collaboration2.jpg" for 127.0.0.1 at 2013-05-31 01:56:41 -0500
+Served asset /ux/collaboration2.jpg - 304 Not Modified (0ms)
+
+
+Started GET "/assets/ux/priority.jpg" for 127.0.0.1 at 2013-05-31 01:56:41 -0500
+Served asset /ux/priority.jpg - 304 Not Modified (0ms)
+
+
+Started GET "/assets/ux/sellsimple_bike.jpg" for 127.0.0.1 at 2013-05-31 01:56:41 -0500
+Served asset /ux/sellsimple_bike.jpg - 304 Not Modified (0ms)
+
+
+Started GET "/ux-research" for 127.0.0.1 at 2013-05-31 01:57:26 -0500
+Processing by PagesController#ux-research as HTML
+  Rendered pages/ux-research.erb within layouts/application (0.8ms)
+  Rendered shared/_topbar.erb (0.0ms)
+  Rendered shared/_rightbar.erb (0.0ms)
+Completed 200 OK in 19ms (Views: 18.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/articles.css?body=1" for 127.0.0.1 at 2013-05-31 01:57:26 -0500
+Served asset /articles.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/active_admin.css?body=1" for 127.0.0.1 at 2013-05-31 01:57:26 -0500
+Served asset /active_admin.css - 304 Not Modified (1ms)
+
+
+Started GET "/assets/bigvideo.css?body=1" for 127.0.0.1 at 2013-05-31 01:57:26 -0500
+Served asset /bigvideo.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.mCustomScrollbar.css?body=1" for 127.0.0.1 at 2013-05-31 01:57:26 -0500
+Served asset /jquery.mCustomScrollbar.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/foundation.css?body=1" for 127.0.0.1 at 2013-05-31 01:57:26 -0500
+Served asset /foundation.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/reset.css?body=1" for 127.0.0.1 at 2013-05-31 01:57:26 -0500
+Served asset /reset.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/reveal.css?body=1" for 127.0.0.1 at 2013-05-31 01:57:26 -0500
+Served asset /reveal.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2013-05-31 01:57:26 -0500
+Served asset /application.css - 304 Not Modified (1ms)
+
+
+Started GET "/assets/modernizr.js?body=1" for 127.0.0.1 at 2013-05-31 01:57:26 -0500
+Served asset /modernizr.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2013-05-31 01:57:26 -0500
+Served asset /jquery.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.easing.1.3.js?body=1" for 127.0.0.1 at 2013-05-31 01:57:26 -0500
+Served asset /jquery.easing.1.3.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery-ui.js?body=1" for 127.0.0.1 at 2013-05-31 01:57:26 -0500
+Served asset /jquery-ui.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.imagesloaded.min.js?body=1" for 127.0.0.1 at 2013-05-31 01:57:26 -0500
+Served asset /jquery.imagesloaded.min.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/video.js?body=1" for 127.0.0.1 at 2013-05-31 01:57:26 -0500
+Served asset /video.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.scrollTo.js?body=1" for 127.0.0.1 at 2013-05-31 01:57:26 -0500
+Served asset /jquery.scrollTo.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.fitvids.js?body=1" for 127.0.0.1 at 2013-05-31 01:57:26 -0500
+Served asset /jquery.fitvids.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.mCustomScrollbar.min.js?body=1" for 127.0.0.1 at 2013-05-31 01:57:26 -0500
+Served asset /jquery.mCustomScrollbar.min.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.reveal.js?body=1" for 127.0.0.1 at 2013-05-31 01:57:26 -0500
+Served asset /jquery.reveal.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.hoverIntent.minified.js?body=1" for 127.0.0.1 at 2013-05-31 01:57:26 -0500
+Served asset /jquery.hoverIntent.minified.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bigvideo.js?body=1" for 127.0.0.1 at 2013-05-31 01:57:26 -0500
+Served asset /bigvideo.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2013-05-31 01:57:26 -0500
+Served asset /application.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/ui/topbar-dropdown-arrow.png" for 127.0.0.1 at 2013-05-31 01:57:26 -0500
+Served asset /ui/topbar-dropdown-arrow.png - 304 Not Modified (0ms)
+
+
+Started GET "/assets/ui/topbar-logo.png" for 127.0.0.1 at 2013-05-31 01:57:26 -0500
+Served asset /ui/topbar-logo.png - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bgs/1.jpg" for 127.0.0.1 at 2013-05-31 01:57:26 -0500
+Served asset /bgs/1.jpg - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bgs/ux-research.jpg" for 127.0.0.1 at 2013-05-31 01:57:26 -0500
+Served asset /bgs/ux-research.jpg - 404 Not Found (11ms)
+
+ActionController::RoutingError (No route matches [GET] "/assets/bgs/ux-research.jpg"):
+  actionpack (3.2.12) lib/action_dispatch/middleware/debug_exceptions.rb:21:in `call'
+  actionpack (3.2.12) lib/action_dispatch/middleware/show_exceptions.rb:56:in `call'
+  railties (3.2.12) lib/rails/rack/logger.rb:32:in `call_app'
+  railties (3.2.12) lib/rails/rack/logger.rb:16:in `block in call'
+  activesupport (3.2.12) lib/active_support/tagged_logging.rb:22:in `tagged'
+  railties (3.2.12) lib/rails/rack/logger.rb:16:in `call'
+  actionpack (3.2.12) lib/action_dispatch/middleware/request_id.rb:22:in `call'
+  rack (1.4.5) lib/rack/methodoverride.rb:21:in `call'
+  rack (1.4.5) lib/rack/runtime.rb:17:in `call'
+  activesupport (3.2.12) lib/active_support/cache/strategy/local_cache.rb:72:in `call'
+  rack (1.4.5) lib/rack/lock.rb:15:in `call'
+  actionpack (3.2.12) lib/action_dispatch/middleware/static.rb:62:in `call'
+  railties (3.2.12) lib/rails/engine.rb:479:in `call'
+  railties (3.2.12) lib/rails/application.rb:223:in `call'
+  rack (1.4.5) lib/rack/content_length.rb:14:in `call'
+  railties (3.2.12) lib/rails/rack/log_tailer.rb:17:in `call'
+  rack (1.4.5) lib/rack/handler/webrick.rb:59:in `service'
+  /Users/frangucc/.rvm/rubies/ruby-1.9.3-p286/lib/ruby/1.9.1/webrick/httpserver.rb:138:in `service'
+  /Users/frangucc/.rvm/rubies/ruby-1.9.3-p286/lib/ruby/1.9.1/webrick/httpserver.rb:94:in `run'
+  /Users/frangucc/.rvm/rubies/ruby-1.9.3-p286/lib/ruby/1.9.1/webrick/server.rb:191:in `block in start_thread'
+
+
+  Rendered /Users/frangucc/.rvm/gems/ruby-1.9.3-p286/gems/actionpack-3.2.12/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (0.9ms)
+
+
+Started GET "/assets/ui/topbar-dropdown-bg.jpg" for 127.0.0.1 at 2013-05-31 01:57:26 -0500
+Served asset /ui/topbar-dropdown-bg.jpg - 304 Not Modified (0ms)
+
+
+Started GET "/assets/ui/topbar-limiter.png" for 127.0.0.1 at 2013-05-31 01:57:26 -0500
+Served asset /ui/topbar-limiter.png - 304 Not Modified (0ms)
+
+
+Started GET "/assets/topbar-bg.jpg" for 127.0.0.1 at 2013-05-31 01:57:26 -0500
+Served asset /topbar-bg.jpg - 304 Not Modified (0ms)
+
+
+Started GET "/assets/ui/backarrow.png" for 127.0.0.1 at 2013-05-31 01:57:26 -0500
+Served asset /ui/backarrow.png - 304 Not Modified (0ms)
+
+
+Started GET "/assets/ux/research2.jpg" for 127.0.0.1 at 2013-05-31 01:57:26 -0500
+Served asset /ux/research2.jpg - 304 Not Modified (0ms)
+
+
+Started GET "/assets/cabin-bold-webfont.woff" for 127.0.0.1 at 2013-05-31 01:57:26 -0500
+Served asset /cabin-bold-webfont.woff - 304 Not Modified (0ms)
+
+
+Started GET "/assets/ux/leadership.jpg" for 127.0.0.1 at 2013-05-31 01:57:26 -0500
+Served asset /ux/leadership.jpg - 304 Not Modified (0ms)
+
+
+Started GET "/assets/ux/strategy2.jpg" for 127.0.0.1 at 2013-05-31 01:57:26 -0500
+Served asset /ux/strategy2.jpg - 304 Not Modified (0ms)
+
+
+Started GET "/ux-research" for 127.0.0.1 at 2013-05-31 01:58:28 -0500
+Processing by PagesController#ux-research as HTML
+  Rendered pages/ux-research.erb within layouts/application (1.0ms)
+  Rendered shared/_topbar.erb (0.1ms)
+  Rendered shared/_rightbar.erb (0.1ms)
+Completed 200 OK in 26ms (Views: 25.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/active_admin.css?body=1" for 127.0.0.1 at 2013-05-31 01:58:29 -0500
+Served asset /active_admin.css - 304 Not Modified (1ms)
+
+
+Started GET "/assets/articles.css?body=1" for 127.0.0.1 at 2013-05-31 01:58:29 -0500
+Served asset /articles.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bigvideo.css?body=1" for 127.0.0.1 at 2013-05-31 01:58:29 -0500
+Served asset /bigvideo.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.mCustomScrollbar.css?body=1" for 127.0.0.1 at 2013-05-31 01:58:29 -0500
+Served asset /jquery.mCustomScrollbar.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/foundation.css?body=1" for 127.0.0.1 at 2013-05-31 01:58:29 -0500
+Served asset /foundation.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/reset.css?body=1" for 127.0.0.1 at 2013-05-31 01:58:29 -0500
+Served asset /reset.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/reveal.css?body=1" for 127.0.0.1 at 2013-05-31 01:58:29 -0500
+Served asset /reveal.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2013-05-31 01:58:29 -0500
+Served asset /application.css - 304 Not Modified (1ms)
+
+
+Started GET "/assets/modernizr.js?body=1" for 127.0.0.1 at 2013-05-31 01:58:29 -0500
+Served asset /modernizr.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2013-05-31 01:58:29 -0500
+Served asset /jquery.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.easing.1.3.js?body=1" for 127.0.0.1 at 2013-05-31 01:58:29 -0500
+Served asset /jquery.easing.1.3.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery-ui.js?body=1" for 127.0.0.1 at 2013-05-31 01:58:29 -0500
+Served asset /jquery-ui.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.imagesloaded.min.js?body=1" for 127.0.0.1 at 2013-05-31 01:58:29 -0500
+Served asset /jquery.imagesloaded.min.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.scrollTo.js?body=1" for 127.0.0.1 at 2013-05-31 01:58:29 -0500
+Served asset /jquery.scrollTo.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/video.js?body=1" for 127.0.0.1 at 2013-05-31 01:58:29 -0500
+Served asset /video.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.fitvids.js?body=1" for 127.0.0.1 at 2013-05-31 01:58:29 -0500
+Served asset /jquery.fitvids.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.mCustomScrollbar.min.js?body=1" for 127.0.0.1 at 2013-05-31 01:58:29 -0500
+Served asset /jquery.mCustomScrollbar.min.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.reveal.js?body=1" for 127.0.0.1 at 2013-05-31 01:58:29 -0500
+Served asset /jquery.reveal.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.hoverIntent.minified.js?body=1" for 127.0.0.1 at 2013-05-31 01:58:29 -0500
+Served asset /jquery.hoverIntent.minified.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bigvideo.js?body=1" for 127.0.0.1 at 2013-05-31 01:58:29 -0500
+Served asset /bigvideo.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2013-05-31 01:58:29 -0500
+Served asset /application.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bgs/1.jpg" for 127.0.0.1 at 2013-05-31 01:58:29 -0500
+Served asset /bgs/1.jpg - 304 Not Modified (0ms)
+
+
+Started GET "/assets/ui/topbar-dropdown-arrow.png" for 127.0.0.1 at 2013-05-31 01:58:29 -0500
+Served asset /ui/topbar-dropdown-arrow.png - 304 Not Modified (0ms)
+
+
+Started GET "/assets/ui/topbar-logo.png" for 127.0.0.1 at 2013-05-31 01:58:29 -0500
+Served asset /ui/topbar-logo.png - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bgs/ux-research.jpg" for 127.0.0.1 at 2013-05-31 01:58:29 -0500
+Served asset /bgs/ux-research.jpg - 404 Not Found (11ms)
+
+ActionController::RoutingError (No route matches [GET] "/assets/bgs/ux-research.jpg"):
+  actionpack (3.2.12) lib/action_dispatch/middleware/debug_exceptions.rb:21:in `call'
+  actionpack (3.2.12) lib/action_dispatch/middleware/show_exceptions.rb:56:in `call'
+  railties (3.2.12) lib/rails/rack/logger.rb:32:in `call_app'
+  railties (3.2.12) lib/rails/rack/logger.rb:16:in `block in call'
+  activesupport (3.2.12) lib/active_support/tagged_logging.rb:22:in `tagged'
+  railties (3.2.12) lib/rails/rack/logger.rb:16:in `call'
+  actionpack (3.2.12) lib/action_dispatch/middleware/request_id.rb:22:in `call'
+  rack (1.4.5) lib/rack/methodoverride.rb:21:in `call'
+  rack (1.4.5) lib/rack/runtime.rb:17:in `call'
+  activesupport (3.2.12) lib/active_support/cache/strategy/local_cache.rb:72:in `call'
+  rack (1.4.5) lib/rack/lock.rb:15:in `call'
+  actionpack (3.2.12) lib/action_dispatch/middleware/static.rb:62:in `call'
+  railties (3.2.12) lib/rails/engine.rb:479:in `call'
+  railties (3.2.12) lib/rails/application.rb:223:in `call'
+  rack (1.4.5) lib/rack/content_length.rb:14:in `call'
+  railties (3.2.12) lib/rails/rack/log_tailer.rb:17:in `call'
+  rack (1.4.5) lib/rack/handler/webrick.rb:59:in `service'
+  /Users/frangucc/.rvm/rubies/ruby-1.9.3-p286/lib/ruby/1.9.1/webrick/httpserver.rb:138:in `service'
+  /Users/frangucc/.rvm/rubies/ruby-1.9.3-p286/lib/ruby/1.9.1/webrick/httpserver.rb:94:in `run'
+  /Users/frangucc/.rvm/rubies/ruby-1.9.3-p286/lib/ruby/1.9.1/webrick/server.rb:191:in `block in start_thread'
+
+
+  Rendered /Users/frangucc/.rvm/gems/ruby-1.9.3-p286/gems/actionpack-3.2.12/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (0.8ms)
+
+
+Started GET "/assets/topbar-bg.jpg" for 127.0.0.1 at 2013-05-31 01:58:29 -0500
+Served asset /topbar-bg.jpg - 304 Not Modified (0ms)
+
+
+Started GET "/assets/ui/topbar-limiter.png" for 127.0.0.1 at 2013-05-31 01:58:29 -0500
+Served asset /ui/topbar-limiter.png - 304 Not Modified (0ms)
+
+
+Started GET "/assets/ui/backarrow.png" for 127.0.0.1 at 2013-05-31 01:58:29 -0500
+Served asset /ui/backarrow.png - 304 Not Modified (0ms)
+
+
+Started GET "/assets/ui/topbar-dropdown-bg.jpg" for 127.0.0.1 at 2013-05-31 01:58:29 -0500
+Served asset /ui/topbar-dropdown-bg.jpg - 304 Not Modified (0ms)
+
+
+Started GET "/assets/cabin-bold-webfont.woff" for 127.0.0.1 at 2013-05-31 01:58:29 -0500
+Served asset /cabin-bold-webfont.woff - 304 Not Modified (0ms)
+
+
+Started GET "/assets/ux/research2.jpg" for 127.0.0.1 at 2013-05-31 01:58:29 -0500
+Served asset /ux/research2.jpg - 304 Not Modified (0ms)
+
+
+Started GET "/assets/ux/leadership.jpg" for 127.0.0.1 at 2013-05-31 01:58:29 -0500
+Served asset /ux/leadership.jpg - 304 Not Modified (0ms)
+
+
+Started GET "/assets/ux/strategy2.jpg" for 127.0.0.1 at 2013-05-31 01:58:29 -0500
+Served asset /ux/strategy2.jpg - 304 Not Modified (0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2013-05-31 02:02:09 -0500
+Processing by PagesController#index as HTML
+  Rendered pages/index.html.erb within layouts/application (0.1ms)
+  Rendered shared/_topbar.erb (0.0ms)
+  Rendered shared/_rightbar.erb (0.0ms)
+Completed 200 OK in 24ms (Views: 23.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/bigvideo.css?body=1" for 127.0.0.1 at 2013-05-31 02:02:10 -0500
+Served asset /bigvideo.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/reset.css?body=1" for 127.0.0.1 at 2013-05-31 02:02:10 -0500
+Served asset /reset.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/articles.css?body=1" for 127.0.0.1 at 2013-05-31 02:02:10 -0500
+Served asset /articles.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.mCustomScrollbar.css?body=1" for 127.0.0.1 at 2013-05-31 02:02:10 -0500
+Served asset /jquery.mCustomScrollbar.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/foundation.css?body=1" for 127.0.0.1 at 2013-05-31 02:02:10 -0500
+Served asset /foundation.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/active_admin.css?body=1" for 127.0.0.1 at 2013-05-31 02:02:10 -0500
+Served asset /active_admin.css - 304 Not Modified (1ms)
+
+
+Started GET "/assets/reveal.css?body=1" for 127.0.0.1 at 2013-05-31 02:02:10 -0500
+Served asset /reveal.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2013-05-31 02:02:10 -0500
+Served asset /application.css - 304 Not Modified (2ms)
+
+
+Started GET "/assets/modernizr.js?body=1" for 127.0.0.1 at 2013-05-31 02:02:10 -0500
+Served asset /modernizr.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2013-05-31 02:02:10 -0500
+Served asset /jquery.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.easing.1.3.js?body=1" for 127.0.0.1 at 2013-05-31 02:02:10 -0500
+Served asset /jquery.easing.1.3.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery-ui.js?body=1" for 127.0.0.1 at 2013-05-31 02:02:10 -0500
+Served asset /jquery-ui.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.imagesloaded.min.js?body=1" for 127.0.0.1 at 2013-05-31 02:02:10 -0500
+Served asset /jquery.imagesloaded.min.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.scrollTo.js?body=1" for 127.0.0.1 at 2013-05-31 02:02:10 -0500
+Served asset /jquery.scrollTo.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/video.js?body=1" for 127.0.0.1 at 2013-05-31 02:02:10 -0500
+Served asset /video.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.fitvids.js?body=1" for 127.0.0.1 at 2013-05-31 02:02:10 -0500
+Served asset /jquery.fitvids.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.mCustomScrollbar.min.js?body=1" for 127.0.0.1 at 2013-05-31 02:02:10 -0500
+Served asset /jquery.mCustomScrollbar.min.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.reveal.js?body=1" for 127.0.0.1 at 2013-05-31 02:02:10 -0500
+Served asset /jquery.reveal.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.hoverIntent.minified.js?body=1" for 127.0.0.1 at 2013-05-31 02:02:10 -0500
+Served asset /jquery.hoverIntent.minified.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bigvideo.js?body=1" for 127.0.0.1 at 2013-05-31 02:02:10 -0500
+Served asset /bigvideo.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2013-05-31 02:02:10 -0500
+Served asset /application.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bgs/1.jpg" for 127.0.0.1 at 2013-05-31 02:02:10 -0500
+Served asset /bgs/1.jpg - 304 Not Modified (0ms)
+
+
+Started GET "/assets/ui/topbar-logo.png" for 127.0.0.1 at 2013-05-31 02:02:10 -0500
+Served asset /ui/topbar-logo.png - 304 Not Modified (0ms)
+
+
+Started GET "/assets/ui/topbar-dropdown-arrow.png" for 127.0.0.1 at 2013-05-31 02:02:10 -0500
+Served asset /ui/topbar-dropdown-arrow.png - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bgs/home_bg.jpg" for 127.0.0.1 at 2013-05-31 02:02:10 -0500
+Served asset /bgs/home_bg.jpg - 304 Not Modified (0ms)
+
+
+Started GET "/assets/topbar-bg.jpg" for 127.0.0.1 at 2013-05-31 02:02:10 -0500
+Served asset /topbar-bg.jpg - 304 Not Modified (0ms)
+
+
+Started GET "/assets/ui/topbar-limiter.png" for 127.0.0.1 at 2013-05-31 02:02:10 -0500
+Served asset /ui/topbar-limiter.png - 304 Not Modified (0ms)
+
+
+Started GET "/assets/ui/topbar-dropdown-bg.jpg" for 127.0.0.1 at 2013-05-31 02:02:10 -0500
+Served asset /ui/topbar-dropdown-bg.jpg - 304 Not Modified (0ms)
+
+
+Started GET "/assets/ui/blue-noise.gif" for 127.0.0.1 at 2013-05-31 02:02:10 -0500
+Served asset /ui/blue-noise.gif - 304 Not Modified (0ms)
+
+
+Started GET "/assets/cabin-bold-webfont.woff" for 127.0.0.1 at 2013-05-31 02:02:10 -0500
+Served asset /cabin-bold-webfont.woff - 304 Not Modified (0ms)
+
+
+Started GET "/assets/cabin-bolditalic-webfont.woff" for 127.0.0.1 at 2013-05-31 02:02:10 -0500
+Served asset /cabin-bolditalic-webfont.woff - 304 Not Modified (0ms)
+
+
+Started GET "/tour" for 127.0.0.1 at 2013-05-31 02:02:12 -0500
+Processing by PagesController#tour as HTML
+  Rendered pages/tour.html.erb within layouts/application (1.3ms)
+  Rendered shared/_topbar.erb (0.0ms)
+  Rendered shared/_rightbar.erb (0.0ms)
+Completed 200 OK in 18ms (Views: 17.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/active_admin.css?body=1" for 127.0.0.1 at 2013-05-31 02:02:12 -0500
+Served asset /active_admin.css - 304 Not Modified (1ms)
+
+
+Started GET "/assets/bigvideo.css?body=1" for 127.0.0.1 at 2013-05-31 02:02:12 -0500
+Served asset /bigvideo.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.mCustomScrollbar.css?body=1" for 127.0.0.1 at 2013-05-31 02:02:12 -0500
+Served asset /jquery.mCustomScrollbar.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/reset.css?body=1" for 127.0.0.1 at 2013-05-31 02:02:12 -0500
+Served asset /reset.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/foundation.css?body=1" for 127.0.0.1 at 2013-05-31 02:02:12 -0500
+Served asset /foundation.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/reveal.css?body=1" for 127.0.0.1 at 2013-05-31 02:02:12 -0500
+Served asset /reveal.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2013-05-31 02:02:12 -0500
+Served asset /application.css - 304 Not Modified (1ms)
+
+
+Started GET "/assets/modernizr.js?body=1" for 127.0.0.1 at 2013-05-31 02:02:12 -0500
+Served asset /modernizr.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2013-05-31 02:02:12 -0500
+Served asset /jquery.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.easing.1.3.js?body=1" for 127.0.0.1 at 2013-05-31 02:02:12 -0500
+Served asset /jquery.easing.1.3.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery-ui.js?body=1" for 127.0.0.1 at 2013-05-31 02:02:12 -0500
+Served asset /jquery-ui.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.imagesloaded.min.js?body=1" for 127.0.0.1 at 2013-05-31 02:02:12 -0500
+Served asset /jquery.imagesloaded.min.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.scrollTo.js?body=1" for 127.0.0.1 at 2013-05-31 02:02:13 -0500
+Served asset /jquery.scrollTo.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/video.js?body=1" for 127.0.0.1 at 2013-05-31 02:02:13 -0500
+Served asset /video.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.fitvids.js?body=1" for 127.0.0.1 at 2013-05-31 02:02:13 -0500
+Served asset /jquery.fitvids.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.mCustomScrollbar.min.js?body=1" for 127.0.0.1 at 2013-05-31 02:02:13 -0500
+Served asset /jquery.mCustomScrollbar.min.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.reveal.js?body=1" for 127.0.0.1 at 2013-05-31 02:02:13 -0500
+Served asset /jquery.reveal.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.hoverIntent.minified.js?body=1" for 127.0.0.1 at 2013-05-31 02:02:13 -0500
+Served asset /jquery.hoverIntent.minified.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bigvideo.js?body=1" for 127.0.0.1 at 2013-05-31 02:02:13 -0500
+Served asset /bigvideo.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2013-05-31 02:02:13 -0500
+Served asset /application.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/tour.js?body=1" for 127.0.0.1 at 2013-05-31 02:02:13 -0500
+Served asset /tour.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/ui/topbar-logo.png" for 127.0.0.1 at 2013-05-31 02:02:13 -0500
+Served asset /ui/topbar-logo.png - 304 Not Modified (0ms)
+
+
+Started GET "/assets/ui/white-arrow-right.png" for 127.0.0.1 at 2013-05-31 02:02:13 -0500
+Served asset /ui/white-arrow-right.png - 304 Not Modified (0ms)
+
+
+Started GET "/assets/ui/white-arrow-left.png" for 127.0.0.1 at 2013-05-31 02:02:13 -0500
+Served asset /ui/white-arrow-left.png - 304 Not Modified (0ms)
+
+
+Started GET "/assets/ui/topbar-dropdown-arrow.png" for 127.0.0.1 at 2013-05-31 02:02:13 -0500
+Served asset /ui/topbar-dropdown-arrow.png - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bgs/tour.jpg" for 127.0.0.1 at 2013-05-31 02:02:13 -0500
+Served asset /bgs/tour.jpg - 304 Not Modified (0ms)
+
+
+Started GET "/assets/ui/tour-arrow.png" for 127.0.0.1 at 2013-05-31 02:02:13 -0500
+Served asset /ui/tour-arrow.png - 304 Not Modified (0ms)
+
+
+Started GET "/assets/ui/keyboard.png" for 127.0.0.1 at 2013-05-31 02:02:13 -0500
+Served asset /ui/keyboard.png - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bgs/v1.jpg" for 127.0.0.1 at 2013-05-31 02:02:13 -0500
+Served asset /bgs/v1.jpg - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bgs/v1.jpg" for 127.0.0.1 at 2013-05-31 02:02:13 -0500
+Served asset /bgs/v1.jpg - 304 Not Modified (0ms)
+
+
+Started GET "/assets/ui/pdf.png" for 127.0.0.1 at 2013-05-31 02:02:15 -0500
+Served asset /ui/pdf.png - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bgs/v2.jpg" for 127.0.0.1 at 2013-05-31 02:02:15 -0500
+Served asset /bgs/v2.jpg - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bgs/v2.jpg" for 127.0.0.1 at 2013-05-31 02:02:15 -0500
+Served asset /bgs/v2.jpg - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bgs/v3.jpg" for 127.0.0.1 at 2013-05-31 02:02:16 -0500
+Served asset /bgs/v3.jpg - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bgs/v3.jpg" for 127.0.0.1 at 2013-05-31 02:02:16 -0500
+Served asset /bgs/v3.jpg - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bgs/v4.jpg" for 127.0.0.1 at 2013-05-31 02:02:17 -0500
+Served asset /bgs/v4.jpg - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bgs/v4.jpg" for 127.0.0.1 at 2013-05-31 02:02:17 -0500
+Served asset /bgs/v4.jpg - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bgs/v5.jpg" for 127.0.0.1 at 2013-05-31 02:02:18 -0500
+Served asset /bgs/v5.jpg - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bgs/v5.jpg" for 127.0.0.1 at 2013-05-31 02:02:18 -0500
+Served asset /bgs/v5.jpg - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bgs/v6.jpg" for 127.0.0.1 at 2013-05-31 02:02:19 -0500
+Served asset /bgs/v6.jpg - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bgs/v6.jpg" for 127.0.0.1 at 2013-05-31 02:02:20 -0500
+Served asset /bgs/v6.jpg - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bgs/v4.jpg" for 127.0.0.1 at 2013-05-31 02:02:35 -0500
+Served asset /bgs/v4.jpg - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bgs/v4.jpg" for 127.0.0.1 at 2013-05-31 02:02:35 -0500
+Served asset /bgs/v4.jpg - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bgs/v5.jpg" for 127.0.0.1 at 2013-05-31 02:02:37 -0500
+Served asset /bgs/v5.jpg - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bgs/v5.jpg" for 127.0.0.1 at 2013-05-31 02:02:37 -0500
+Served asset /bgs/v5.jpg - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bgs/v6.jpg" for 127.0.0.1 at 2013-05-31 02:02:38 -0500
+Served asset /bgs/v6.jpg - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bgs/v6.jpg" for 127.0.0.1 at 2013-05-31 02:02:38 -0500
+Served asset /bgs/v6.jpg - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bgs/v7.jpg" for 127.0.0.1 at 2013-05-31 02:02:39 -0500
+Served asset /bgs/v7.jpg - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bgs/v7.jpg" for 127.0.0.1 at 2013-05-31 02:02:40 -0500
+Served asset /bgs/v7.jpg - 304 Not Modified (0ms)
+
+
+Started GET "/index" for 127.0.0.1 at 2013-05-31 02:02:46 -0500
+Processing by PagesController#index as HTML
+  Rendered pages/index.html.erb within layouts/application (0.1ms)
+  Rendered shared/_topbar.erb (0.1ms)
+  Rendered shared/_rightbar.erb (0.1ms)
+Completed 200 OK in 24ms (Views: 23.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/articles.css?body=1" for 127.0.0.1 at 2013-05-31 02:02:46 -0500
+Served asset /articles.css - 200 OK (0ms)
+
+
+Started GET "/assets/active_admin.css?body=1" for 127.0.0.1 at 2013-05-31 02:02:46 -0500
+Served asset /active_admin.css - 304 Not Modified (1ms)
+
+
+Started GET "/assets/reset.css?body=1" for 127.0.0.1 at 2013-05-31 02:02:46 -0500
+Served asset /reset.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.mCustomScrollbar.css?body=1" for 127.0.0.1 at 2013-05-31 02:02:46 -0500
+Served asset /jquery.mCustomScrollbar.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bigvideo.css?body=1" for 127.0.0.1 at 2013-05-31 02:02:46 -0500
+Served asset /bigvideo.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/foundation.css?body=1" for 127.0.0.1 at 2013-05-31 02:02:46 -0500
+Served asset /foundation.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/reveal.css?body=1" for 127.0.0.1 at 2013-05-31 02:02:46 -0500
+Served asset /reveal.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2013-05-31 02:02:46 -0500
+Served asset /application.css - 304 Not Modified (2ms)
+
+
+Started GET "/assets/modernizr.js?body=1" for 127.0.0.1 at 2013-05-31 02:02:46 -0500
+Served asset /modernizr.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2013-05-31 02:02:46 -0500
+Served asset /jquery.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.easing.1.3.js?body=1" for 127.0.0.1 at 2013-05-31 02:02:46 -0500
+Served asset /jquery.easing.1.3.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery-ui.js?body=1" for 127.0.0.1 at 2013-05-31 02:02:46 -0500
+Served asset /jquery-ui.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.imagesloaded.min.js?body=1" for 127.0.0.1 at 2013-05-31 02:02:46 -0500
+Served asset /jquery.imagesloaded.min.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.scrollTo.js?body=1" for 127.0.0.1 at 2013-05-31 02:02:46 -0500
+Served asset /jquery.scrollTo.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/video.js?body=1" for 127.0.0.1 at 2013-05-31 02:02:46 -0500
+Served asset /video.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.fitvids.js?body=1" for 127.0.0.1 at 2013-05-31 02:02:46 -0500
+Served asset /jquery.fitvids.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.mCustomScrollbar.min.js?body=1" for 127.0.0.1 at 2013-05-31 02:02:46 -0500
+Served asset /jquery.mCustomScrollbar.min.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.reveal.js?body=1" for 127.0.0.1 at 2013-05-31 02:02:46 -0500
+Served asset /jquery.reveal.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.hoverIntent.minified.js?body=1" for 127.0.0.1 at 2013-05-31 02:02:46 -0500
+Served asset /jquery.hoverIntent.minified.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bigvideo.js?body=1" for 127.0.0.1 at 2013-05-31 02:02:46 -0500
+Served asset /bigvideo.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2013-05-31 02:02:46 -0500
+Served asset /application.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bgs/1.jpg" for 127.0.0.1 at 2013-05-31 02:02:46 -0500
+Served asset /bgs/1.jpg - 304 Not Modified (0ms)
+
+
+Started GET "/assets/ui/topbar-logo.png" for 127.0.0.1 at 2013-05-31 02:02:46 -0500
+Served asset /ui/topbar-logo.png - 304 Not Modified (0ms)
+
+
+Started GET "/assets/ui/topbar-dropdown-arrow.png" for 127.0.0.1 at 2013-05-31 02:02:46 -0500
+Served asset /ui/topbar-dropdown-arrow.png - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bgs/home_bg.jpg" for 127.0.0.1 at 2013-05-31 02:02:46 -0500
+Served asset /bgs/home_bg.jpg - 304 Not Modified (0ms)
+
+
+Started GET "/assets/topbar-bg.jpg" for 127.0.0.1 at 2013-05-31 02:02:46 -0500
+Served asset /topbar-bg.jpg - 304 Not Modified (0ms)
+
+
+Started GET "/assets/ui/topbar-limiter.png" for 127.0.0.1 at 2013-05-31 02:02:46 -0500
+Served asset /ui/topbar-limiter.png - 304 Not Modified (0ms)
+
+
+Started GET "/assets/ui/topbar-dropdown-bg.jpg" for 127.0.0.1 at 2013-05-31 02:02:46 -0500
+Served asset /ui/topbar-dropdown-bg.jpg - 304 Not Modified (0ms)
+
+
+Started GET "/assets/ui/blue-noise.gif" for 127.0.0.1 at 2013-05-31 02:02:46 -0500
+Served asset /ui/blue-noise.gif - 304 Not Modified (0ms)
+
+
+Started GET "/assets/cabin-bold-webfont.woff" for 127.0.0.1 at 2013-05-31 02:02:46 -0500
+Served asset /cabin-bold-webfont.woff - 304 Not Modified (0ms)
+
+
+Started GET "/assets/cabin-bolditalic-webfont.woff" for 127.0.0.1 at 2013-05-31 02:02:46 -0500
+Served asset /cabin-bolditalic-webfont.woff - 304 Not Modified (0ms)
+
+
+Started GET "/tour" for 127.0.0.1 at 2013-05-31 02:02:55 -0500
+Processing by PagesController#tour as HTML
+  Rendered pages/tour.html.erb within layouts/application (1.3ms)
+  Rendered shared/_topbar.erb (0.0ms)
+  Rendered shared/_rightbar.erb (0.0ms)
+Completed 200 OK in 18ms (Views: 17.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/active_admin.css?body=1" for 127.0.0.1 at 2013-05-31 02:02:55 -0500
+Served asset /active_admin.css - 304 Not Modified (2ms)
+
+
+Started GET "/assets/jquery.mCustomScrollbar.css?body=1" for 127.0.0.1 at 2013-05-31 02:02:55 -0500
+Served asset /jquery.mCustomScrollbar.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/foundation.css?body=1" for 127.0.0.1 at 2013-05-31 02:02:55 -0500
+Served asset /foundation.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/reset.css?body=1" for 127.0.0.1 at 2013-05-31 02:02:55 -0500
+Served asset /reset.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bigvideo.css?body=1" for 127.0.0.1 at 2013-05-31 02:02:55 -0500
+Served asset /bigvideo.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/reveal.css?body=1" for 127.0.0.1 at 2013-05-31 02:02:55 -0500
+Served asset /reveal.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2013-05-31 02:02:55 -0500
+Served asset /application.css - 304 Not Modified (1ms)
+
+
+Started GET "/assets/modernizr.js?body=1" for 127.0.0.1 at 2013-05-31 02:02:55 -0500
+Served asset /modernizr.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2013-05-31 02:02:55 -0500
+Served asset /jquery.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.easing.1.3.js?body=1" for 127.0.0.1 at 2013-05-31 02:02:55 -0500
+Served asset /jquery.easing.1.3.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery-ui.js?body=1" for 127.0.0.1 at 2013-05-31 02:02:55 -0500
+Served asset /jquery-ui.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.imagesloaded.min.js?body=1" for 127.0.0.1 at 2013-05-31 02:02:55 -0500
+Served asset /jquery.imagesloaded.min.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.scrollTo.js?body=1" for 127.0.0.1 at 2013-05-31 02:02:55 -0500
+Served asset /jquery.scrollTo.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/video.js?body=1" for 127.0.0.1 at 2013-05-31 02:02:55 -0500
+Served asset /video.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.fitvids.js?body=1" for 127.0.0.1 at 2013-05-31 02:02:55 -0500
+Served asset /jquery.fitvids.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.mCustomScrollbar.min.js?body=1" for 127.0.0.1 at 2013-05-31 02:02:55 -0500
+Served asset /jquery.mCustomScrollbar.min.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.reveal.js?body=1" for 127.0.0.1 at 2013-05-31 02:02:55 -0500
+Served asset /jquery.reveal.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.hoverIntent.minified.js?body=1" for 127.0.0.1 at 2013-05-31 02:02:55 -0500
+Served asset /jquery.hoverIntent.minified.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bigvideo.js?body=1" for 127.0.0.1 at 2013-05-31 02:02:55 -0500
+Served asset /bigvideo.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2013-05-31 02:02:55 -0500
+Served asset /application.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/tour.js?body=1" for 127.0.0.1 at 2013-05-31 02:02:55 -0500
+Served asset /tour.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/ui/topbar-logo.png" for 127.0.0.1 at 2013-05-31 02:02:55 -0500
+Served asset /ui/topbar-logo.png - 304 Not Modified (0ms)
+
+
+Started GET "/assets/ui/white-arrow-left.png" for 127.0.0.1 at 2013-05-31 02:02:55 -0500
+Served asset /ui/white-arrow-left.png - 304 Not Modified (0ms)
+
+
+Started GET "/assets/ui/topbar-dropdown-arrow.png" for 127.0.0.1 at 2013-05-31 02:02:55 -0500
+Served asset /ui/topbar-dropdown-arrow.png - 304 Not Modified (0ms)
+
+
+Started GET "/assets/ui/white-arrow-right.png" for 127.0.0.1 at 2013-05-31 02:02:55 -0500
+Served asset /ui/white-arrow-right.png - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bgs/tour.jpg" for 127.0.0.1 at 2013-05-31 02:02:55 -0500
+Served asset /bgs/tour.jpg - 304 Not Modified (0ms)
+
+
+Started GET "/assets/ui/tour-arrow.png" for 127.0.0.1 at 2013-05-31 02:02:55 -0500
+Served asset /ui/tour-arrow.png - 304 Not Modified (0ms)
+
+
+Started GET "/assets/ui/keyboard.png" for 127.0.0.1 at 2013-05-31 02:02:55 -0500
+Served asset /ui/keyboard.png - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bgs/v1.jpg" for 127.0.0.1 at 2013-05-31 02:02:55 -0500
+Served asset /bgs/v1.jpg - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bgs/v1.jpg" for 127.0.0.1 at 2013-05-31 02:02:56 -0500
+Served asset /bgs/v1.jpg - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bgs/v3.jpg" for 127.0.0.1 at 2013-05-31 02:03:42 -0500
+Served asset /bgs/v3.jpg - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bgs/v3.jpg" for 127.0.0.1 at 2013-05-31 02:03:42 -0500
+Served asset /bgs/v3.jpg - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bgs/v4.jpg" for 127.0.0.1 at 2013-05-31 02:03:43 -0500
+Served asset /bgs/v4.jpg - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bgs/v4.jpg" for 127.0.0.1 at 2013-05-31 02:03:43 -0500
+Served asset /bgs/v4.jpg - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bgs/v5.jpg" for 127.0.0.1 at 2013-05-31 02:03:44 -0500
+Served asset /bgs/v5.jpg - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bgs/v5.jpg" for 127.0.0.1 at 2013-05-31 02:03:45 -0500
+Served asset /bgs/v5.jpg - 304 Not Modified (0ms)
+
+
+Started GET "/tour" for 127.0.0.1 at 2013-05-31 02:04:23 -0500
+Processing by PagesController#tour as HTML
+  Rendered pages/tour.html.erb within layouts/application (2.0ms)
+  Rendered shared/_topbar.erb (0.6ms)
+  Rendered shared/_rightbar.erb (0.0ms)
+Completed 200 OK in 24ms (Views: 23.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/active_admin.css?body=1" for 127.0.0.1 at 2013-05-31 02:04:23 -0500
+Served asset /active_admin.css - 304 Not Modified (1ms)
+
+
+Started GET "/assets/articles.css?body=1" for 127.0.0.1 at 2013-05-31 02:04:23 -0500
+Served asset /articles.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bigvideo.css?body=1" for 127.0.0.1 at 2013-05-31 02:04:23 -0500
+Served asset /bigvideo.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.mCustomScrollbar.css?body=1" for 127.0.0.1 at 2013-05-31 02:04:23 -0500
+Served asset /jquery.mCustomScrollbar.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/foundation.css?body=1" for 127.0.0.1 at 2013-05-31 02:04:23 -0500
+Served asset /foundation.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/reset.css?body=1" for 127.0.0.1 at 2013-05-31 02:04:23 -0500
+Served asset /reset.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/reveal.css?body=1" for 127.0.0.1 at 2013-05-31 02:04:23 -0500
+Served asset /reveal.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2013-05-31 02:04:23 -0500
+Served asset /application.css - 304 Not Modified (1ms)
+
+
+Started GET "/assets/modernizr.js?body=1" for 127.0.0.1 at 2013-05-31 02:04:23 -0500
+Served asset /modernizr.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2013-05-31 02:04:23 -0500
+Served asset /jquery.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.easing.1.3.js?body=1" for 127.0.0.1 at 2013-05-31 02:04:23 -0500
+Served asset /jquery.easing.1.3.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery-ui.js?body=1" for 127.0.0.1 at 2013-05-31 02:04:23 -0500
+Served asset /jquery-ui.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.imagesloaded.min.js?body=1" for 127.0.0.1 at 2013-05-31 02:04:23 -0500
+Served asset /jquery.imagesloaded.min.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.scrollTo.js?body=1" for 127.0.0.1 at 2013-05-31 02:04:23 -0500
+Served asset /jquery.scrollTo.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/video.js?body=1" for 127.0.0.1 at 2013-05-31 02:04:23 -0500
+Served asset /video.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.fitvids.js?body=1" for 127.0.0.1 at 2013-05-31 02:04:23 -0500
+Served asset /jquery.fitvids.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.mCustomScrollbar.min.js?body=1" for 127.0.0.1 at 2013-05-31 02:04:23 -0500
+Served asset /jquery.mCustomScrollbar.min.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.reveal.js?body=1" for 127.0.0.1 at 2013-05-31 02:04:23 -0500
+Served asset /jquery.reveal.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.hoverIntent.minified.js?body=1" for 127.0.0.1 at 2013-05-31 02:04:23 -0500
+Served asset /jquery.hoverIntent.minified.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bigvideo.js?body=1" for 127.0.0.1 at 2013-05-31 02:04:23 -0500
+Served asset /bigvideo.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2013-05-31 02:04:23 -0500
+Served asset /application.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/tour.js?body=1" for 127.0.0.1 at 2013-05-31 02:04:23 -0500
+Served asset /tour.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/ui/white-arrow-left.png" for 127.0.0.1 at 2013-05-31 02:04:23 -0500
+Served asset /ui/white-arrow-left.png - 304 Not Modified (0ms)
+
+
+Started GET "/assets/ui/topbar-logo.png" for 127.0.0.1 at 2013-05-31 02:04:23 -0500
+Served asset /ui/topbar-logo.png - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bgs/1.jpg" for 127.0.0.1 at 2013-05-31 02:04:23 -0500
+Served asset /bgs/1.jpg - 304 Not Modified (0ms)
+
+
+Started GET "/assets/ui/white-arrow-right.png" for 127.0.0.1 at 2013-05-31 02:04:23 -0500
+Served asset /ui/white-arrow-right.png - 304 Not Modified (0ms)
+
+
+Started GET "/assets/ui/topbar-dropdown-arrow.png" for 127.0.0.1 at 2013-05-31 02:04:23 -0500
+Served asset /ui/topbar-dropdown-arrow.png - 304 Not Modified (0ms)
+
+
+Started GET "/assets/topbar-bg.jpg" for 127.0.0.1 at 2013-05-31 02:04:23 -0500
+Served asset /topbar-bg.jpg - 304 Not Modified (0ms)
+
+
+Started GET "/assets/ui/topbar-limiter.png" for 127.0.0.1 at 2013-05-31 02:04:24 -0500
+Served asset /ui/topbar-limiter.png - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bgs/tour.jpg" for 127.0.0.1 at 2013-05-31 02:04:24 -0500
+Served asset /bgs/tour.jpg - 304 Not Modified (0ms)
+
+
+Started GET "/assets/ui/topbar-dropdown-bg.jpg" for 127.0.0.1 at 2013-05-31 02:04:24 -0500
+Served asset /ui/topbar-dropdown-bg.jpg - 304 Not Modified (0ms)
+
+
+Started GET "/assets/ui/keyboard.png" for 127.0.0.1 at 2013-05-31 02:04:24 -0500
+Served asset /ui/keyboard.png - 304 Not Modified (0ms)
+
+
+Started GET "/assets/ui/tour-arrow.png" for 127.0.0.1 at 2013-05-31 02:04:24 -0500
+Served asset /ui/tour-arrow.png - 304 Not Modified (0ms)
+
+
+Started GET "/assets/ui/blue-noise.gif" for 127.0.0.1 at 2013-05-31 02:04:24 -0500
+Served asset /ui/blue-noise.gif - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bgs/v1.jpg" for 127.0.0.1 at 2013-05-31 02:04:24 -0500
+Served asset /bgs/v1.jpg - 304 Not Modified (0ms)
+
+
+Started GET "/assets/cabin-bold-webfont.woff" for 127.0.0.1 at 2013-05-31 02:04:24 -0500
+Served asset /cabin-bold-webfont.woff - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bgs/v1.jpg" for 127.0.0.1 at 2013-05-31 02:04:24 -0500
+Served asset /bgs/v1.jpg - 304 Not Modified (0ms)
+
+
+Started GET "/ux" for 127.0.0.1 at 2013-05-31 02:04:49 -0500
+Processing by PagesController#ux as HTML
+  Rendered pages/ux.erb within layouts/application (0.0ms)
+  Rendered shared/_topbar.erb (0.1ms)
+  Rendered shared/_rightbar.erb (0.0ms)
+Completed 200 OK in 20ms (Views: 19.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/active_admin.css?body=1" for 127.0.0.1 at 2013-05-31 02:04:49 -0500
+Served asset /active_admin.css - 304 Not Modified (2ms)
+
+
+Started GET "/assets/bigvideo.css?body=1" for 127.0.0.1 at 2013-05-31 02:04:49 -0500
+Served asset /bigvideo.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/articles.css?body=1" for 127.0.0.1 at 2013-05-31 02:04:49 -0500
+Served asset /articles.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/foundation.css?body=1" for 127.0.0.1 at 2013-05-31 02:04:49 -0500
+Served asset /foundation.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/reset.css?body=1" for 127.0.0.1 at 2013-05-31 02:04:49 -0500
+Served asset /reset.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.mCustomScrollbar.css?body=1" for 127.0.0.1 at 2013-05-31 02:04:49 -0500
+Served asset /jquery.mCustomScrollbar.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2013-05-31 02:04:49 -0500
+Served asset /application.css - 304 Not Modified (1ms)
+
+
+Started GET "/assets/reveal.css?body=1" for 127.0.0.1 at 2013-05-31 02:04:49 -0500
+Served asset /reveal.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/modernizr.js?body=1" for 127.0.0.1 at 2013-05-31 02:04:49 -0500
+Served asset /modernizr.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2013-05-31 02:04:49 -0500
+Served asset /jquery.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.easing.1.3.js?body=1" for 127.0.0.1 at 2013-05-31 02:04:49 -0500
+Served asset /jquery.easing.1.3.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery-ui.js?body=1" for 127.0.0.1 at 2013-05-31 02:04:49 -0500
+Served asset /jquery-ui.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.imagesloaded.min.js?body=1" for 127.0.0.1 at 2013-05-31 02:04:49 -0500
+Served asset /jquery.imagesloaded.min.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.scrollTo.js?body=1" for 127.0.0.1 at 2013-05-31 02:04:49 -0500
+Served asset /jquery.scrollTo.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/video.js?body=1" for 127.0.0.1 at 2013-05-31 02:04:49 -0500
+Served asset /video.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.fitvids.js?body=1" for 127.0.0.1 at 2013-05-31 02:04:49 -0500
+Served asset /jquery.fitvids.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.mCustomScrollbar.min.js?body=1" for 127.0.0.1 at 2013-05-31 02:04:49 -0500
+Served asset /jquery.mCustomScrollbar.min.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.reveal.js?body=1" for 127.0.0.1 at 2013-05-31 02:04:49 -0500
+Served asset /jquery.reveal.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.hoverIntent.minified.js?body=1" for 127.0.0.1 at 2013-05-31 02:04:49 -0500
+Served asset /jquery.hoverIntent.minified.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bigvideo.js?body=1" for 127.0.0.1 at 2013-05-31 02:04:49 -0500
+Served asset /bigvideo.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2013-05-31 02:04:49 -0500
+Served asset /application.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/ui/topbar-logo.png" for 127.0.0.1 at 2013-05-31 02:04:49 -0500
+Served asset /ui/topbar-logo.png - 304 Not Modified (0ms)
+
+
+Started GET "/assets/ui/topbar-dropdown-arrow.png" for 127.0.0.1 at 2013-05-31 02:04:49 -0500
+Served asset /ui/topbar-dropdown-arrow.png - 304 Not Modified (0ms)
+
+
+Started GET "/assets/ui/backarrow.png" for 127.0.0.1 at 2013-05-31 02:04:49 -0500
+Served asset /ui/backarrow.png - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bgs/ux.jpg" for 127.0.0.1 at 2013-05-31 02:04:49 -0500
+Served asset /bgs/ux.jpg - 404 Not Found (78ms)
+
+ActionController::RoutingError (No route matches [GET] "/assets/bgs/ux.jpg"):
+  actionpack (3.2.12) lib/action_dispatch/middleware/debug_exceptions.rb:21:in `call'
+  actionpack (3.2.12) lib/action_dispatch/middleware/show_exceptions.rb:56:in `call'
+  railties (3.2.12) lib/rails/rack/logger.rb:32:in `call_app'
+  railties (3.2.12) lib/rails/rack/logger.rb:16:in `block in call'
+  activesupport (3.2.12) lib/active_support/tagged_logging.rb:22:in `tagged'
+  railties (3.2.12) lib/rails/rack/logger.rb:16:in `call'
+  actionpack (3.2.12) lib/action_dispatch/middleware/request_id.rb:22:in `call'
+  rack (1.4.5) lib/rack/methodoverride.rb:21:in `call'
+  rack (1.4.5) lib/rack/runtime.rb:17:in `call'
+  activesupport (3.2.12) lib/active_support/cache/strategy/local_cache.rb:72:in `call'
+  rack (1.4.5) lib/rack/lock.rb:15:in `call'
+  actionpack (3.2.12) lib/action_dispatch/middleware/static.rb:62:in `call'
+  railties (3.2.12) lib/rails/engine.rb:479:in `call'
+  railties (3.2.12) lib/rails/application.rb:223:in `call'
+  rack (1.4.5) lib/rack/content_length.rb:14:in `call'
+  railties (3.2.12) lib/rails/rack/log_tailer.rb:17:in `call'
+  rack (1.4.5) lib/rack/handler/webrick.rb:59:in `service'
+  /Users/frangucc/.rvm/rubies/ruby-1.9.3-p286/lib/ruby/1.9.1/webrick/httpserver.rb:138:in `service'
+  /Users/frangucc/.rvm/rubies/ruby-1.9.3-p286/lib/ruby/1.9.1/webrick/httpserver.rb:94:in `run'
+  /Users/frangucc/.rvm/rubies/ruby-1.9.3-p286/lib/ruby/1.9.1/webrick/server.rb:191:in `block in start_thread'
+
+
+  Rendered /Users/frangucc/.rvm/gems/ruby-1.9.3-p286/gems/actionpack-3.2.12/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (0.8ms)
+
+
+Started GET "/assets/bgs/t7.jpg" for 127.0.0.1 at 2013-05-31 02:04:49 -0500
+Served asset /bgs/t7.jpg - 304 Not Modified (0ms)
+
+
+Started GET "/assets/ux/leadership2.jpg" for 127.0.0.1 at 2013-05-31 02:04:49 -0500
+Served asset /ux/leadership2.jpg - 304 Not Modified (0ms)
+
+
+Started GET "/assets/ux/strategy2.jpg" for 127.0.0.1 at 2013-05-31 02:04:49 -0500
+Served asset /ux/strategy2.jpg - 304 Not Modified (0ms)
+
+
+Started GET "/assets/ux/collaboration2.jpg" for 127.0.0.1 at 2013-05-31 02:04:49 -0500
+Served asset /ux/collaboration2.jpg - 304 Not Modified (0ms)
+
+
+Started GET "/assets/ux/priority.jpg" for 127.0.0.1 at 2013-05-31 02:04:49 -0500
+Served asset /ux/priority.jpg - 304 Not Modified (0ms)
+
+
+Started GET "/assets/ux/sellsimple_bike.jpg" for 127.0.0.1 at 2013-05-31 02:04:49 -0500
+Served asset /ux/sellsimple_bike.jpg - 304 Not Modified (0ms)
+
+
+Started GET "/ux" for 127.0.0.1 at 2013-05-31 02:04:57 -0500
+Processing by PagesController#ux as HTML
+  Rendered pages/ux.erb within layouts/application (0.1ms)
+  Rendered shared/_topbar.erb (0.0ms)
+  Rendered shared/_rightbar.erb (0.0ms)
+Completed 200 OK in 20ms (Views: 19.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/bigvideo.css?body=1" for 127.0.0.1 at 2013-05-31 02:04:57 -0500
+Served asset /bigvideo.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/articles.css?body=1" for 127.0.0.1 at 2013-05-31 02:04:57 -0500
+Served asset /articles.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.mCustomScrollbar.css?body=1" for 127.0.0.1 at 2013-05-31 02:04:57 -0500
+Served asset /jquery.mCustomScrollbar.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/foundation.css?body=1" for 127.0.0.1 at 2013-05-31 02:04:57 -0500
+Served asset /foundation.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/active_admin.css?body=1" for 127.0.0.1 at 2013-05-31 02:04:57 -0500
+Served asset /active_admin.css - 304 Not Modified (1ms)
+
+
+Started GET "/assets/reset.css?body=1" for 127.0.0.1 at 2013-05-31 02:04:57 -0500
+Served asset /reset.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/reveal.css?body=1" for 127.0.0.1 at 2013-05-31 02:04:57 -0500
+Served asset /reveal.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2013-05-31 02:04:57 -0500
+Served asset /application.css - 304 Not Modified (1ms)
+
+
+Started GET "/assets/modernizr.js?body=1" for 127.0.0.1 at 2013-05-31 02:04:57 -0500
+Served asset /modernizr.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2013-05-31 02:04:57 -0500
+Served asset /jquery.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.easing.1.3.js?body=1" for 127.0.0.1 at 2013-05-31 02:04:57 -0500
+Served asset /jquery.easing.1.3.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery-ui.js?body=1" for 127.0.0.1 at 2013-05-31 02:04:57 -0500
+Served asset /jquery-ui.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.imagesloaded.min.js?body=1" for 127.0.0.1 at 2013-05-31 02:04:57 -0500
+Served asset /jquery.imagesloaded.min.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.scrollTo.js?body=1" for 127.0.0.1 at 2013-05-31 02:04:57 -0500
+Served asset /jquery.scrollTo.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/video.js?body=1" for 127.0.0.1 at 2013-05-31 02:04:57 -0500
+Served asset /video.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.fitvids.js?body=1" for 127.0.0.1 at 2013-05-31 02:04:57 -0500
+Served asset /jquery.fitvids.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.mCustomScrollbar.min.js?body=1" for 127.0.0.1 at 2013-05-31 02:04:57 -0500
+Served asset /jquery.mCustomScrollbar.min.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.reveal.js?body=1" for 127.0.0.1 at 2013-05-31 02:04:57 -0500
+Served asset /jquery.reveal.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.hoverIntent.minified.js?body=1" for 127.0.0.1 at 2013-05-31 02:04:57 -0500
+Served asset /jquery.hoverIntent.minified.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bigvideo.js?body=1" for 127.0.0.1 at 2013-05-31 02:04:57 -0500
+Served asset /bigvideo.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2013-05-31 02:04:57 -0500
+Served asset /application.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/ui/topbar-dropdown-arrow.png" for 127.0.0.1 at 2013-05-31 02:04:57 -0500
+Served asset /ui/topbar-dropdown-arrow.png - 304 Not Modified (0ms)
+
+
+Started GET "/assets/ui/topbar-logo.png" for 127.0.0.1 at 2013-05-31 02:04:57 -0500
+Served asset /ui/topbar-logo.png - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bgs/ux.jpg" for 127.0.0.1 at 2013-05-31 02:04:57 -0500
+Served asset /bgs/ux.jpg - 404 Not Found (8ms)
+
+ActionController::RoutingError (No route matches [GET] "/assets/bgs/ux.jpg"):
+  actionpack (3.2.12) lib/action_dispatch/middleware/debug_exceptions.rb:21:in `call'
+  actionpack (3.2.12) lib/action_dispatch/middleware/show_exceptions.rb:56:in `call'
+  railties (3.2.12) lib/rails/rack/logger.rb:32:in `call_app'
+  railties (3.2.12) lib/rails/rack/logger.rb:16:in `block in call'
+  activesupport (3.2.12) lib/active_support/tagged_logging.rb:22:in `tagged'
+  railties (3.2.12) lib/rails/rack/logger.rb:16:in `call'
+  actionpack (3.2.12) lib/action_dispatch/middleware/request_id.rb:22:in `call'
+  rack (1.4.5) lib/rack/methodoverride.rb:21:in `call'
+  rack (1.4.5) lib/rack/runtime.rb:17:in `call'
+  activesupport (3.2.12) lib/active_support/cache/strategy/local_cache.rb:72:in `call'
+  rack (1.4.5) lib/rack/lock.rb:15:in `call'
+  actionpack (3.2.12) lib/action_dispatch/middleware/static.rb:62:in `call'
+  railties (3.2.12) lib/rails/engine.rb:479:in `call'
+  railties (3.2.12) lib/rails/application.rb:223:in `call'
+  rack (1.4.5) lib/rack/content_length.rb:14:in `call'
+  railties (3.2.12) lib/rails/rack/log_tailer.rb:17:in `call'
+  rack (1.4.5) lib/rack/handler/webrick.rb:59:in `service'
+  /Users/frangucc/.rvm/rubies/ruby-1.9.3-p286/lib/ruby/1.9.1/webrick/httpserver.rb:138:in `service'
+  /Users/frangucc/.rvm/rubies/ruby-1.9.3-p286/lib/ruby/1.9.1/webrick/httpserver.rb:94:in `run'
+  /Users/frangucc/.rvm/rubies/ruby-1.9.3-p286/lib/ruby/1.9.1/webrick/server.rb:191:in `block in start_thread'
+
+
+  Rendered /Users/frangucc/.rvm/gems/ruby-1.9.3-p286/gems/actionpack-3.2.12/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (0.9ms)
+
+
+Started GET "/assets/bgs/t7.jpg" for 127.0.0.1 at 2013-05-31 02:04:57 -0500
+Served asset /bgs/t7.jpg - 304 Not Modified (0ms)
+
+
+Started GET "/assets/ux/leadership2.jpg" for 127.0.0.1 at 2013-05-31 02:04:57 -0500
+Served asset /ux/leadership2.jpg - 304 Not Modified (0ms)
+
+
+Started GET "/assets/ux/strategy2.jpg" for 127.0.0.1 at 2013-05-31 02:04:57 -0500
+Served asset /ux/strategy2.jpg - 304 Not Modified (0ms)
+
+
+Started GET "/assets/ux/collaboration2.jpg" for 127.0.0.1 at 2013-05-31 02:04:57 -0500
+Served asset /ux/collaboration2.jpg - 304 Not Modified (0ms)
+
+
+Started GET "/assets/ux/priority.jpg" for 127.0.0.1 at 2013-05-31 02:04:57 -0500
+Served asset /ux/priority.jpg - 304 Not Modified (0ms)
+
+
+Started GET "/assets/ux/sellsimple_bike.jpg" for 127.0.0.1 at 2013-05-31 02:04:57 -0500
+Served asset /ux/sellsimple_bike.jpg - 304 Not Modified (0ms)
