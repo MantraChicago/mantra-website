@@ -1,0 +1,129 @@
+<div class="row fullwidth ux-container small-no-limit-top">
+    <div class="large-6 size-animation columns strethdown ovfh small-height-auto  ovfa ux-left">
+	<div class="ux-next h3">NEXT</div>
+	<div class="s-limit-top">
+	    <div class="backarrow vmiddle"></div>
+	    <div class="h4 inline vmiddle oxygen">GO BACK</div>
+	</div>
+
+	<!----------------------------------!-->
+
+	<div class="ux-slide-left active ">
+	    <div class="h1 gray-mark inline s-padding m-limit-top">Strategy</div>
+	    <div class="h2 georgia s-limit-top">Our strategy sessions identify goals and innovation opportunities - along with challenges and common pitfalls relevant to your category.</div>
+	    <p class="oxygen m-limit m-limit-top h4">A great experience requires a thoughtful strategy. We're here to help strategically organize ideas, thoughts and research. Utilize our HCI teams technical understanding of users and technology to create actionable gameplans for success.</p>
+
+	</div>
+
+	<div class="ux-slide-left ">
+	    <div class="h1 gray-mark inline s-padding m-limit-top">Ideas</div>
+	    <div class="h2 georgia s-limit-top">Great ideas and insights develop routinely in collaborative environments.</div>
+	    <p class="oxygen m-limit m-limit-top h4">When SellSimple decided to integrate with Facebook, Mantra supplied advanced knowledge of Facebooks most recent capabilities and opportunities. As a result, we envisioned and created a viral solution most would have never imagined.</p>
+	</div>
+
+	<div class="ux-slide-left ">
+	    <div class="h1 gray-mark inline s-padding m-limit-top">Leadership</div>
+	    <div class="h2 georgia s-limit-top">Our leadership helps early stage companies prepare for rapid acceleration and strategic prioritization.</div>
+	    <p class="oxygen m-limit m-limit-top h4">We're known for strategic advisory to early stage companies who trust our decisions. Mantra teams up with companies poised for disruption - often as interim executives, core team members and trusted advisors.</p>
+	</div>
+
+	<div class="ux-slide-left ">
+	    <div class="h1 gray-mark inline s-padding m-limit-top">Planning</div>
+	    <div class="h2 georgia s-limit-top">Careful planning and swift execution extends our clients runway.</div>
+	    <p class="oxygen m-limit m-limit-top h4">Our experience with complex greenfield development means we understand how best to prioritize for success and MVP development. Our ability to plan for short iteration cycles ensures our clients launch early while concentrating on features we intuitively know are essential.</p>
+	</div>
+	<div class="ux-slide-left ">
+	    <div class="h1 gray-mark inline s-padding m-limit-top">Immagination</div>
+	    <div class="h2 georgia s-limit-top">Founded by artists and creative technologists, Mantra is immagintive.</div>
+	    <p class="oxygen m-limit m-limit-top h4">We are an organization hired for our creative thinking and immagination. We're the company that comes back with real outside-the-box ideas, trained in the art of exploring what doesn't exhist yet.</p>
+	</div>
+
+    </div>
+
+
+
+    <div class="large-6 size-animation columns ux-right strethdown ovfh no-padding-left left">
+
+	<div class="ux-slide-right active ux-slider">
+	    <div class="img-slider-nav">
+		<div class="circle small white-bg inline"></div>
+		<div class="circle small white-bg inline"></div>
+		<div class="circle small white-bg inline"></div>		
+	    </div>
+	    <div class="absfill ux-slider-single" style="background-image: url(assets/bgs/t7.jpg);"></div>
+	    <div class="absfill ux-slider-single" style="background-image: url(assets/ux/leadership.jpg);"></div>
+	    <div class="absfill ux-slider-single" style="background-image: url(assets/ux/strategy2.jpg);"></div>
+	</div>
+
+	
+	<div class="ux-slide-right">
+	    <div class="absfill" style="background-image: url(assets/ux/collaboration2.jpg);"></div>	    
+	</div>		
+
+	<div class="ux-slide-right">
+	    <div class="absfill" style="background-image: url(assets/ux/leadership2.jpg);"></div>	    
+	</div>	
+	<div class="ux-slide-right">
+	    <div class="absfill" style="background-image: url(assets/ux/priority.jpg);"></div>	    
+	</div>		
+	<div class="ux-slide-right">
+	    <div class="absfill" style="background-image: url(assets/ux/sellsimple_bike.jpg);"></div>	    
+	</div>	
+
+    </div>
+</div>
+<style>
+    #rightbar {display: none !important;}
+</style>
+<script>
+    $(document).ready(function(){
+	$('.ux-slide-left.active').cascade();	
+	$('.ux-next').click(function(){	
+	
+	    var left = $('.ux-slide-left.active');
+	    var right = $('.ux-slide-right.active');
+
+	    if ( right.nextOrFirst().hasClass('slide-with-video') ) {
+		$('.ux-left').removeClass('large-6').addClass('large-4');
+		$('.ux-right').removeClass('large-6').addClass('large-8');
+    
+	    } else {
+		$('.ux-left').removeClass('large-4').addClass('large-6');
+		$('.ux-right').removeClass('large-8').addClass('large-6');    
+	    }
+	
+	    $('.ux-slide-left.last').removeClass('last')
+	    left.addClass('last').removeClass('active').nextOrFirst('.ux-slide-left').addClass('active');
+	
+	
+	    $('.ux-slide-right.last').removeClass('last')
+	    right.addClass('last').removeClass('active').nextOrFirst('.ux-slide-right').addClass('active');
+	
+	
+	    $('.ux-slide-left.active').cascade();	
+	    $('.ux-slide-right.active').delay(200).fadeSlideIn();
+	
+	    //$(window).resize();
+	    $('.ux-vid').vCenter();
+	
+	
+	
+	
+	});
+    
+	//keyboard support (left/right arrow nav)
+	$(document).keyup(function(e){			
+
+	    if(e.keyCode == 39 || e.keyCode == 40) {
+		$('.ux-next').trigger('click');
+	    }
+	});  
+	
+	
+	$('.ux-slider').sliding('circle','ux-slider-single');
+    
+    })    
+</script>
+
+
+
