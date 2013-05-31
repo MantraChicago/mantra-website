@@ -193,6 +193,11 @@ em {
     height: auto;
 }
 
+.go-back {
+    padding-top:4px;
+    font-size:12px !important;
+}
+
 #topbar nav ul li img {
     margin-left: 5px;
     margin-bottom: 3px;
@@ -481,7 +486,7 @@ h4,.h5 {
 
     width: 90%;
     opacity: 1;
-    padding:0 0 0 40px;
+    padding:0 0px 0 20px;
     
 }
 .ux-slide-right.active {
@@ -501,7 +506,7 @@ h4,.h5 {
     
 }
 .ux-slide-right {
-    background-color: #ddd;    
+    background-color: #000;    
     position: absolute;
     top: 0;
     left: 0;
