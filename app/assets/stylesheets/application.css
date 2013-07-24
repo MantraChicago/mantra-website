@@ -48,9 +48,6 @@ body {
 
     font-family: 'cabinbold';
     font-size: 10pt;
-    background: url(bgs/1.jpg) no-repeat center;
-    background-size: cover;
-    background-attachment: fixed;
     transition: background 0.5s linear;
 
 }
