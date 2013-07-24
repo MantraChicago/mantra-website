@@ -9,7 +9,7 @@
   <%= stylesheet_link_tag    "application", :media => "all" %>
   <%= javascript_include_tag "application" %>
   <%= yield :javascript_includes %>
-  
+
 
 </head>
 <body class="backgrounds" style="background-image: url(assets/bgs/<%= "#{@body_class}".strip %>.jpg);">
@@ -20,7 +20,7 @@
     
 <%= yield %>
 
-<!--<%= render "shared/rightbar" %> !-->
+
 
 
 <script>
