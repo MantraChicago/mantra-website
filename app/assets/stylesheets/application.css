@@ -755,6 +755,10 @@ table.menu tr td {
      padding: 20px;
      color: #fff;
  }
+
+ video {
+    min-width: 1100px;
+ }
  
  table.menu {
      width: 100%;
