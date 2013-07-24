@@ -129,8 +129,15 @@
 
 	<div class="row oxygen blimit">
 		<div class="large-6 columns">
-			<div class="video-large">
-				<img src="http://placehold.it/1920x1080" alt="" class="fullwidth">
+			<div class="video-large pos-rel">
+				<div class="vid-overlay play-video"></div>
+				<img src="http://placehold.it/1920x1080" alt="" class="fullwidth video-image pos-abs">
+				<div class="flex-video">
+					<iframe id="iframe" width="1280" height="720"
+src="http://www.youtube.com/embed/iy_lolGhjPE?rel=0&vq=hd720&color=white&autoplay=0&wmode=transparent&theme=light&showinfo=0&origin=http://www.belfastdigitalagency.com"
+frameborder="0" allowscriptaccess="always"
+allowfullscreen="true"></iframe>
+			</div>
 			</div>
 		</div>
 		<div class="large-6 columns">
@@ -172,6 +179,12 @@
 	</div>
 </section>
 
+
+
+
+
+
+
 <script>
 	$(function(){
 		var videoSource = new Array();
@@ -192,7 +205,22 @@
 				index = 0;
 			}
 			$('#headervideo').attr('src',videoSource[index]);
-       	}	    
+       	}
+
+
+
+       	$('.play-video').each(function(){
+       		var t = $(this);
+       		var video = $('iframe', t.parent());
+       		var src = video.eq(0).attr('src');
+       		
+       		src = src.replace('autoplay=0','autoplay=1');
+       		video.hide();
+       		t.click(function(){
+       			t.hide();
+       			video.show().attr('src',src);
+       		})
+       	})
 
 	})
 </script>

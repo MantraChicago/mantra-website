@@ -697,8 +697,8 @@ h4,.h5 {
 }
 
 .pinkoverlay {
-    background-color: #32022b;
-    opacity: 0.9;
+    background: url(ui/overlay.png) center no-repeat;
+    background-size: cover;    
     position: absolute;
     width: 100%;
     top: 0;
@@ -707,7 +707,7 @@ h4,.h5 {
 
 }
 .z-top {
-    z-index: 10000;
+    z-index: 150;
 }
 
 table.menu {
@@ -721,6 +721,16 @@ table.menu tr td {
 
     font-family: 'Oxygen', sans-serif;
 }
+.vid-overlay {
+    background: url(ui/video-play-overlay.png) center no-repeat;
+    background-size: cover;
+    position: absolute;
+    width: 100%;
+    top: 0;
+    bottom: 0; 
+    z-index: 100;
+}
+
 .big-shadow {
     background: url(ui/big-shadow.png) repeat-x top;
     position:fixed;
