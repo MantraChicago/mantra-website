@@ -223,6 +223,11 @@ em {
 .no-padding-left {
     padding-left: 0 !important;
 }
+
+.home-portfolio-single {
+    border-bottom: 2px solid #d3d3d3;
+}
+
 #bgfader, #bgfader2 {position:fixed;background-size:cover;width:100%;height:100%;left:0px;top:0px;z-index:-3;}
 #bgfader2 {z-index: -4;}
 .filldiv {position:fixed;background-size:cover;width:100%;height:100%;left:0px;top:0px;background-position: center;}
@@ -230,7 +235,6 @@ em {
 .blue-noise-bg {
     background: url(ui/blue-noise.gif);
     color: #fff; 
-
 }
 .big-line-height {
     line-height:78px;
