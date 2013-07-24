@@ -1,14 +1,21 @@
-<header style="background-image: url(assets/bgs/home_bg.jpg)" class="bg-cover bg-bottom">
-	<div class="row">	
+<header style="background-image: url(assets/bgs/home_bg.jpg)" class="bg-cover bg-bottom pos-rel ovh">
+	<div class="pinkoverlay"></div>
+	<video id="headervideo" autoplay class="fullwidth pos-abs " type="video/mp4">
+	</video>
+
+	<div class="row pos-rel z-top">	
 		<div class="xxl-margin-top xxl-margin-bottom">
 			
 			<div class="slimit">
 				<h1 class="inline-inline black-bg h0">#meetmantra</h1>
 			</div>
 			<div>
-				<h2 class="inline spadding slimit-top black-bg">all yoursource code are belong to us</h2>
-			</div>
-			
+				<h2 class="inline xs-margin-top black-bg">
+					<span class="cyan-text oxygen">
+						all yoursource code are belong to us
+					</span>
+				</h2>
+			</div>			
 			<div class="frame-cta m-limit-top inline">
 			    <div class="inline"><a href="/tour" class="whitelinks">TOUR</a></div>
 			    <div class="inline"><a href="/rfp" class="whitelinks">RFP</a></div>
@@ -164,3 +171,28 @@
 		</div>
 	</div>
 </section>
+
+<script>
+	$(function(){
+		var videoSource = new Array();
+
+		videoSource[0]='https://s3.amazonaws.com/mantralabs/videos/v1.mp4';
+		videoSource[1]='https://s3.amazonaws.com/mantralabs/videos/v2.mp4';
+		videoSource[2]='https://s3.amazonaws.com/mantralabs/videos/v3.mp4';		
+		videoSource[3]='https://s3.amazonaws.com/mantralabs/videos/v4.mp4';
+		var videoCount = videoSource.length;	    
+
+		
+		document.getElementById('headervideo').addEventListener('ended',myHandler,false);
+		var index = 1;
+		$('#headervideo').attr('src',videoSource[index]);
+		function myHandler() {
+			index++;
+			if (index > videoCount) {
+				index = 0;
+			}
+			$('#headervideo').attr('src',videoSource[index]);
+       	}	    
+
+	})
+</script>

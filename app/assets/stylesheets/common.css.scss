@@ -32,9 +32,7 @@ h5,.h5 {
   font-size: 9pt !important;
 
 }
-.font-bigger {
-	font-size: 140%;
-}
+
 
 p.bigline {
 	line-height: 1.5em;
@@ -198,6 +196,9 @@ p.bigline {
 }
 .cboth {
     clear:both;
+}
+.ovh {
+	overflow: hidden;
 }
 .no-margin {
     margin: 0 !important;
@@ -499,6 +500,9 @@ body > section {
  * SPACINGS - DONT CHANGE THOSE CLASSES
  */
 
+.xs-margin-bottom, .xs-margin-b {
+  margin-bottom: 5px;
+}
 .s-margin-bottom, .s-margin-b {
   margin-bottom: 10px;
 }
@@ -515,6 +519,9 @@ body > section {
   margin-bottom: 160px;
 }
 
+.xs-margin-top, .xs-margin-t {
+  margin-top: 5px;
+}
 .s-margin-top, .s-margin-t {
   margin-top: 10px;
 }
@@ -531,6 +538,9 @@ body > section {
   margin-top: 160px;
 }
 
+.xs-margin-left, .xs-margin-l {
+  margin-left: 5px;
+}
 .s-margin-left, .s-margin-l {
   margin-left: 10px;
 }
@@ -541,6 +551,9 @@ body > section {
   margin-left: 40px;
 }
 
+.xs-margin-right, .xs-margin-r {
+  margin-right: 5px;
+}
 .s-margin-right, .s-margin-r {
   margin-right: 10px;
 }

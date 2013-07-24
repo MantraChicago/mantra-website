@@ -696,6 +696,19 @@ h4,.h5 {
     border: 1px solid #fff;
 }
 
+.pinkoverlay {
+    background-color: #4f0e45;
+    opacity: 0.9;
+    position: absolute;
+    width: 100%;
+    top: 0;
+    bottom: 0;
+    z-index: 100;
+
+}
+.z-top {
+    z-index: 10000;
+}
 
 table.menu {
     width: 100%;
