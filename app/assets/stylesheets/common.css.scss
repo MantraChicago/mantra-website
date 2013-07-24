@@ -292,6 +292,9 @@ h5,.h5 {
 .oxygen, .oxygen * {
   font-family: 'Oxygen', sans-serif !important;
 }
+.serif, .serif * {
+	font-family: 'Arvo', serif;
+}
 
 .label {
     padding: 20px;
@@ -328,6 +331,9 @@ h5,.h5 {
 }
 .pos-fix {
   position: fixed;  
+}
+.v-middle {
+	vertical-align: middle;	
 }
 .bottom {
   bottom: 0;
