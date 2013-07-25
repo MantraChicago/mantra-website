@@ -20,7 +20,7 @@
 @font-face {
     font-family: 'cabinbold';
     src: url('cabin-bold-webfont.eot');
-    src: url('cabin-bold-webfont.eot?#iefix') format('embedded-opentype'),
+    src: url('cabin-bold-webfont.eot?#iefix') fromat('embedded-opentype'),
 	url('cabin-bold-webfont.woff') format('woff'),
 	url('cabin-bold-webfont.ttf') format('truetype'),
 	url('cabin-bold-webfont.svg#cabinbold') format('svg');
@@ -144,8 +144,9 @@ em {
     position: fixed;
     right: -290px;
     top: 0;
-    bottom: 0;
-    background-color: #1b1b1b;
+    bottom: 0;    
+    background: url(ui/twitter.png) #1b1b1b no-repeat 8px 10px;
+    
     color: #fff;
     width: 300px;
     z-index: 210;
@@ -154,6 +155,7 @@ em {
     }
     &:hover {
         right: 0;
+        background-image: none;
         & > * {
             opacity: 1;
         }
