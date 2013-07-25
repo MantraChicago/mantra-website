@@ -2,14 +2,14 @@
 $(document).ready(function(){
  		BV = new $.BigVideo({useFlashForFirefox:true});
 		BV.init();
-		BV.show('https://s3.amazonaws.com/mantralabs/videos/v1.mp4', {
+		BV.show('https://s3.amazonaws.com/mantralabs/videos/v1_color.mp4', {
 		    altSource:'vids/river.ogv'
 		});
 
         var body = $('body');
 	
 		var tour = function(i) {
-		    var url = '/assets/bgs/v' + i + '.jpg';
+		    var url = '/assets/bgs/v' + i + '_color.jpg';
 		    $.fadeBg(url,1000,'easeInOutExpo'); 
 		}
 	
@@ -40,7 +40,7 @@ $(document).ready(function(){
 	    fill.css('opacity',0).css('background-image','url(' + bgUrl + ')').stop().fadeSlideIn(null,null,function(){
 		body.css('background-image','url(' + bgUrl + ')');
 		
-		BV.show('https://s3.amazonaws.com/mantralabs/videos/v' + index + '.mp4', {
+		BV.show('https://s3.amazonaws.com/mantralabs/videos/v' + index + '_color.mp4', {
 		    altSource:'vids/river.ogv'
 		});
 		setTimeout(function(){window.blockTourSlide = false;},100);
