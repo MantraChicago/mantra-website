@@ -145,12 +145,16 @@ em {
     top: 0;
     bottom: 0;    
     background: url(ui/twitter.png) #1b1b1b no-repeat 8px 10px;
+    font-size:90%;
     
     color: #fff;
     width: 300px;
     z-index: 210;
     & > * {
         opacity: 0;
+    }
+    a {
+    color:#f7aded;
     }
     &:hover {
         right: 0;
@@ -376,6 +380,7 @@ em {
      overflow: hidden;
      max-height: 52px;
      cursor: pointer;
+     font-size:12px;
      
  }
  
