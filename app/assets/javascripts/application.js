@@ -206,14 +206,27 @@ function callPlayer(frame_id, func, args) {
 			$('#twitter-bar').addClass('active');
 			return false;
 		})
+
+		$('#twitter-close').click(function(){			
+		    $('#twitter-bar').removeClass('active');
+		});
+
 		$('#twitter-bar').mouseleave(function(){
 			$(this).removeClass('active');
 		}).click(function(e){
 			e.stopPropagation();
+		}).mouseenter(function(){
+			$(this).addClass('active');
 		});
 
 
 
+		$('.nav-logo').click(function(){
+			if ( !$('#smallmark').is(':visible') ) {
+				$('nav').toggleClass('active');
+				return false;
+			}
+		})
 
 
 		$('.strethdown,.ux-slide-right').strethDown(0);

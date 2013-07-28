@@ -160,7 +160,7 @@ em {
     a {
     color:#f7aded;
     }
-    &:hover, &.active {
+    &.active {
         right: 0;
         background-image: none;
         & > * {
@@ -912,4 +912,24 @@ table.menu tr td {
     .small-hide {
 	display: none !important;
     }
+    nav li {
+        display: block !important;
+        float: none !important;
+        text-align: center;
+        border-bottom: 1px solid rgb(235, 235, 235);
+        background: none;
+    }
+    nav {
+        .nav-single {
+            display: none !important;
+        }
+        &.active .nav-single {
+            display: block !important;
+        }
+    }
+    #twitter-bar {
+        right: -320px;
+        max-width: 80%;
+    }
+    
 }

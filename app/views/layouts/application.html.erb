@@ -15,11 +15,12 @@
 
 </head>
 <body class="backgrounds" style="background-image: url(assets/bgs/<%= "#{@body_class}".strip %>.jpg);">
+  <div id="smallmark" class="small-hide"></div>
    <!-- <div id="bgfader"></div>
     <div id="bgfader2"></div>
     !-->
 <%= render "shared/topbar" %>
-    
+  
 <%= yield %>
 
 
