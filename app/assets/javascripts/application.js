@@ -202,37 +202,52 @@ function callPlayer(frame_id, func, args) {
     
     $(document).ready(function(){
 
-	$('.strethdown,.ux-slide-right').strethDown(0);
-	$('.cascade-container').cascade();
-	$('#a-offerings').hoverIntent(function(){
-	    $('.offerings').stop().animate({
-		top:'52px'
-	    },400,'easeInOutExpo').addClass('opened');
-	},function(){
-	    $(this).stop().animate({
-		top:'-100%'
-	    },1400,'easeInOutExpo').removeClass('opened');
-	});
+		$('#twitterhash').click(function(){
+			$('#twitter-bar').addClass('active');
+			return false;
+		})
+		$('#twitter-bar').mouseleave(function(){
+			$(this).removeClass('active');
+		}).click(function(e){
+			e.stopPropagation();
+		});
 
-	$('.offerings').mouseleave(function(){
-	    $(this).stop().animate({
-		top:'-100%'
-	    },400,'easeInOutExpo').removeClass('opened');
-	});
-	$('body').click(function(){
-	    $('.offerings,#a-offerings').trigger('mouseleave');
-	})
-	$('.offerings,#a-offerings').click(function(e){
-	    e.stopPropagation();
-	})
-	
-	$('.embed-vid').fitVids();
-	$.keepRatio({
-	    'ux-vid' : 16/10
-	});
-	$('iframe').each(function(i){
-	    $(this).attr('id','yt'+i);
-	})
+
+
+
+
+		$('.strethdown,.ux-slide-right').strethDown(0);
+		$('.cascade-container').cascade();
+		$('#a-offerings').hoverIntent(function(){
+		    $('.offerings').stop().animate({
+			top:'52px'
+		    },400,'easeInOutExpo').addClass('opened');
+		},function(){
+		    $(this).stop().animate({
+			top:'-100%'
+		    },1400,'easeInOutExpo').removeClass('opened');
+		});
+
+		$('.offerings').mouseleave(function(){
+		    $(this).stop().animate({
+			top:'-100%'
+		    },400,'easeInOutExpo').removeClass('opened');
+		});
+		$('body').click(function(){
+		    $('.offerings,#a-offerings').trigger('mouseleave');
+		    $('#twitter-bar').removeClass('active');
+		})
+		$('.offerings,#a-offerings').click(function(e){
+		    e.stopPropagation();
+		})
+		
+		$('.embed-vid').fitVids();
+		$.keepRatio({
+		    'ux-vid' : 16/10
+		});
+		$('iframe').each(function(i){
+		    $(this).attr('id','yt'+i);
+		})
 
 
 	

@@ -47,7 +47,7 @@
 
 body {
 
-    font-family: 'cabinbold','oxygen',Arial;    
+    font-family: 'Cabin','oxygen',Arial;    
     transition: background 0.5s linear;
 
 }
@@ -122,6 +122,7 @@ em {
     overflow: hidden;
     max-height: 52px;
     cursor: pointer;
+    font-weight: 700;
 
 }
 
@@ -137,6 +138,9 @@ em {
     background-size: cover;
     box-shadow: 0 0 10px black;
     color: #5e5e60;
+    h3 {
+        font-weight: bold;
+    }
 }
 
 #twitter-bar {
@@ -156,7 +160,7 @@ em {
     a {
     color:#f7aded;
     }
-    &:hover {
+    &:hover, &.active {
         right: 0;
         background-image: none;
         & > * {
@@ -589,6 +593,9 @@ h4,.h5 {
     background: none !important;
     height: 420px;
     color: #fff;
+    h1 {
+        font-weight: bold;
+    }
 }
 .fluid-width-video-wrapper {
     padding-top: 100% !important;
