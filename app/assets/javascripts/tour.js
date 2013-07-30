@@ -1,11 +1,12 @@
 
 $(document).ready(function(){
- 		BV = new $.BigVideo({useFlashForFirefox:true});
-		BV.init();
-		BV.show('https://s3.amazonaws.com/mantralabs/videos/v1_color.mp4', {
-		    altSource:'vids/river.ogv'
-		});
-
+		if ($('.hide-for-touch').length && $('.hide-for-touch').is(':visible')) {			
+			BV = new $.BigVideo({useFlashForFirefox:true});
+			BV.init();
+			BV.show('https://s3.amazonaws.com/mantralabs/videos/v1_color.mp4', {
+			    altSource:'vids/river.ogv'
+			});
+		}
         var body = $('body');
 	
 		var tour = function(i) {
@@ -39,10 +40,11 @@ $(document).ready(function(){
 	    //body.css('background-image','url(' + bgUrl + ')');
 	    fill.css('opacity',0).css('background-image','url(' + bgUrl + ')').stop().fadeSlideIn(null,null,function(){
 		body.css('background-image','url(' + bgUrl + ')');
-		
-		BV.show('https://s3.amazonaws.com/mantralabs/videos/v' + index + '_color.mp4', {
-		    altSource:'vids/river.ogv'
-		});
+		if ($('.hide-for-touch').length && $('.hide-for-touch').is(':visible')) {			
+			BV.show('https://s3.amazonaws.com/mantralabs/videos/v' + index + '_color.mp4', {
+			    altSource:'vids/river.ogv'
+			});
+		}
 		setTimeout(function(){window.blockTourSlide = false;},100);
 		window.slideTO = setTimeout(function(){
 		    fill.stop().delay(500).animate({'opacity':0},300,null,function(){
