@@ -201,6 +201,7 @@ function callPlayer(frame_id, func, args) {
     
     
     $(document).ready(function(){
+		$('.hide-for-touch:hidden').remove();
 
 		$('#twitterhash').click(function(){
 			$('#twitter-bar').addClass('active');
