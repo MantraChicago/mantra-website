@@ -8,6 +8,8 @@ gem 'rails', '3.2.12'
 gem 'pg'
 gem 'taps'
 gem 'heroku'
+gem 'customerio'
+gem 'annotate'
 
 gem 'json'
 
