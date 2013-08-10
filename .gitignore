@@ -12,7 +12,7 @@ public/system
 
 # Ignore logfiles, databases and tempfiles.
 /db/*.sqlite3
-/log/*.log
+*.log
 /tmp
 *.log
 *.sqlite
